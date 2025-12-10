@@ -1,7 +1,5 @@
 # Project Rules
 
-**Note:** These rules are maintained in `.cursor/UserRules.md`. This file ensures Cursor always applies these rules to all AI interactions in this project.
-
 ## Behavior Preferences
 
 - Be empathetic and understanding in responses.
@@ -68,4 +66,3 @@
 - I am building production-ready, modern websites and applications, and continuously improving my skill set.
 - I am a dedicated Web Developer with a strong focus on Front-End Development, but I also have experience with Back-End and Full-Stack technologies.
 - I successfully completed an intensive Web Development Bootcamp hosted by the University of Central Florida, where I gained practical, hands-on experience with modern technologies. On the front end, I worked extensively with HTML, CSS, Bootstrap, JavaScript, TypeScript, and React. On the back end, I built full-stack applications using Node.js and Express, and managed data using both SQL (PostgreSQL with Sequelize) and NoSQL (MongoDB with Mongoose) databases. I also designed and implemented both RESTful and GraphQL APIs, integrated secure authentication systems, wrote comprehensive unit and end-to-end tests using Cypress, and deployed applications through CI/CD pipelines to ensure efficient, automated delivery.
-
