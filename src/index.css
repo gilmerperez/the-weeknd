@@ -6,24 +6,24 @@
 
 /* Dark theme */
 html[data-theme="dark"] {
-  --primary: hsl(0, 0%, 0%);
-  --primary-dark: hsl(0, 0%, 0%);
-  --bg-color: hsl(0, 0%, 0%);
-  --text-primary: hsl(0, 0%, 0%);
-  --text-secondary: hsl(0, 0%, 0%);
-  --header-bg-color: hsl(0, 0%, 0%);
-  --footer-bg-color: hsl(0, 0%, 0%);
+  --primary: hsl(0, 0%, 100%);
+  --primary-dark: hsl(0, 0%, 90%);
+  --bg-color: hsl(0, 0%, 1%);
+  --text-primary: hsl(0, 0%, 90%);
+  --text-secondary: hsl(0, 0%, 80%);
+  --header-bg-color: hsl(0, 0%, 1%);
+  --footer-bg-color: hsl(0, 0%, 1%);
 }
 
 /* Light theme */
 html[data-theme="light"] {
-  --primary: hsl(0, 0%, 100%);
-  --primary-dark: hsl(0, 0%, 100%);
-  --bg-color: hsl(0, 0%, 100%);
-  --text-primary: hsl(0, 0%, 100%);
-  --text-secondary: hsl(0, 0%, 100%);
-  --header-bg-color: hsl(0, 0%, 100%);
-  --footer-bg-color: hsl(0, 0%, 100%);
+  --primary: hsl(0, 0%, 0%);
+  --primary-dark: hsl(0, 0%, 10%);
+  --bg-color: hsl(0, 0%, 95%);
+  --text-primary: hsl(0, 0%, 0%);
+  --text-secondary: hsl(0, 0%, 10%);
+  --header-bg-color: hsl(0, 0%, 95%);
+  --footer-bg-color: hsl(0, 0%, 95%);
 }
 
 /* Universal reset - Applies to all elements and pseudo-elements */
