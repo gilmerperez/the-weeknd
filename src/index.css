@@ -1,0 +1,155 @@
+/* Google font */
+@import url("");
+
+/* Light theme */
+html[data-theme="light"] {
+  --primary: hsl(0, 0%, 100%);
+  --primary-dark: hsl(0, 0%, 100%);
+  --bg-color: hsl(0, 0%, 100%);
+  --text-primary: hsl(0, 0%, 100%);
+  --text-secondary: hsl(0, 0%, 100%);
+  --header-bg-color: hsl(0, 0%, 100%);
+  --footer-bg-color: hsl(0, 0%, 100%);
+}
+
+/* Dark theme */
+html[data-theme="dark"] {
+  --primary: hsl(0, 0%, 0%);
+  --primary-dark: hsl(0, 0%, 100%);
+  --bg-color: hsl(0, 0%, 0%);
+  --text-primary: hsl(0, 0%, 0%);
+  --text-secondary: hsl(0, 0%, 0%);
+  --header-bg-color: hsl(0, 0%, 0%);
+  --footer-bg-color: hsl(0, 0%, 0%);
+}
+
+/* Universal reset - Applies to all elements and pseudo-elements */
+*,
+*::before,
+*::after {
+  margin: 0; /* Remove default spacing */
+  padding: 0; /* Remove default spacing */
+  box-sizing: border-box; /* Includes padding & border in width and height */
+}
+
+/* Root element - Affects the entire page's scroll behavior and base size */
+html {
+  height: 100%; /* Needed for percentage-based child heights */
+  font-size: 16px; /* Base size 1rem = 16px */
+  box-sizing: border-box; /* Includes padding & border in width and height */
+  scroll-behavior: smooth; /* Enables smooth scroll when using anchor links */
+  -webkit-text-size-adjust: 100%; /* Prevents font size changes on iOS */
+  text-rendering: optimizeLegibility; /* Improves legibility of text */
+}
+
+/* Body - Base font family, and layout behavior */
+body {
+  display: flex; /* Enables flexbox layout */
+  min-height: 100vh; /* Ensures body fills at least full screen */
+  overflow-x: hidden; /* Prevents horizontal scroll */
+  flex-direction: column; /* Stacks header, main, and footer vertically */
+  color: var(--text-primary); /* Sets a default text color */
+  font-family: Arial, sans-serif; /* Modern system font stack */
+  background-color: var(--bg-color); /* Sets a default background color */
+  -moz-osx-font-smoothing: grayscale; /* Better font rendering on macOS Firefox */
+  -webkit-font-smoothing: antialiased; /* Better font rendering on WebKit browsers */
+}
+
+/* Main - Base layout for page content */
+main {
+  width: 100%; /* Ensures content stretches to full container width */
+  padding: 2rem; /* Adds breathing room around main content */
+  transition: 0.3s ease; /* Smooth transition for main */
+  background-color: var(--bg-color); /* Matches the background of header/footer for visual cohesion */
+}
+
+/* Horizontal rule */
+hr {
+  border: none; /* Removes default border */
+}
+
+/* Paragraphs */
+p {
+  color: var(--text-secondary); /* Sets text color to secondary text color */
+}
+
+/* Links - Resetting default styles and hover behavior */
+a {
+  color: inherit; /* Makes link color match surrounding text */
+  text-decoration: none; /* Removes underline */
+}
+
+/* Buttons - Ensures buttons appear clickable */
+button {
+  color: inherit; /* Makes button color match surrounding text */
+  cursor: pointer; /* Shows pointer on hover to indicate clickability */
+  background-color: inherit; /* Makes button background color match surrounding text */
+}
+
+/* Lists - Removes default bullet styles */
+ul,
+ol {
+  list-style: none; /* Removes default bullet points from unordered and ordered lists */
+}
+
+/* Form elements - Normalize font and remove default borders */
+input,
+select,
+button,
+textarea {
+  border: none; /* Removes default borders */
+  font: inherit; /* Inherits font from parent */
+  outline: none; /* Removes blue outline */
+}
+
+/* Media elements - Ensures media doesn’t overflow and stays responsive */
+svg,
+img,
+video,
+canvas,
+picture {
+  height: auto; /* Maintains correct aspect ratio */
+  display: block; /* Removes inline spacing below images */
+  max-width: 100%; /* Keeps media from overflowing their containers */
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1; /* Sets line height to 1 */
+  font-weight: 700; /* Sets font weight to 700 */
+  font-family: Arial, sans-serif; /* Sets font family to Arial, sans-serif */
+}
+
+/* Scrollbar */
+body::-webkit-scrollbar {
+  width: 5px; /* Sets width of scrollbar to 5px */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--primary); /* Sets background color of scrollbar thumb to primary color */
+}
+
+/* Highlighted text */
+::selection {
+  color: var(--text-primary); /* Sets text color to primary text color */
+  background: var(--primary); /* Sets background color to primary color */
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+  main {
+    padding: 1.75rem;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  main {
+    padding: 1.5rem;
+  }
+}

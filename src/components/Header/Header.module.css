@@ -1,0 +1,29 @@
+header {
+  width: 100%;
+  padding: 1.5rem 2rem;
+  transition: 0.3s ease;
+  background-color: var(--header-bg-color);
+}
+
+.headerContainer {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  max-width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+  header {
+    padding: 1.25rem 1.75rem;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  header {
+    padding: 1rem 1.5rem;
+  }
+}
