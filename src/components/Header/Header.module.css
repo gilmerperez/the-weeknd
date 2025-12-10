@@ -1,6 +1,10 @@
+* {
+  /* border: 1px solid red; */
+}
+
 header {
   width: 100%;
-  padding: 1.5rem 2rem;
+  padding: 1.25rem;
   transition: 0.3s ease;
   background-color: var(--header-bg-color);
 }
@@ -9,21 +13,96 @@ header {
   width: 100%;
   display: flex;
   margin: 0 auto;
-  max-width: 1200px;
   align-items: center;
   justify-content: space-between;
+}
+
+/* Left side navigation */
+.navLeft {
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+/* Dropdown menu */
+.dropdown {
+  position: relative;
+}
+
+.dropdownMenu {
+  left: 0;
+  top: 100%;
+  z-index: 1000;
+  min-width: 300px;
+  margin-top: 1rem;
+  position: absolute;
+}
+
+.navLink {
+  display: flex;
+  font-size: 1rem;
+  align-items: center;
+  color: var(--primary);
+  transition: 0.3s ease;
+}
+
+.navLink:hover {
+  color: var(--primary-dark);
+}
+
+/* Right side icons */
+.navRight {
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.iconButton {
+  display: flex;
+  align-items: center;
+  color: var(--primary);
+  transition: 0.3s ease;
+  justify-content: center;
+}
+
+.iconButton:hover {
+  color: var(--primary-dark);
+}
+
+.iconButton svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  stroke-width: 1.5;
+  transition: 0.3s ease;
 }
 
 /* Tablet responsiveness */
 @media (max-width: 768px) {
   header {
-    padding: 1.25rem 1.75rem;
+    padding: 1rem;
+  }
+
+  .navLeft {
+    gap: 1rem;
+  }
+
+  .dropdownMenu {
+    margin-top: 0.75rem;
+  }
+
+  .navLink {
+    font-size: 0.875rem;
+  }
+
+  .navRight {
+    gap: 1rem;
+  }
+
+  .iconButton svg {
+    width: 1.25rem;
+    height: 1.25rem;
   }
 }
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {
-  header {
-    padding: 1rem 1.5rem;
-  }
-}
+@media (max-width: 575px) {}
