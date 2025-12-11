@@ -1,7 +1,7 @@
-import { Link } from "react-router-dom";
-import { createPortal } from "react-dom";
 import styles from "./Header.module.css";
+import { createPortal } from "react-dom";
 import { useState, useEffect } from "react";
+import { useLocation, Link } from "react-router-dom";
 import {
   HiOutlineMail,
   HiOutlineSearch,
@@ -14,6 +14,10 @@ import {
 } from "react-icons/hi";
 
 function Header() {
+  // * Get current location
+  const location = useLocation();
+  const isHomePage = location.pathname === "/";
+
   // * Collections dropdown state
   const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
   const [isMobileCollectionsOpen, setIsMobileCollectionsOpen] = useState(false);
@@ -76,6 +80,12 @@ function Header() {
         <div className={styles.headerContainer}>
           {/* Left side - navigation */}
           <nav className={styles.navLeft}>
+            {/* Home - only show when not on home page */}
+            {!isHomePage && (
+              <Link to="/" className={styles.navLink}>
+                HOME
+              </Link>
+            )}
             {/* Collections */}
             <div
               className={styles.dropdown}
@@ -166,6 +176,12 @@ function Header() {
               </button>
               {/* Sidebar navigation */}
               <nav className={styles.sidebarNav}>
+                {/* Home - only show when not on home page */}
+                {!isHomePage && (
+                  <Link to="/" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                    HOME
+                  </Link>
+                )}
                 {/* Collections */}
                 <div className={styles.sidebarDropdown}>
                   <button
