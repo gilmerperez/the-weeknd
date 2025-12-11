@@ -4,13 +4,13 @@ import styles from "./PrivacyPolicy.module.css";
 function PrivacyPolicy() {
   // * Set page title
   useEffect(() => {
-    document.title = "React Template | Privacy Policy";
+    document.title = "The Weeknd | Privacy Policy";
   }, []);
 
   return (
     <>
       <main>
-        <div className={styles.privacyPolicyContainer}>Privacy Policy</div>
+        <div className={styles.privacyPolicyContainer}>PRIVACY POLICY</div>
       </main>
     </>
   );

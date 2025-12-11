@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { createPortal } from "react-dom";
 import styles from "./Header.module.css";
 import { useState, useEffect } from "react";
@@ -100,34 +101,34 @@ function Header() {
               )}
             </div>
             {/* Clothing */}
-            <a href="#" className={styles.navLink}>
+            <Link to="/clothing" className={styles.navLink}>
               CLOTHING
-            </a>
+            </Link>
             {/* Music */}
-            <a href="#" className={styles.navLink}>
+            <Link to="/music" className={styles.navLink}>
               MUSIC
-            </a>
+            </Link>
             {/* Tour */}
-            <a href="#" className={styles.navLink}>
+            <Link to="/tour" className={styles.navLink}>
               TOUR
-            </a>
+            </Link>
             {/* Film */}
-            <a href="#" className={styles.navLink}>
+            <Link to="/film" className={styles.navLink}>
               FILM
-            </a>
+            </Link>
           </nav>
           {/* Mobile hamburger menu button */}
           <button
             aria-expanded={menuOpen}
             className={styles.hamburger}
-            aria-label="Open navigation menu"
+            aria-label="Open Navigation Menu"
             onClick={() => setMenuOpen(true)}
           >
             <HiOutlineMenu />
           </button>
           {/* Right side - icons */}
           <div className={styles.navRight}>
-            <button className={styles.iconButton} aria-label="Email">
+            <button className={styles.iconButton} aria-label="Newsletter">
               <HiOutlineMail />
             </button>
             <button className={styles.iconButton} aria-label="Search">
@@ -150,7 +151,7 @@ function Header() {
           <div
             role="dialog"
             aria-modal="true"
-            aria-label="Navigation menu"
+            aria-label="Navigation Menu"
             className={styles.sidebarOverlay}
             onClick={() => setMenuOpen(false)}
           >
@@ -158,7 +159,7 @@ function Header() {
               {/* Sidebar close button */}
               <button
                 className={styles.sidebarClose}
-                aria-label="Close navigation menu"
+                aria-label="Close Navigation Menu"
                 onClick={() => setMenuOpen(false)}
               >
                 <HiOutlineX />
@@ -191,35 +192,35 @@ function Header() {
                   )}
                 </div>
                 {/* Clothing */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/clothing" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   CLOTHING
-                </a>
+                </Link>
                 {/* Music */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/music" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   MUSIC
-                </a>
+                </Link>
                 {/* Tour */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/tour" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   TOUR
-                </a>
+                </Link>
                 {/* Film */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/film" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   FILM
-                </a>
+                </Link>
                 {/* Separator */}
                 <hr className={styles.sidebarSeparator} />
-                {/* Newsletter */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  GET UPDATES
-                </a>
                 {/* Login */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/login" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   LOGIN
-                </a>
+                </Link>
                 {/* Sign up */}
-                <a href="#" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/signup" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   SIGN UP
-                </a>
+                </Link>
+                {/* Newsletter */}
+                <Link to="/newsletter" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                  GET UPDATES
+                </Link>
               </nav>
               {/* Sidebar footer - theme toggle */}
               <div className={styles.sidebarFooter}>

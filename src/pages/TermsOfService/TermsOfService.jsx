@@ -4,13 +4,13 @@ import styles from "./TermsOfService.module.css";
 function TermsOfService() {
   // * Set page title
   useEffect(() => {
-    document.title = "React Template | Terms of Service";
+    document.title = "The Weeknd | Terms of Service";
   }, []);
 
   return (
     <>
       <main>
-        <div className={styles.termsOfServiceContainer}>Terms of Service</div>
+        <div className={styles.termsOfServiceContainer}>TERMS OF SERVICE</div>
       </main>
     </>
   );

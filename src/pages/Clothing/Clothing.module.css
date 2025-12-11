@@ -1,4 +1,4 @@
-.aboutContainer {
+.clothingContainer {
   width: 100%;
   display: flex;
   margin: 0 auto;
@@ -10,7 +10,9 @@
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+}

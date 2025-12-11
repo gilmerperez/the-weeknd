@@ -4,7 +4,7 @@ function Footer() {
   return (
     <>
       <footer>
-        <div className={styles.footerContainer}>Footer</div>
+        <div className={styles.footerContainer}>FOOTER</div>
       </footer>
     </>
   );

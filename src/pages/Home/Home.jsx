@@ -4,13 +4,13 @@ import styles from "./Home.module.css";
 function Home() {
   // * Set page title
   useEffect(() => {
-    document.title = "React Template | Home";
+    document.title = "The Weeknd | Home";
   }, []);
 
   return (
     <>
       <main>
-        <div className={styles.homeContainer}>Home</div>
+        <div className={styles.homeContainer}>HOME</div>
       </main>
     </>
   );
