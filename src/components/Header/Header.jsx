@@ -123,9 +123,14 @@ function Header() {
               TOUR
             </Link>
             {/* Film */}
-            <Link to="/film" className={styles.navLink}>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.navLink}
+              href="https://www.lionsgate.com/movies/hurry-up-tomorrow"
+            >
               FILM
-            </Link>
+            </a>
           </nav>
           {/* Mobile hamburger menu button */}
           <button
@@ -220,9 +225,15 @@ function Header() {
                   TOUR
                 </Link>
                 {/* Film */}
-                <Link to="/film" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.sidebarNavLink}
+                  onClick={() => setMenuOpen(false)}
+                  href="https://www.lionsgate.com/movies/hurry-up-tomorrow"
+                >
                   FILM
-                </Link>
+                </a>
                 {/* Separator */}
                 <hr className={styles.sidebarSeparator} />
                 {/* Login */}
