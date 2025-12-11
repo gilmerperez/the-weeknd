@@ -127,7 +127,7 @@ header {
 }
 
 /* Mobile responsiveness */
-@media (max-width: 585px) {
+@media (max-width: 645px) {
   header {
     padding: 1rem 1.5rem;
   }
