@@ -25,6 +25,38 @@
 - When fixing bugs or adding features, prefer existing patterns or technologies. Only introduce new ones after exploring current options. If new code is adopted, remove the old implementation to prevent duplication.
 - When adding or removing code, include code comments that explain how the added code works. Comments should be detailed enough for you and other developers to understand the code's purpose and functionality, but not overly complicated.
 
+## Accessibility and SEO Standards
+
+### Accessibility
+
+- Always use semantic HTML elements (`<nav>`, `<main>`, `<article>`, `<section>`, `<header>`, `<footer>`, `<button>`, etc.) instead of generic `<div>` elements when semantically appropriate.
+- Provide descriptive `aria-label` attributes for all interactive elements that lack visible text labels (icons, buttons, links with only icons).
+- Use `aria-label`, `aria-labelledby`, or `aria-describedby` to provide context for screen readers when needed.
+- Ensure all images have descriptive `alt` attributes. Use empty `alt=""` only for decorative images that convey no information.
+- Implement proper heading hierarchy (`h1` → `h2` → `h3`, etc.) without skipping levels.
+- Ensure all interactive elements are keyboard accessible and have visible focus indicators.
+- Use `aria-expanded`, `aria-hidden`, `aria-current`, and other ARIA attributes appropriately to communicate dynamic state changes to assistive technologies.
+- Ensure color contrast meets WCAG AA standards (minimum 4.5:1 for normal text, 3:1 for large text).
+- Provide skip navigation links for keyboard users to bypass repetitive content.
+- Use `role` attributes only when necessary and when semantic HTML cannot convey the intended meaning.
+- Ensure form inputs have associated `<label>` elements or use `aria-label`/`aria-labelledby` for proper labeling.
+- Test keyboard navigation to ensure all functionality is accessible without a mouse.
+
+### SEO (Search Engine Optimization)
+
+- Use semantic HTML structure to help search engines understand content hierarchy and meaning.
+- Ensure all pages have unique, descriptive `<title>` tags that accurately reflect page content.
+- Include appropriate `<meta name="description">` tags with concise, compelling descriptions for each page.
+- Use descriptive, keyword-rich URLs that reflect page content and structure.
+- Implement proper heading hierarchy to establish content structure and importance.
+- Provide descriptive `alt` text for images to improve image search visibility and accessibility.
+- Use structured data (JSON-LD, Microdata, or RDFa) when appropriate to help search engines understand content.
+- Ensure all links use descriptive anchor text that clearly indicates the destination.
+- Implement canonical URLs to prevent duplicate content issues.
+- Ensure the site is mobile-responsive, as mobile-friendliness is a ranking factor.
+- Optimize page load times and performance, as site speed affects search rankings.
+- Use proper HTML5 semantic elements to improve content discoverability.
+
 ## Technical Stack
 
 - **Backend:** Use JavaScript with Node.js for server-side logic, and Express.js for routing and API endpoints. Manage project dependencies with Node Package Manager (NPM).
