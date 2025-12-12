@@ -21,7 +21,6 @@ footer {
   gap: 1rem;
   display: flex;
   align-items: center;
-  transition: 0.3s ease;
   justify-content: center;
 }
 
@@ -29,7 +28,6 @@ footer {
   display: flex;
   font-size: 1.5rem;
   align-items: center;
-  transition: 0.3s ease;
   justify-content: center;
 }
 
@@ -43,12 +41,12 @@ footer {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  transition: 0.3s ease;
   justify-content: center;
 }
 
 .navLink {
   font-size: 0.875rem;
-  transition: 0.3s ease;
 }
 
 .navLink:hover {

@@ -88,6 +88,7 @@ function Footer() {
             </Link>
             <span>|</span>
             <button className={styles.navLink}>COOKIE CHOICES</button>
+            <span>|</span>
             <Link to="/help-and-support" className={styles.navLink}>
               HELP & SUPPORT
             </Link>
