@@ -137,12 +137,6 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--primary);
 }
 
-/* Highlighted text */
-::selection {
-  color: var(--text-primary);
-  background: var(--primary);
-}
-
 /* Tablet responsiveness */
 @media (max-width: 768px) {
   main {
