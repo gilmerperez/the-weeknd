@@ -3,18 +3,18 @@ import { createPortal } from "react-dom";
 import { useState, useEffect } from "react";
 import { useLocation, Link } from "react-router-dom";
 import {
+  HiOutlineMenu,
   HiOutlineMail,
   HiOutlineSearch,
   HiOutlineUser,
   HiOutlineShoppingCart,
-  HiOutlineMenu,
   HiOutlineX,
   HiOutlineSun,
   HiOutlineMoon,
 } from "react-icons/hi";
 
 function Header() {
-  // * Get current location
+  // * Get current location to determine if on home page
   const location = useLocation();
   const isHomePage = location.pathname === "/";
 

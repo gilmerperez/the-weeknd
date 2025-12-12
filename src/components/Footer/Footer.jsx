@@ -50,6 +50,7 @@ function Footer() {
         <div className={styles.footerContainer}>
           {/* Social media icons */}
           <section className={styles.socialIcons}>
+            {/* Facebook */}
             <a
               target="_blank"
               aria-label="Facebook"
@@ -59,6 +60,7 @@ function Footer() {
             >
               <FaFacebook />
             </a>
+            {/* X (Twitter) */}
             <a
               target="_blank"
               aria-label="X (Twitter)"
@@ -68,6 +70,7 @@ function Footer() {
             >
               <FaXTwitter />
             </a>
+            {/* Instagram */}
             <a
               target="_blank"
               aria-label="Instagram"
@@ -77,6 +80,7 @@ function Footer() {
             >
               <FaInstagram />
             </a>
+            {/* YouTube */}
             <a
               target="_blank"
               aria-label="YouTube"
@@ -86,6 +90,7 @@ function Footer() {
             >
               <FaYoutube />
             </a>
+            {/* Apple Music */}
             <a
               target="_blank"
               aria-label="Apple Music"
@@ -95,6 +100,7 @@ function Footer() {
             >
               <SiApple />
             </a>
+            {/* Spotify */}
             <a
               target="_blank"
               aria-label="Spotify"
@@ -104,6 +110,7 @@ function Footer() {
             >
               <SiSpotify />
             </a>
+            {/* SoundCloud */}
             <a
               target="_blank"
               aria-label="SoundCloud"
@@ -113,6 +120,7 @@ function Footer() {
             >
               <SiSoundcloud />
             </a>
+            {/* Theme toggle button */}
             <button
               onClick={toggleTheme}
               className={styles.themeToggle}
