@@ -1,10 +1,49 @@
 import { Link } from "react-router-dom";
 import styles from "./Footer.module.css";
+import { useState, useEffect } from "react";
 import { FaXTwitter } from "react-icons/fa6";
+import { HiOutlineSun, HiOutlineMoon } from "react-icons/hi";
 import { SiApple, SiSpotify, SiSoundcloud } from "react-icons/si";
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
 function Footer() {
+  // * Theme state
+  const getInitialTheme = () => {
+    const storedTheme = localStorage.getItem("theme");
+    if (storedTheme) return storedTheme;
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    return prefersDark ? "dark" : "light";
+  };
+
+  const [theme, setTheme] = useState(() => {
+    const initialTheme = getInitialTheme();
+    document.documentElement.setAttribute("data-theme", initialTheme);
+    return initialTheme;
+  });
+
+  // Save theme to localStorage and update DOM
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+    localStorage.setItem("theme", theme);
+  }, [theme]);
+
+  // Listen for system theme changes
+  useEffect(() => {
+    const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+    const handleChange = (e) => {
+      if (!localStorage.getItem("theme")) {
+        setTheme(e.matches ? "dark" : "light");
+      }
+    };
+    mediaQuery.addEventListener("change", handleChange);
+    return () => mediaQuery.removeEventListener("change", handleChange);
+  }, []);
+
+  // Toggle theme handler
+  const toggleTheme = () => {
+    setTheme((prev) => (prev === "dark" ? "light" : "dark"));
+  };
+
   return (
     <>
       <footer>
@@ -74,29 +113,35 @@ function Footer() {
             >
               <SiSoundcloud />
             </a>
+            <button
+              onClick={toggleTheme}
+              className={styles.themeToggle}
+              aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+            >
+              {theme === "dark" ? <HiOutlineSun /> : <HiOutlineMoon />}
+            </button>
           </section>
 
           {/* Navigation links */}
           <nav className={styles.navLinks}>
-            <span>|</span>
-            <Link to="/terms-of-service" className={styles.navLink}>
+            {/* Terms */}
+            <Link to="/terms-of-sale" className={styles.navLink}>
               TERMS
             </Link>
-            <span>|</span>
+            {/* Privacy */}
             <Link to="/privacy-policy" className={styles.navLink}>
               PRIVACY
             </Link>
-            <span>|</span>
+            {/* Cookie choices */}
             <button className={styles.navLink}>COOKIE CHOICES</button>
-            <span>|</span>
-            <Link to="/help-and-support" className={styles.navLink}>
-              HELP & SUPPORT
+            {/* Help and support */}
+            <Link to="/help" className={styles.navLink}>
+              HELP AND SUPPORT
             </Link>
-            <span>|</span>
-            <Link to="/personal-information" className={styles.navLink}>
-              DO NOT SELL MY PERSONAL INFORMATION
+            {/* Do not sell my information */}
+            <Link to="/legal-notice" className={styles.navLink}>
+              DO NOT SELL MY INFORMATION
             </Link>
-            <span>|</span>
           </nav>
 
           {/* Accessibility statement */}

@@ -25,7 +25,7 @@ function Header() {
   // * Mobile menu state
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // * Close mobile menu when clicking outside
+  // Close mobile menu when clicking outside
   useEffect(() => {
     if (menuOpen) {
       document.body.style.overflow = "hidden";
@@ -149,9 +149,9 @@ function Header() {
             <button className={styles.iconButton} aria-label="Search">
               <HiOutlineSearch />
             </button>
-            <button className={styles.iconButton} aria-label="Account">
+            <Link to="/account" className={styles.iconButton} aria-label="Account">
               <HiOutlineUser />
-            </button>
+            </Link>
             <button className={styles.iconButton} aria-label="Shopping Cart">
               <HiOutlineShoppingCart />
             </button>
@@ -197,18 +197,18 @@ function Header() {
                   </button>
                   {isMobileCollectionsOpen && (
                     <ul className={styles.sidebarDropdownMenu}>
-                      <li>ALL COLLECTIONS</li>
-                      <li>HOUSE OF BALLOONS</li>
-                      <li>THURSDAY</li>
-                      <li>ECHOES OF SILENCE</li>
-                      <li>KISSLAND</li>
-                      <li>BEAUTY BEHIND THE MADNESS</li>
-                      <li>STARBOY</li>
-                      <li>MY DEAR MELANCHOLY,</li>
-                      <li>AFTER HOURS</li>
-                      <li>DAWN FM</li>
-                      <li>HURRY UP TOMORROW</li>
-                      <li>THE HIGHLIGHTS</li>
+                      <li onClick={() => setMenuOpen(false)}>ALL COLLECTIONS</li>
+                      <li onClick={() => setMenuOpen(false)}>HOUSE OF BALLOONS</li>
+                      <li onClick={() => setMenuOpen(false)}>THURSDAY</li>
+                      <li onClick={() => setMenuOpen(false)}>ECHOES OF SILENCE</li>
+                      <li onClick={() => setMenuOpen(false)}>KISSLAND</li>
+                      <li onClick={() => setMenuOpen(false)}>BEAUTY BEHIND THE MADNESS</li>
+                      <li onClick={() => setMenuOpen(false)}>STARBOY</li>
+                      <li onClick={() => setMenuOpen(false)}>MY DEAR MELANCHOLY,</li>
+                      <li onClick={() => setMenuOpen(false)}>AFTER HOURS</li>
+                      <li onClick={() => setMenuOpen(false)}>DAWN FM</li>
+                      <li onClick={() => setMenuOpen(false)}>HURRY UP TOMORROW</li>
+                      <li onClick={() => setMenuOpen(false)}>THE HIGHLIGHTS</li>
                     </ul>
                   )}
                 </div>
@@ -237,16 +237,12 @@ function Header() {
                 {/* Separator */}
                 <hr className={styles.sidebarSeparator} />
                 {/* Login */}
-                <Link to="/login" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link to="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   LOGIN
                 </Link>
-                {/* Sign up */}
-                <Link to="/signup" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  SIGN UP
-                </Link>
-                {/* Newsletter */}
-                <Link to="/newsletter" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  GET UPDATES
+                {/* Create account */}
+                <Link to="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                  CREATE ACCOUNT
                 </Link>
               </nav>
               {/* Sidebar footer - theme toggle */}

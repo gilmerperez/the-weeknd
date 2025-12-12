@@ -18,9 +18,10 @@ footer {
 
 /* Social media icons */
 .socialIcons {
-  gap: 1rem;
+  gap: 1.5rem;
   display: flex;
   align-items: center;
+  transition: 0.3s ease;
   justify-content: center;
 }
 
@@ -28,11 +29,27 @@ footer {
   display: flex;
   font-size: 1.5rem;
   align-items: center;
+  transition: 0.3s ease;
   justify-content: center;
 }
 
 .socialLink:hover {
   color: var(--text-secondary);
+}
+
+/* Theme toggle button */
+.themeToggle {
+  transition: 0.3s ease;
+}
+
+.themeToggle:hover {
+  color: var(--text-secondary);
+}
+
+.themeToggle svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  stroke-width: 1.5;
 }
 
 /* Navigation links */
@@ -47,6 +64,7 @@ footer {
 
 .navLink {
   font-size: 0.875rem;
+  transition: 0.3s ease;
 }
 
 .navLink:hover {
@@ -73,14 +91,6 @@ footer {
   .footer {
     padding: 1.75rem;
   }
-
-  .navLinks {
-    gap: 0.5rem;
-  }
-
-  .accessibilityStatement {
-    font-size: 0.875rem;
-  }
 }
 
 /* Mobile responsiveness */
@@ -89,11 +99,19 @@ footer {
     padding: 1.5rem;
   }
 
-  .navLinks {
-    flex-direction: column;
+  .socialIcons {
+    gap: 1.25rem;
   }
 
-  .navLinks span {
-    display: none;
+  .navLinks {
+    gap: 0.5rem;
+  }
+
+  .navLink {
+    font-size: 0.75rem;
+  }
+
+  .accessibilityStatement {
+    font-size: 0.75rem;
   }
 }

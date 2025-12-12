@@ -1,7 +1,7 @@
 import { useEffect } from "react";
-import styles from "./PrivacyPolicy.module.css";
+import styles from "./Privacy.module.css";
 
-function PrivacyPolicy() {
+function Privacy() {
   // * Set page title
   useEffect(() => {
     document.title = "The Weeknd | Privacy Policy";
@@ -10,10 +10,10 @@ function PrivacyPolicy() {
   return (
     <>
       <main>
-        <div className={styles.privacyPolicyContainer}>PRIVACY POLICY</div>
+        <div className={styles.privacyContainer}>PRIVACY POLICY</div>
       </main>
     </>
   );
 }
 
-export default PrivacyPolicy;
+export default Privacy;
