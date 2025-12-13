@@ -22,6 +22,15 @@
   text-transform: uppercase;
 }
 
+.emailLink {
+  transition: 0.3s ease;
+  text-decoration: underline;
+}
+
+.emailLink:hover {
+  color: var(--text-secondary);
+}
+
 .paragraph:last-child {
   margin-bottom: 0;
 }
