@@ -38,17 +38,18 @@ header {
 }
 
 .dropdownMenu {
-  left: 0;
   top: 100%;
+  left: -15px;
   z-index: 1000;
-  min-width: 300px;
+  padding: 1rem;
+  min-width: 275px;
   position: absolute;
-  padding-top: 0.5rem;
+  background-color: var(--bg-color);
 }
 
 .dropdownMenu li {
   cursor: pointer;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   transition: 0.3s ease;
   padding: 0.25rem 0rem;
 }
