@@ -1,366 +1,366 @@
-TERMS AND CONDITIONS OF SALE
+Terms and conditions of Sale
 
-(LAST UPDATED ON NOVEMBER 20, 2024)
+(Last updated on November 20, 2024)
 
-I. GENERAL
+I. General
 
-1. THESE TERMS AND CONDITIONS (THE "TERMS") GOVERN YOUR RELATIONSHIP (HEREAFTER, "YOU" OR "YOUR," INDIVIDUALLY) WITH UMG COMMERCIAL SERVICES, INC. ("UMG") WHEN YOU USE UMG’S ONLINE SERVICES (THE "SERVICES") VIA THIS WEBSTORE (THIS "WEBSTORE"). WHEREVER YOU SEE "UMG" ON THE WEBSITE OR IN ANY OF THE TERMS, THIS MEANS UMG AND ANY OF ITS AFFILIATES, SUBSIDIARIES OR ANY PARENT COMPANY (INCLUDING THE ULTIMATE PARENT COMPANY) OF UMG AND ANY SUBSIDIARY OF ANY SUCH PARENT COMPANY FOR THE TIME BEING. FROM TIME TO TIME, UMG MAY USE THE SERVICES OF THIRD PARTIES TO ASSIST UMG IN THE PROVISION OF THIS WEBSTORE, HOWEVER, UNLESS OTHERWISE STATED, THE SERVICES AVAILABLE ON THIS WEBSTORE ARE PROVIDED TO YOU BY UMG.
+1. These terms and conditions (the "Terms") govern your relationship (hereafter, "You" or "Your," individually) with UMG Commercial Services, Inc. ("UMG") when You use UMG’s online services (the "Services") via this webstore (this "Webstore"). Wherever You see "UMG" on the website or in any of the Terms, this means UMG and any of its affiliates, subsidiaries or any parent company (including the ultimate parent company) of UMG and any subsidiary of any such parent company for the time being. From time to time, UMG may use the services of third parties to assist UMG in the provision of this Webstore, however, unless otherwise stated, the Services available on this Webstore are provided to You by UMG.
 
-2. BY PURCHASING PRODUCTS VIA THIS WEBSTORE, YOU ACKNOWLEDGE THAT ONLY THIS WEBSTORE IS CONTROLLED BY UMG AND YOU ACCEPT AND AGREE TO THESE TERMS (FOR THE AVOIDANCE OF DOUBT, THESE TERMS INCLUDE UMG’S PRIVACY POLICY AND UMG’S WEBSITE AND APP TERMS AND CONDITIONS) AND YOU AGREE THAT THIS WEBSTORE, INCLUDING ANY TRANSACTION YOU MAKE, IS SUBJECT TO THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT USE THIS WEBSTORE.
+2. By purchasing products via this Webstore, You acknowledge that only this Webstore is controlled by UMG and You accept and agree to these Terms (for the avoidance of doubt, these Terms include UMG’s Privacy Policy and UMG’s Website and App Terms and Conditions) and You agree that this Webstore, including any transaction You make, is subject to these Terms. If You do not agree to these Terms, You may not use this Webstore.
 
-3. ORDERS MAY ONLY BE PLACED VIA THIS WEBSTORE. UMG DOES NOT ACCEPT ORDERS IN ANY OTHER MANNER, INCLUDING VIA TELEPHONE.
+3. Orders may only be placed via this Webstore. UMG does not accept orders in any other manner, including via telephone.
 
-4. YOU SHOULD PRINT A COPY OF THESE TERMS FOR FUTURE REFERENCE.
+4. You should print a copy of these Terms for future reference.
 
-5. IF YOU HAVE ANY QUESTIONS ABOUT THESE TERMS PLEASE CONTACT UMG BY EMAILING: CUSTOMERCARE@UMGSTORES.COM
+5. If You have any questions about these Terms please contact UMG by emailing: customercare@umgstores.com
 
-6. PLACING AN ORDER VIA THIS WEBSTORE MAY REQUIRE YOU TO USE THIRD PARTY APPS TO COMMENCE AND/OR COMPLETE YOUR ORDER. AS SUCH, WHEN PLACING AN ORDER VIA THIS WEBSTORE, YOU REPRESENT AND WARRANT THAT YOU HAVE ACCEPTED THE TERMS AND CONDITIONS OF SAID THIRD PARTY APPS, AS APPLICABLE.
+6. Placing an order via this Webstore may require You to use third party apps to commence and/or complete Your order. As such, when placing an order via this Webstore, You represent and warrant that You have accepted the terms and conditions of said third party apps, as applicable.
 
-II. CHANGES TO THESE TERMS
+II. Changes to These Terms
 
-1. UMG MAY MAKE CHANGES TO THESE TERMS FROM TIME TO TIME, WHICH WILL BE EFFECTIVE WHEN POSTED ON THIS WEBSTORE. UMG WILL NOT NOTIFY YOU DIRECTLY/PERSONALLY OF ANY CHANGES TO THE TERMS; AS SUCH, IT IS ENCOURAGED THAT YOU CHECK THIS WEBSTORE REGULARLY FOR ANY UPDATES TO THESE TERMS. IT IS EXPECTED THAT YOU WILL READ THESE TERMS FULLY PRIOR TO ANY PURCHASE, AND YOUR CONTINUED USE OF THIS WEBSTORE FOLLOWING THE POSTING OF CHANGES WILL MEAN YOU ACCEPT THOSE CHANGES.
+1. UMG may make changes to these Terms from time to time, which will be effective when posted on this Webstore. UMG will not notify You directly/personally of any changes to the Terms; as such, it is encouraged that You check this Webstore regularly for any updates to these Terms. It is expected that You will read these Terms fully prior to any purchase, and Your continued use of this Webstore following the posting of changes will mean You accept those changes.
 
-2. YOU WILL BE SUBJECT TO THE POLICIES AND TERMS IN FORCE AT THE TIME THAT YOU ORDER PRODUCT(S) FROM UMG, UNLESS ANY CHANGE TO THOSE POLICIES OR THESE TERMS IS REQUIRED TO BE MADE BY LAW OR A GOVERNMENT AUTHORITY (IN WHICH CASE IT MAY ALSO APPLY TO ORDERS PREVIOUSLY PLACED BY YOU).
+2. You will be subject to the policies and Terms in force at the time that You order product(s) from UMG, unless any change to those policies or these Terms is required to be made by law or a government authority (in which case it may also apply to orders previously placed by you).
 
-III. WEBSTORE CONTENT
+III. Webstore Content
 
-1. THE SERVICES, THIS WEBSTORE, INCLUDING, WITHOUT LIMITATION, ALL TRADEMARKS, MUSIC RECORDINGS, LYRICS, AUDIO AND AUDIO-VISUAL CLIPS, DIGITAL DOWNLOADS ("CONTENT") ARE OWNED AND CONTROLLED BY OR LICENSED TO UMG, ITS AFFILIATES AND/OR LICENSEES. ALL RIGHTS IN THE CONTENT ARE THE SOLE AND EXCLUSIVE PROPERTY OF UMG OR SUCH AFFILIATES, LICENSORS AND/OR LICENSEES.
+1. The Services, this Webstore, including, without limitation, all trademarks, music recordings, lyrics, audio and audio-visual clips, digital downloads ("Content") are owned and controlled by or licensed to UMG, its affiliates and/or licensees. All rights in the Content are the sole and exclusive property of UMG or such affiliates, licensors and/or licensees.
 
-2. UNLESS OTHERWISE SPECIFIED, THIS WEBSTORE AND CONTENT ARE FOR YOUR PERSONAL AND NON-COMMERCIAL USE ONLY.
+2. Unless otherwise specified, this Webstore and Content are for Your personal and non-commercial use only.
 
-3. YOU MAY NOT, WITHOUT UMG’S EXPRESS WRITTEN AGREEMENT, USE, TRANSFER, COPY OR OTHERWISE REPRODUCE OR MODIFY ANY PART OF THIS WEBSTORE, THE SERVICES, THE CONTENT OR ANY SOURCE HTML CODE IN ANY FORM OR BY ANY MEANS (ELECTRONIC, MECHANICAL OR OTHERWISE) EXCEPT FOR THE SOLE PURPOSE OF USING THE SERVICES AND VIEWING OR USING THE CONTENT AS PERMITTED.
+3. You may not, without UMG’s express written agreement, use, transfer, copy or otherwise reproduce or modify any part of this Webstore, the Services, the Content or any source HTML code in any form or by any means (electronic, mechanical or otherwise) except for the sole purpose of using the Services and viewing or using the Content as permitted.
 
-IV. SYSTEM REQUIREMENTS
+IV. System Requirements
 
-1. YOU MAY NOT:
+1. You may not:
 
-I. RESTRICT OR INHIBIT ANY OTHER USER FROM USING AND ENJOYING THIS WEBSTORE OR THE SERVICES;
+i. restrict or inhibit any other user from using and enjoying this Webstore or the Services;
 
-II. ACT IN ANY WAY THAT WOULD DAMAGE, DISABLE, OVERBURDEN, OR IMPAIR THIS WEBSTORE OR THE SERVICES OR EFFECT OR ENCOURAGE CONDUCT THAT WOULD CONSTITUTE A CRIMINAL OFFENSE OR GIVE RISE TO CIVIL LIABILITY;
+ii. act in any way that would damage, disable, overburden, or impair this Webstore or the Services or effect or encourage conduct that would constitute a criminal offense or give rise to civil liability;
 
-III. UPLOAD, POST OR TRANSMIT TO, OR DISTRIBUTE OR OTHERWISE PUBLISH THROUGH THIS WEBSTORE ANY MATERIALS THAT CONTAIN A VIRUS OR OTHER HARMFUL COMPONENT, OR FALSE OR MISLEADING INDICATIONS OF ORIGIN OR STATEMENTS OF FACT, OR ANY MATERIAL THAT IS INDECENT, DEFAMATORY OR USE OF WHICH MAY BE IN BREACH OF ANY THIRD PARTY‘S RIGHTS;
+iii. upload, post or transmit to, or distribute or otherwise publish through this Webstore any materials that contain a virus or other harmful component, or false or misleading indications of origin or statements of fact, or any material that is indecent, defamatory or use of which may be in breach of any third party‘s rights;
 
-IV. IMPERSONATE ANY PERSON OR ENTITY OR MISREPRESENT YOUR AFFILIATION WITH ANY OTHER PERSON OR ENTITY;
+iv. impersonate any person or entity or misrepresent Your affiliation with any other person or entity;
 
-V. EXPLOIT ANY INFORMATION OR OTHER MATERIAL OBTAINED ON OR THROUGH THIS WEBSTORE FOR COMMERCIAL PURPOSES;
+v. exploit any information or other material obtained on or through this Webstore for commercial purposes;
 
-VI. ENGAGE IN SPAMMING, FLOODING, HARVESTING OF E-MAIL ADDRESSES OR OTHER PERSONAL INFORMATION, "SPIDERING," "SCREEN SCRAPING," "DATABASE SCRAPING," OR ANY OTHER ACTIVITY WITH THE PURPOSE OF OBTAINING LISTS OF USERS OR OTHER INFORMATION (INCLUDING ANY ACTIVITY WHICH INVOLVES ACCESSING OR USING UMG COOKIES FOR PURPOSES WHICH ARE UNRELATED TO THE SERVICES);
+vi. engage in spamming, flooding, harvesting of e-mail addresses or other personal information, "spidering," "screen scraping," "database scraping," or any other activity with the purpose of obtaining lists of users or other information (including any activity which involves accessing or using UMG cookies for purposes which are unrelated to the Services);
 
-VII. ATTEMPT TO GAIN UNAUTHORIZED ACCESS TO OTHER COMPUTER SYSTEMS THROUGH THIS WEBSTORE OR OBTAIN OR ATTEMPT TO OBTAIN ANY MATERIALS OR INFORMATION THROUGH ANY MEANS NOT INTENTIONALLY MADE AVAILABLE OR PROVIDED FOR THROUGH THIS WEBSTORE; OR
+vii. attempt to gain unauthorized access to other computer systems through this Webstore or obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through this Webstore; or
 
-VIII. REPRODUCE, DUPLICATE, COPY, SELL, RESELL, OR EXPLOIT FOR ANY COMMERCIAL PURPOSES ANY PORTION OF OR ACCESS TO THIS WEBSTORE, THE CONTENTS OR THE SERVICES.
+viii. reproduce, duplicate, copy, sell, resell, or exploit for any commercial purposes any portion of or access to this Webstore, the Contents or the Services.
 
-V. UMG’S SOFTWARE
+V. UMG’s Software
 
-1. SOFTWARE USED TO PROVIDE THE SERVICES ("SOFTWARE") IS OWNED BY OR LICENSED TO UMG, UMG’S AFFILIATES OR UMG’S SOFTWARE SUPPLIERS. ALL RIGHTS IN THE SOFTWARE ARE THE SOLE AND EXCLUSIVE PROPERTY OF UMG OR UMG’S SUPPLIERS. YOU MAY USE THE SOFTWARE ONLY FOR THE PURPOSE OF USING THE SERVICES IN ACCORDANCE WITH THESE TERMS AND YOU ACQUIRE NO OTHER RIGHTS IN THE SOFTWARE OF ANY SORT. IN PARTICULAR, BUT WITHOUT LIMITING THE FOREGOING, YOU MAY NOT:
+1. Software used to provide the Services ("Software") is owned by or licensed to UMG, UMG’s affiliates or UMG’s software suppliers. All rights in the Software are the sole and exclusive property of UMG or UMG’s suppliers. You may use the Software only for the purpose of using the Services in accordance with these Terms and You acquire no other rights in the Software of any sort. In particular, but without limiting the foregoing, You may not:
 
-I. USE THE SOFTWARE TO TRANSMIT ANY CONTENT (INCLUDING THE CONTENT) TO UMG OR TO ANY OTHER PERSON OR ENTITY;
+i. use the Software to transmit any content (including the Content) to UMG or to any other person or entity;
 
-II. SELL OR OTHERWISE DISTRIBUTE ANY PART OF THE SOFTWARE;
+ii. sell or otherwise distribute any part of the Software;
 
-III. MODIFY, ADAPT, TRANSLATE OR REVERSE ENGINEER ANY PART OF THE SOFTWARE;
+iii. modify, adapt, translate or reverse engineer any part of the Software;
 
-IV. ATTEMPT TO BREACH ANY SECURITY MECHANISMS OR TO ACCESS, TAMPER WITH OR USE ANY PARTS OF THE SOFTWARE TO WHICH ACCESS IS NOT AUTHORIZED;
+iv. attempt to breach any security mechanisms or to access, tamper with or use any parts of the Software to which access is not authorized;
 
-V. USE THE SOFTWARE FOR ANY ILLEGAL, UNLAWFUL, HARASSING, ABUSIVE OR FRAUDULENT PURPOSE; OR
+v. use the Software for any illegal, unlawful, harassing, abusive or fraudulent purpose; or
 
-VI. USE THE SOFTWARE FOR ANY COMMERCIAL PURPOSE.
+vi. use the Software for any commercial purpose.
 
-VI. REGISTRATION AND PASSWORDS
+VI. Registration and Passwords
 
-1. IF A PARTICULAR SERVICE REQUIRES YOU TO REGISTER WITH THIS WEBSTORE OR SET UP AN ACCOUNT, YOU WILL NEED TO COMPLETE A REGISTRATION PROCESS BY PROVIDING CERTAIN INFORMATION (INCLUDING YOUR NAME, EMAIL ADDRESS AND, IN SOME CASES, PAYMENT DETAILS) AND REGISTERING A USERNAME AND PASSWORD FOR USE IN CONNECTION WITH THAT SERVICE. YOU AGREE THAT YOU WILL PROVIDE TRUTHFUL AND ACCURATE INFORMATION WHEN REGISTERING OR OPENING AN ACCOUNT. THE DECISION TO REGISTER A PASSWORD IS IN UMG’S DISCRETION AND UMG MAY REVOKE YOUR PASSWORD AT ANY TIME.
+1. If a particular Service requires You to register with this Webstore or set up an account, You will need to complete a registration process by providing certain information (including Your name, email address and, in some cases, payment details) and registering a username and password for use in connection with that Service. You agree that You will provide truthful and accurate information when registering or opening an account. The decision to register a password is in UMG’s discretion and UMG may revoke Your password at any time.
 
-2. YOU ARE RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF THE PASSWORD AND YOUR ACCOUNT INFORMATION, AND YOU ARE SOLELY RESPONSIBLE FOR ALL ACTIVITIES THAT OCCUR UNDER YOUR PASSWORD OR ACCOUNT AND FOR ANY ACCESS TO OR USE OF THIS WEBSTORE BY YOU OR ANY PERSON OR ENTITY USING YOUR PASSWORD, WHETHER OR NOT SUCH ACCESS OR USE HAS BEEN AUTHORIZED BY YOU, AND WHETHER OR NOT SUCH PERSON OR ENTITY IS YOUR EMPLOYEE OR AGENT.
+2. You are responsible for maintaining the confidentiality of the password and Your account information, and You are solely responsible for all activities that occur under Your password or account and for any access to or use of this Webstore by You or any person or entity using Your password, whether or not such access or use has been authorized by You, and whether or not such person or entity is Your employee or agent.
 
-3. YOU MUST IMMEDIATELY NOTIFY UMG OF ANY UNAUTHORIZED USE OF YOUR PASSWORD OR ACCOUNT OR ANY OTHER BREACH OF SECURITY.
+3. You must immediately notify UMG of any unauthorized use of Your password or account or any other breach of security.
 
-4. UMG WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE WHATSOEVER RESULTING FROM THE DISCLOSURE OF YOUR USERNAME AND/OR PASSWORD CONTRARY TO THESE TERMS. YOU MAY NOT USE ANOTHER PERSON’S ACCOUNT AT ANY TIME WITHOUT THE EXPRESS PERMISSION OF THE ACCOUNT HOLDER.
+4. UMG will not be liable for any loss or damage whatsoever resulting from the disclosure of your username and/or password contrary to these Terms. You may not use another person’s account at any time without the express permission of the account holder.
 
-5. YOU ARE RESPONSIBLE FOR ENSURING THAT THE INFORMATION UMG HOLDS IS UP TO DATE. PLEASE AMEND YOUR DETAILS AS APPROPRIATE FROM TIME TO TIME OR EMAIL CUSTOMERCARE@UMGSTORES.COM TO NOTIFY UMG OF ANY CHANGES.
+5. You are responsible for ensuring that the information UMG holds is up to date. Please amend your details as appropriate from time to time or email customercare@umgstores.com to notify UMG of any changes.
 
-6. YOU SHOULD ENSURE THAT YOUR COMPUTER MEETS THE MINIMUM TECHNICAL REQUIREMENTS FOR THE SERVICES, NAMELY AN INTERNET, "JAVASCRIPTED," AND A COOKIES-ENABLED BROWSER. YOU MAY BE REQUIRED TO INSTALL THIRD-PARTY SOFTWARE TO ACCESS SOME OR ALL OF THE SERVICES. YOU ARE RESPONSIBLE FOR ENSURING THAT THE SOFTWARE FUNCTIONS CORRECTLY WITH THE RELEVANT SERVICE. TERMS AND CONDITIONS PROVIDED BY THE SOFTWARE SUPPLIER MAY APPLY TO UMG’S THE THIRD-PARTY SOFTWARE.
+6. You should ensure that your computer meets the minimum technical requirements for the Services, namely an internet, "JavaScripted," and a cookies-enabled browser. You may be required to install third-party software to access some or all of the Services. You are responsible for ensuring that the software functions correctly with the relevant Service. Terms and conditions provided by the software supplier may apply to UMG’s the third-party software.
 
-7. PLEASE SEE UMG’S PRIVACY POLICY FOR FURTHER EXPLANATION AS TO HOW UMG USES THE INFORMATION UMG COLLECTS FROM YOU AND HOW UMG USES COOKIES AND TRAFFIC ANALYSIS TOOLS.
+7. Please see UMG’s Privacy Policy for further explanation as to how UMG uses the information UMG collects from You and how UMG uses cookies and traffic analysis tools.
 
-VII. UMG’S PRODUCTS
+VII. UMG’s Products
 
-1. THIS WEBSTORE MAY ALLOW YOU TO:
+1. This Webstore may allow You to:
 
-I. PURCHASE PHYSICAL PRODUCTS (E.G., APPAREL AND OTHER MERCHANDISE);
+i. purchase physical products (e.g., apparel and other merchandise);
 
-II. DOWNLOAD DIGITAL PRODUCTS (E.G., MUSIC AND VIDEOS);
+ii. download digital products (e.g., music and videos);
 
-III. PURCHASE MOBILE PRODUCTS (E.G. MUSIC, VIDEOS AND OTHER CONTENT SUCH AS WALLPAPER, SCREENSAVERS AND LOGOS);
+iii. purchase mobile products (e.g. music, videos and other Content such as wallpaper, screensavers and logos);
 
-IV. DOWNLOAD (AND/OR PARTICIPATE) IN ONLINE GAMES, AT A COST OR FREE OF CHARGE;
+iv. download (and/or participate) in online games, at a cost or free of charge;
 
-V. STREAM SERVICES TO ENABLE YOU TO PREVIEW AND/OR LISTEN TO AND/OR WATCH MUSIC AND VIDEOS ONLINE; AND/OR
+v. stream services to enable You to preview and/or listen to and/or watch music and videos online; and/or
 
-VI. SUBJECT TO ANY SEPARATE SPECIFIC TERMS AND CONDITIONS, OFFER SUCH SERVICES TO YOU ON A SUBSCRIPTION BASIS.
+vi. subject to any separate specific terms and conditions, offer such services to You on a subscription basis.
 
-2. SHIPPING AND DELIVERY DATES FOR ANY AND ALL SO-CALLED "LIMITED EDITION" AND/OR "PRE-ORDER" SALES OF PRODUCT(S) ARE NOT GUARANTEED UNLESS OTHERWISE SPECIFIED.
+2. Shipping and delivery dates for any and all so-called "limited edition" and/or "pre-order" sales of product(s) are not guaranteed unless otherwise specified.
 
-3. RETURNS AND/OR EXCHANGES WILL NEVER BE ACCEPTED FOR SO-CALLED "LIMITED EDITION" PRODUCT(S).
+3. Returns and/or exchanges will never be accepted for so-called "limited edition" product(s).
 
-4. PRODUCTS ON THIS WEBSTORE ARE LIMITED TO THE SIZES, COLORS AND VARIANTS LISTED ON THIS WEBSTORE. IF A SIZE OR VARIANT DOES NOT APPEAR ON THIS WEBSTORE, IT IS CURRENTLY UNAVAILABLE.
+4. Products on this Webstore are limited to the sizes, colors and variants listed on this Webstore. If a size or variant does not appear on this Webstore, it is currently unavailable.
 
-5. IF UMG DECIDES TO OFFER ANY ADDITIONAL PRODUCTS ON THIS WEBSTORE, SUCH FUTURE PRODUCTS WILL ALSO BE COVERED BY THESE TERMS.
+5. If UMG decides to offer any additional products on this Webstore, such future products will also be covered by these Terms.
 
-VIII. PLACING AN ORDER
+VIII. Placing an Order
 
-1. BY PLACING AN ORDER THROUGH THIS WEBSTORE, YOU WARRANT THAT YOU ARE LEGALLY CAPABLE OF ENTERING INTO BINDING CONTRACTS; AND YOU ARE AT LEAST 18 YEARS OLD.
+1. By placing an order through this Webstore, You warrant that You are legally capable of entering into binding contracts; and You are at least 18 years old.
 
-2. IF YOU ARE UNDER THE AGE OF 18 YEARS AND/OR ARE NOT CAPABLE OF ENTERING INTO BINDING CONTRACTS BUT WISH TO USE THIS WEBSTORE, A PARENT OR GUARDIAN SHOULD ACCEPT THESE TERMS ON YOUR BEHALF.
+2. If You are under the age of 18 years and/or are not capable of entering into binding contracts but wish to use this Webstore, a parent or guardian should accept these Terms on Your behalf.
 
-3. FOLLOW THE ONSCREEN INSTRUCTIONS ON THIS WEBSTORE TO PLACE AN ORDER.
+3. Follow the onscreen instructions on this Webstore to place an order.
 
-4. ITEMS WHICH YOU SELECT FOR PURCHASE, DOWNLOAD AND/OR STREAMING (AS APPLICABLE) WILL AUTOMATICALLY BE PLACED IN YOUR "SHOPPING BASKET." TO REMOVE AN ITEM FROM YOUR SHOPPING BASKET, SIMPLY CLICK ON THE "REMOVE" (OR SIMILAR) BUTTON NEXT TO THE ITEM AS IT APPEARS IN YOUR BASKET.
+4. Items which You select for purchase, download and/or streaming (as applicable) will automatically be placed in Your "shopping basket." To remove an item from Your shopping basket, simply click on the "remove" (or similar) button next to the item as it appears in Your basket.
 
-5. ONCE YOU HAVE PRESSED THE "CHECKOUT" (OR SIMILAR) BUTTON, YOU WILL BE ASKED TO PROVIDE CERTAIN INFORMATION TO ALLOW UMG, OR A SERVICE PROVIDER ENGAGED BY UMG, TO PROCESS YOUR ORDER (INCLUDING YOUR SELECTED PAYMENT METHOD AND CREDIT CARD, PAYPAL, E-WALLET OR OTHER PAYMENT DETAILS).
+5. Once You have pressed the "checkout" (or similar) button, You will be asked to provide certain information to allow UMG, or a service provider engaged by UMG, to process Your order (including Your selected payment method and credit card, PayPal, e-wallet or other payment details).
 
-6. UMG CANNOT CHANGE ANY INFORMATION ON AN EXISTING ORDER ONCE IT HAS BEEN PROCESSED, INCLUDING BUT NOT LIMITED TO, THE SHIPPING ADDRESS, BILLING INFORMATION, SIZE, ITEM AND/OR QUANTITY. IF YOU WISH TO CANCEL YOUR ORDER AND PLACE A NEW ORDER WITH DIFFERENT INFORMATION, PRODUCTS OR QUANTITIES, PLEASE FOLLOW THE CANCELLATION POLICY (SET OUT IN SECTION XI AS APPLICABLE, BELOW).
+6. UMG cannot change any information on an existing order once it has been processed, including but not limited to, the shipping address, billing information, size, item and/or quantity. If You wish to cancel Your order and place a new order with different information, products or quantities, please follow the Cancellation Policy (set out in Section XI as applicable, below).
 
-7. YOU WILL RECEIVE AN ORDER SUMMARY CONFIRMATION ON SCREEN AND/OR BY EMAIL (AS LONG AS YOU HAVE PROVIDED UMG WITH A VALID EMAIL ADDRESS) ACKNOWLEDGING THAT UMG HAS RECEIVED YOUR ORDER – THIS DOES NOT MEAN THAT YOUR ORDER HAS BEEN ACCEPTED. YOUR ORDER REPRESENTS AN OFFER TO UMG TO PURCHASE A PARTICULAR ITEM WHICH IS ACCEPTED BY UMG ONLY WHEN UMG SENDS YOU AN EMAIL ("DISPATCH CONFIRMATION") CONFIRMING (I) IN THE CASE OF PHYSICAL PRODUCTS, THAT THE PARTICULAR PRODUCT HAS BEEN DISPATCHED; OR (II) IN THE CASE OF DIGITAL CONTENT, INSTRUCTIONS FOR ACCESSING YOUR DIGITAL CONTENT.
+7. You will receive an order summary confirmation on screen and/or by email (as long as You have provided UMG with a valid email address) acknowledging that UMG has received Your order – this does not mean that Your order has been accepted. Your order represents an offer to UMG to purchase a particular item which is accepted by UMG only when UMG sends You an email ("Dispatch Confirmation") confirming (i) in the case of physical products, that the particular product has been dispatched; or (ii) in the case of digital content, instructions for accessing Your digital content.
 
-8. UMG MAY REJECT, MODIFY OR CANCEL YOUR ORDER FOR ANY REASON PRIOR TO SHIPPING YOUR ORDER. IF UMG REJECTS YOUR ORDER AFTER PAYMENT HAS ALREADY BEEN TAKEN, UMG WILL PROVIDE YOU WITH A REFUND IN ACCORDANCE WITH UMG’S REFUND POLICY SET OUT IN SECTION XIII (BELOW). WHERE YOUR ORDER WAS FOR PRODUCTS OF A "HYBRID" NATURE (E.G., A PHYSICAL AND DIGITAL PRODUCT) UMG WILL REFUND THE RELEVANT ELEMENT OF THE ORDER IN ACCORDANCE WITH UMG’S CANCELLATION POLICY (SET OUT IN SECTION XI AS APPLICABLE, BELOW) FOR THAT PARTICULAR PRODUCT.
+8. UMG may reject, modify or cancel Your order for any reason prior to shipping Your order. If UMG rejects Your order after payment has already been taken, UMG will provide You with a refund in accordance with UMG’s Refund Policy set out in Section XIII (below). Where Your order was for products of a "hybrid" nature (e.g., a physical and digital product) UMG will refund the relevant element of the order in accordance with UMG’s Cancellation Policy (set out in Section XI as applicable, below) for that particular product.
 
-9. SHIPPING AND DELIVERY DATES FOR YOUR ORDER ARE NOT GUARANTEED UNLESS OTHERWISE SPECIFIED. ALL SHIPPING TIMELINES ARE ESTIMATED. UMG IS NOT LIABLE FOR DELAYS DUE TO CARRIER, REGARDLESS OF SHIPPING METHOD.
+9. Shipping and delivery dates for Your order are not guaranteed unless otherwise specified. All shipping timelines are estimated. UMG is not liable for delays due to carrier, regardless of shipping method.
 
-10. IF YOU HAVE SELECTED A TRACKABLE SHIPPING METHOD AT CHECKOUT, YOU WILL RECEIVE TRACKING INFORMATION VIA THE EMAIL YOU PROVIDED WITH YOUR SHIPPING INFORMATION.
+10. If You have selected a trackable shipping method at checkout, You will receive tracking information via the email You provided with Your shipping information.
 
-11. SHIPPING DELAYS WILL OCCUR IF AN INCORRECT ADDRESS IS PROVIDED AT THE TIME OF CHECKOUT. UMG IS NOT RESPONSIBLE FOR ANY LOST PACKAGES DUE TO YOUR PROVISION TO UMG OF AN INCORRECT SHIPPING ADDRESS AT THE TIME OF CHECKOUT. IF THE PACKAGE CONTAINING THE PRODUCT(S) YOU ORDERED IS RETURNED TO UMG DUE TO A SHIPPING ERROR, UMG WILL CONTACT YOU, VIA THE EMAIL YOU PROVIDED WITH YOUR SHIPPING INFORMATION, FOR AN UPDATED ADDRESS TO SEND THE PRODUCT(S). IF UMG DOES NOT RECEIVE A RESPONSE WITHIN TEN (10) BUSINESS DAYS OF CONTACTING YOU, UMG RESERVES THE RIGHT TO REFUND YOUR ORDER.
+11. Shipping delays will occur if an incorrect address is provided at the time of checkout. UMG is not responsible for any lost packages due to Your provision to UMG of an incorrect shipping address at the time of checkout. If the package containing the product(s) You ordered is returned to UMG due to a shipping error, UMG will contact You, via the email You provided with your shipping information, for an updated address to send the product(s). If UMG does not receive a response within ten (10) business days of contacting You, UMG reserves the right to refund Your order.
 
-12. IF YOU HAVE ORDERED MULTIPLE ITEMS WITHIN A SINGLE ORDER, UMG RESERVES THE RIGHT TO EITHER (I) SHIP YOUR ORDER ONCE ALL ITEMS BECOME AVAILABLE TO SHIP OR (II) TO SPLIT YOUR ORDER CONTAINING MULTIPLE ITEMS INTO MULTIPLE SHIPMENTS (“SPLIT SHIPPING”) AT UMG’S DISCRETION. FOR SOME ORDERS, UMG MAY OFFER YOU THE ABILITY TO CHOOSE SPLIT SHIPPING DURING CHECKOUT. SPLIT SHIPPING OPTIONS MAY READ “SHIP ITEMS SEPARATELY – AS THEY BECOME AVAILABLE” OR SIMILAR. IF YOU HAVE SELECTED SPLIT SHIPPING, YOUR ITEMS WILL SHIP IN SEPARATE PACKAGES AS THEY BECOME AVAILABLE FOR SHIPMENT. SPLIT SHIPPING IS NOT AVAILABLE FOR EVERY ORDER AND UMG RESERVES THE RIGHT TO REVOKE SPLIT SHIPPING OPTIONS AT ANY TIME.
+12. If You have ordered multiple items within a single order, UMG reserves the right to either (i) ship Your order once all items become available to ship or (ii) to split Your order containing multiple items into multiple shipments (“Split Shipping”) at UMG’s discretion. For some orders, UMG may offer You the ability to choose Split Shipping during checkout. Split Shipping options may read “Ship Items Separately – As They Become Available” or similar. If You have selected Split Shipping, Your items will ship in separate packages as they become available for shipment. Split Shipping is not available for every order and UMG reserves the right to revoke Split Shipping options at any time.
 
-13. UMG MAY OFFER EXPEDITED SHIPPING OPTIONS (E.G., NEXT DAY, 2-DAY, 3-DAY). IF YOU SELECTED AN EXPEDITED SHIPPING OPTION, YOUR ITEMS WILL SHIP TOGETHER IN A SINGLE SHIPMENT WHEN ALL ITEMS BECOME AVAILABLE TO SHIP, OR SOLELY AT UMG’S DISCRETION, UMG MAY SPLIT YOUR ORDER INTO SEPARATE SHIPMENTS, AS ITEMS BECOME AVAILABLE. SPLIT SHIPPING IS NOT AVAILABLE AT YOUR OPTION DURING CHECKOUT FOR EXPEDITED ORDERS. UMG RESERVES THE RIGHT TO REVOKE EXPEDITED SHIPPING OPTIONS AT ANY TIME. PLEASE NOTE: EXPEDITED SHIPPING TIMELINES ARE THE CARRIER’S TIMELINES FROM THE DATE THE ITEMS ARE READY TO SHIP FROM UMG’S WAREHOUSE FACILITIES. FOR PREORDERS, EXPEDITED SHIPPING IS BASED UPON WHEN THE PREORDER PERIOD IS OVER, AND THE ITEMS ARE READY TO SHIP. THESE TIMELINES MAY VARY. THE TIMELINE FOR A PREORDER WILL BE AVAILABLE VIA THE PRODUCT PAGE. YOU SHOULD READ ALL PRODUCT DESCRIPTIONS THOROUGHLY FOR ALL APPLICABLE DETAILS AND YOU SHOULD ENSURE YOU UNDERSTAND ALL PREORDER AND SHIPPING TIMELINES PRIOR TO SELECTING YOUR SHIPPING METHOD.
+13. UMG may offer expedited shipping options (e.g., Next Day, 2-Day, 3-Day). If You selected an expedited shipping option, Your items will ship together in a single shipment when all items become available to ship, or solely at UMG’s discretion, UMG may split Your order into separate shipments, as items become available. Split Shipping is not available at Your option during checkout for expedited orders. UMG reserves the right to revoke expedited shipping options at any time. PLEASE NOTE: expedited shipping timelines are the carrier’s timelines from the date the items are ready to ship from UMG’s warehouse facilities. For preorders, expedited shipping is based upon when the preorder period is over, and the items are ready to ship. These timelines may vary. The timeline for a preorder will be available via the product page. You should read all product descriptions thoroughly for all applicable details and You should ensure You understand all preorder and shipping timelines prior to selecting Your shipping method.
 
-IX. GENERAL DISCLAIMER
+IX. General Disclaimer
 
-1. UNLESS OTHERWISE SPECIFIED, PRODUCT PRICES ALREADY REFLECT DISCOUNTS. ALL OFFERS ARE LIMITED TO STOCK ON HAND; NO RAIN CHECKS OR VOUCHERS ARE AVAILABLE UNLESS OTHERWISE NOTED. NOT VALID ON PRIOR PURCHASES, GIFT CARDS, GIFT CERTIFICATES, TAXES, SHIPPING, OR HANDLING AND PROCESSING CHARGES. PURCHASER MUST PAY APPLICABLE SALES TAX, VAT, AND/OR OTHER TAXES AS APPLICABLE. OFFER MAY NOT BE COMBINED WITH ANY OTHER SALE, PROMOTION, DISCOUNT, CODE, PROMO, COUPON AND/OR OFFER. PROMOTIONS HAVE NO CASH VALUE. OFFER CANNOT BE SOLD, TRANSFERRED, OR OTHERWISE BARTERED. VOID WHERE PROHIBITED, TAXED OR OTHERWISE RESTRICTED. RETURNS OR CANCELLATIONS OF ANY PORTION OF A PURCHASE REQUIRES EQUAL FORFEITURE OF OFFER OR AMOUNT EQUAL TO OFFER. UMG HAS THE RIGHT TO END OR MODIFY ANY PROMOTION AT ANY TIME AT ITS SOLE DISCRETION. OTHER RESTRICTIONS MAY APPLY. OFFERS ONLY APPLY TO THE UNITED STATES UNLESS OTHERWISE NOTED.
+1. Unless otherwise specified, product prices already reflect discounts. All offers are limited to stock on hand; no rain checks or vouchers are available unless otherwise noted. Not valid on prior purchases, gift cards, gift certificates, taxes, shipping, or handling and processing charges. Purchaser must pay applicable sales tax, VAT, and/or other taxes as applicable. Offer may not be combined with any other sale, promotion, discount, code, promo, coupon and/or offer. Promotions have no cash value. Offer cannot be sold, transferred, or otherwise bartered. Void where prohibited, taxed or otherwise restricted. Returns or cancellations of any portion of a purchase requires equal forfeiture of offer or amount equal to offer. UMG has the right to end or modify any promotion at any time at its sole discretion. Other restrictions may apply. Offers only apply to the United States unless otherwise noted.
 
-X. PAYMENT
+X. Payment
 
-1. UMG MAY ACCEPT SOME OR ALL OF A VARIETY OF PAYMENT OPTIONS, INCLUDING BUT NOT LIMITED TO VISA, MASTERCARD, AMERICAN EXPRESS, DISCOVER, PAYPAL, APPLE PAY, AND OTHER E-WALLETS. PRICES APPEAR ON THIS WEBSTORE AND EXCLUDE SALES TAX UNLESS OTHERWISE STATED. UMG MAY CHANGE THE PRICES FOR PRODUCTS AT ANY TIME BY POSTING NEW PRICES ON THIS WEBSTORE.
+1. UMG may accept some or all of a variety of payment options, including but not limited to Visa, MasterCard, American Express, Discover, PayPal, Apple Pay, and other e-wallets. Prices appear on this Webstore and exclude sales tax unless otherwise stated. UMG may change the prices for products at any time by posting new prices on this Webstore.
 
-2. BY PAYING WITH YOUR CREDIT OR DEBIT CARD, OR ANY OTHER PAYMENT METHOD, YOU CONFIRM THAT THE CARD IS YOURS AND THAT THERE ARE SUFFICIENT FUNDS OR CREDIT AVAILABLE TO COVER THE CHARGES.
+2. By paying with Your credit or debit card, or any other payment method, You confirm that the card is yours and that there are sufficient funds or credit available to cover the charges.
 
-3. PRODUCT PRICES DISPLAYED MAY EXCLUDE DELIVERY CHARGES (WHICH MAY ALSO INCLUDE HANDLING, PACKAGING, AND OTHER COSTS IN ADDITION TO CARRIER FEES), WHICH MAY BE ADDED TO THE TOTAL AMOUNT AND WILL BE CALCULATED AND DISPLAYED ON SCREEN PRIOR TO YOU SUBMITTING YOUR PAYMENT DETAILS OR FINALIZING YOUR ORDER. TYPICALLY, THE PURCHASE WILL APPEAR ON YOUR CREDIT CARD OR BANK STATEMENT UNDER THE APPLICABLE ARTIST OR STORE NAME, OR AS UMG, OR UNDER THE NAME OF AN APPLICABLE TECHNOLOGY VENDOR (SUCH AS "SHOPIFY"). IF YOU HAVE ANY QUESTIONS ABOUT WHAT TO EXPECT ON YOUR CREDIT CARD STATEMENT, PLEASE CONTACT CUSTOMERCARE@UMGSTORES.COM.
+3. Product prices displayed may exclude delivery charges (which may also include handling, packaging, and other costs in addition to carrier fees), which may be added to the total amount and will be calculated and displayed on screen prior to You submitting Your payment details or finalizing your order. Typically, the purchase will appear on Your credit card or bank statement under the applicable artist or store name, or as UMG, or under the name of an applicable technology vendor (such as "Shopify"). If You have any questions about what to expect on Your credit card statement, please contact customercare@umgstores.com.
 
-4. IT IS ALWAYS POSSIBLE THAT, DESPITE UMG’S BEST EFFORTS, SOME OF THE ITEMS LISTED ON THIS WEBSTORE MAY BE INCORRECTLY PRICED. UMG WILL USUALLY VERIFY PRICES AS PART OF UMG’S DISPATCH PROCEDURE SO THAT, WHERE A PRODUCT’S CORRECT PRICE IS LESS THAN UMG’S STATED PRICE, UMG WILL CHARGE THE LOWER AMOUNT WHEN DISPATCHING THE PRODUCT TO YOU. IF A PRODUCT’S CORRECT PRICE IS HIGHER THAN THE PRICE STATED ON THIS WEBSTORE, UMG WILL USUALLY, AT UMG’S DISCRETION, EITHER CONTACT YOU FOR INSTRUCTIONS BEFORE DISPATCHING THE PRODUCT, OR REJECT YOUR ORDER AND NOTIFY YOU OF SUCH REJECTION. UMG IS UNDER NO OBLIGATION TO PROVIDE THE PRODUCT TO YOU AT AN INCORRECT (E.G., LOWER) PRICE, EVEN AFTER UMG HAS SENT YOU A DISPATCH CONFIRMATION, IF THE PRICING ERROR IS OBVIOUS AND/OR COULD HAVE REASONABLY BEEN RECOGNIZED BY YOU.
+4. It is always possible that, despite UMG’s best efforts, some of the items listed on this Webstore may be incorrectly priced. UMG will usually verify prices as part of UMG’s dispatch procedure so that, where a product’s correct price is less than UMG’s stated price, UMG will charge the lower amount when dispatching the product to You. If a product’s correct price is higher than the price stated on this Webstore, UMG will usually, at UMG’s discretion, either contact You for instructions before dispatching the product, or reject Your order and notify You of such rejection. UMG is under no obligation to provide the product to You at an incorrect (e.g., lower) price, even after UMG has sent You a Dispatch Confirmation, if the pricing error is obvious and/or could have reasonably been recognized by You.
 
-5. BILLING TO YOUR CREDIT OR DEBIT CARD WILL TAKE PLACE PRIOR TO OR AT THE TIME OF DISPATCH IN RESPECT OF PHYSICAL PRODUCT(S), OR IN RESPECT OF DIGITAL CONTENT, AT THE TIME OF YOUR PURCHASE OR SOON AFTERWARDS.
+5. Billing to Your credit or debit card will take place prior to or at the time of dispatch in respect of physical product(s), or in respect of digital content, at the time of Your purchase or soon afterwards.
 
-6. UMG MAY USE A THIRD-PARTY SERVICE PROVIDER TO PROCESS PAYMENTS, BUT WILL ENSURE THAT ANY PAYMENT PROCESSOR ENGAGED BY UMG WILL USE SECURITY TO ENCRYPT CREDIT OR DEBIT CARD DATA.
+6. UMG may use a third-party service provider to process payments, but will ensure that any payment processor engaged by UMG will use security to encrypt credit or debit card data.
 
-7. UMG WILL CHECK ALL TRANSACTIONS FOR SIGNS OF FRAUD AND MAY USE A THIRD-PARTY SERVICE PROVIDER TO DO SO. IF YOUR ORDER IS FLAGGED FOR FRAUD, YOUR ORDER WILL BE DELAYED, AND EVENTUALLY A REPRESENTATIVE WILL CONTACT YOU TO VERIFY YOUR INFORMATION. PLEASE CONTACT CUSTOMERCARE@UMGSTORES.COM WITH ANY QUESTIONS RELATED TO YOUR ORDER IF YOU ARE NOTIFIED IT IS FLAGGED FOR FRAUD.
+7. UMG will check all transactions for signs of fraud and may use a third-party service provider to do so. If Your order is flagged for fraud, Your order will be delayed, and eventually a representative will contact You to verify Your information. Please contact customercare@umgstores.com with any questions related to Your order if You are notified it is flagged for fraud.
 
-XI. CANCELLATION, DELIVERY AND USAGE RULES
+XI. Cancellation, Delivery and Usage Rules
 
-1. DIGITAL CONTENT
+1. Digital Content
 
-I. CANCELLATION – IF YOU ORDER DIGITAL CONTENT TO DOWNLOAD OR STREAM, YOU WILL HAVE A CANCELLATION PERIOD OF FOURTEEN (14) DAYS IN WHICH TO CANCEL YOUR ORDER FOR ANY REASON. HOWEVER, IF YOU DECIDE TO DOWNLOAD OR STREAM YOUR PRODUCT BEFORE THE END OF THESE FOURTEEN (14) DAYS, THEN YOU WILL LOSE THIS CANCELLATION RIGHT. WHEN UMG DELIVERS YOU THE LINK TO DOWNLOAD OR STREAM YOUR CONTENT, UMG WILL MAKE IT CLEAR THAT BY CLICKING ON THAT LINK YOU ARE GIVING UP THESE CANCELLATION RIGHTS. IF YOU ARE ORDERING DIGITAL CONTENT THAT IS PROVIDED ON A PHYSICAL CD OR DVD, THE USUAL CANCELLATION TERMS APPLY AS SET OUT IN PARAGRAPH XI(2) BELOW.
+i. Cancellation – If You order digital content to download or stream, You will have a cancellation period of fourteen (14) days in which to cancel Your order for any reason. However, if You decide to download or stream Your product before the end of these fourteen (14) days, then You will lose this cancellation right. When UMG delivers You the link to download or stream Your content, UMG will make it clear that by clicking on that link You are giving up these cancellation rights. If You are ordering digital content that is provided on a physical CD or DVD, the usual cancellation terms apply as set out in paragraph XI(2) below.
 
-II. DELIVERY – EACH DOWNLOAD ITEM MADE AVAILABLE TO OR PURCHASED BY YOU CAN BE ACCESSED VIA THE RELEVANT AREA OF THIS WEBSTORE USING YOUR LOGIN DETAILS AND/OR FOLLOWING THE INSTRUCTIONS PROVIDED ONSCREEN OR VIA EMAIL. IF ANY STREAMING ITEMS ARE MADE AVAILABLE, ALL SUCH STREAMING ITEMS MADE AVAILABLE OR PURCHASED CAN BE ACCESSED IMMEDIATELY AFTER PAYMENT IS AUTHORIZED BY FOLLOWING THE INSTRUCTIONS PROVIDED ONSCREEN OR VIA EMAIL. UMG RESERVES THE RIGHT TO SEND DIGITAL AND/OR PHYSICAL GOODS IN PARTIAL DELIVERIES (I.E., YOU MAY RECEIVE MULTIPLE PACKAGES OR LINKS RELATED TO A SINGLE ORDER).
+ii. Delivery – Each download item made available to or purchased by You can be accessed via the relevant area of this Webstore using Your login details and/or following the instructions provided onscreen or via email. If any streaming items are made available, all such streaming items made available or purchased can be accessed immediately after payment is authorized by following the instructions provided onscreen or via email. UMG reserves the right to send digital and/or physical goods in partial deliveries (i.e., You may receive multiple packages or links related to a single order).
 
-III. USAGE RULES – YOU MAY PURCHASE DOWNLOADS OR STREAM DIGITAL CONTENT (AS APPLICABLE) FOR YOUR PERSONAL AND NON-COMMERCIAL USE ONLY. IN THE EVENT YOU EXPERIENCE ANY PROBLEMS IN DOWNLOADING THE RELEVANT DOWNLOAD ITEM, UMG WILL ALLOW YOU TO SUBSEQUENTLY ATTEMPT TO DOWNLOAD THE RELEVANT DOWNLOAD ITEM. IN THE EVENT YOU EXPERIENCE ANY PROBLEMS WHEN DOWNLOADING, PLEASE CONTACT CUSTOMERCARE@UMGSTORES.COM. PLEASE NOTE, UMG MAY WITHDRAW PRODUCTS FROM THIS WEBSTORE AT ANY TIME. YOU MAY MAKE SUCH COPIES OF A PRODUCT AS SPECIFIED BY ANY SPECIFIC USAGE RULES TO THAT PRODUCT, OR SUCH COPIES AS ARE REASONABLY NECESSARY FOR YOUR PERSONAL, NON-COMMERCIAL USE AS APPLICABLE. YOU WILL NOT BE ENTITLED TO BURN AUDIO-VISUAL PRODUCTS. DIGITAL RIGHTS MANAGEMENT SOFTWARE MAY BE USED FROM TIME TO TIME TO PREVENT ANY UNLAWFUL USE.
+iii. Usage Rules – You may purchase downloads or stream digital content (as applicable) for Your personal and non-commercial use only. In the event You experience any problems in downloading the relevant download item, UMG will allow You to subsequently attempt to download the relevant download item. In the event You experience any problems when downloading, please contact customercare@umgstores.com. Please note, UMG may withdraw products from this Webstore at any time. You may make such copies of a product as specified by any specific usage rules to that product, or such copies as are reasonably necessary for Your personal, non-commercial use as applicable. You will not be entitled to burn audio-visual products. Digital rights management software may be used from time to time to prevent any unlawful use.
 
-IV. TECHNICAL PROBLEMS AND FAULTY PRODUCTS (DIGITAL PRODUCTS) – IF DIGITAL CONTENT THAT YOU DOWNLOAD IS DEFECTIVE OR FAULTY, PLEASE LET UMG KNOW AS SOON AS POSSIBLE (BY CONTACTING UMG AT CUSTOMERCARE@UMGSTORES.COM THAT THE DIGITAL CONTENT IS INDEED DEFECTIVE, UMG WILL FIRST ATTEMPT TO REPAIR OR REPLACE THE RELEVANT PRODUCT AT UMG’S COST WITHIN A REASONABLE TIMEFRAME IF IT IS REASONABLY POSSIBLE TO DO SO. IF A REPAIR OR REPLACEMENT IS NOT POSSIBLE, UMG WILL REFUND YOU FOR EITHER THE FULL OR PARTIAL COST OF THE PRODUCT AS APPROPRIATE. IF UMG AGREES TO A REFUND, UMG WILL REFUND THE SUM AGREED WITHIN FOURTEEN (14) DAYS OF CONFIRMING TO YOU THAT YOU ARE ENTITLED TO A REFUND.
+iv. Technical Problems and Faulty Products (digital products) – If digital content that You download is defective or faulty, please let UMG know as soon as possible (by contacting UMG at customercare@umgstores.com that the digital content is indeed defective, UMG will first attempt to repair or replace the relevant product at UMG’s cost within a reasonable timeframe if it is reasonably possible to do so. If a repair or replacement is not possible, UMG will refund You for either the full or partial cost of the product as appropriate. If UMG agrees to a refund, UMG will refund the sum agreed within fourteen (14) days of confirming to You that You are entitled to a refund.
 
-2. PHYSICAL PRODUCTS
+2. Physical Products
 
-I. CANCELLATION
+i. Cancellation
 
-A.) UNLESS OTHERWISE STATED UPON PLACING YOUR TRANSACTION IN THE PRODUCT DESCRIPTION, OR IN THE CHECKOUT, YOU MAY CANCEL YOUR PURCHASE OF PHYSICAL PRODUCTS AT ANY TIME PRIOR TO THE PRODUCT BEING SHIPPED TO YOU, FOR ANY REASON, BY EMAILING A NOTICE OF CANCELATION TO CUSTOMERCARE@UMGSTORES.COM, PRIOR TO RECEIVING A SHIPPING CONFIRMATION. IF YOUR ITEM HAS ALREADY SHIPPED, YOU MAY RETURN THE ITEM FOR STORE CREDIT WITHIN FIVE (5) DAYS OF RECEIVING THE PRODUCT FOR ANY REASON, PROVIDED THAT YOU FOLLOW THE SPECIFIED INSTRUCTIONS FROM UMG REGARDING RETURNS. IN THIS CASE, YOU WILL RECEIVE A FULL REFUND OF THE PRICE PAID FOR THE PRODUCT(S) IN ACCORDANCE WITH UMG’S REFUND POLICY SET OUT IN SECTION XIII BELOW. FOR CLARITY, WHERE YOUR ORDER WAS FOR PRODUCTS OF A "HYBRID" NATURE (E.G., A PHYSICAL AND DIGITAL PRODUCT) AND UMG HAS BEGUN THE PROCESS OF DELIVERING YOUR DIGITAL PRODUCT ORDER, UMG WILL REFUND THE RELEVANT PHYSICAL ELEMENT OF THE ORDER IN ACCORDANCE WITH UMG’S CANCELLATION POLICY AS SET OUT IN THIS SECTION XI(2). WHERE YOU ORDER MULTIPLE ITEMS THAT ARE DELIVERED IN SEPARATE BATCHES, YOUR FOURTEEN (14) DAY CANCELLATION PERIOD DOES NOT BEGIN UNTIL THE DAY AFTER THE LAST ITEM HAS BEEN RECEIVED BY YOU.
+a.) Unless otherwise stated upon placing Your transaction in the product description, or in the checkout, You may cancel Your purchase of physical products at any time prior to the product being shipped to You, for any reason, by emailing a notice of cancelation to customercare@umgstores.com, prior to receiving a shipping confirmation. If Your item has already shipped, You may return the item for store credit within five (5) days of receiving the product for any reason, provided that You follow the specified instructions from UMG regarding returns. In this case, You will receive a full refund of the price paid for the product(s) in accordance with UMG’s Refund Policy set out in Section XIII below. For clarity, where Your order was for products of a "hybrid" nature (e.g., a physical and digital product) and UMG has begun the process of delivering Your digital product order, UMG will refund the relevant physical element of the order in accordance with UMG’s Cancellation Policy as set out in this Section XI(2). Where You order multiple items that are delivered in separate batches, Your fourteen (14) day cancellation period does not begin until the day after the last item has been received by You.
 
-B. TO CANCEL IN ACCORDANCE WITH THE TERMS HEREIN, YOU MUST INFORM UMG CLEARLY. UMG RECOMMENDS EMAILING CUSTOMERCARE@UMGSTORES.COM WITH A CLEAR "NOTICE OF ORDER CANCELATION" AND YOUR ORDER NUMBER IN THE SUBJECT LINE OF THE EMAIL. PLEASE RETURN THE PRODUCT TO UMG IMMEDIATELY IN THE SAME CONDITION YOU RECEIVED IT (AT YOUR OWN COST AND RISK), FOLLOWING THE SPECIFIC RETURN INSTRUCTIONS YOU RECEIVE. YOU HAVE A LEGAL OBLIGATION TO TAKE CARE OF THE PRODUCT WHILE IT IS IN YOUR POSSESSION. IF YOU FAIL TO DO SO, UMG MAY HAVE A CLAIM AGAINST YOU FOR REIMBURSEMENT FOR ANY DAMAGE CAUSED BY YOU TO THE PRODUCT.
+b.) To cancel in accordance with the terms herein, You must inform UMG clearly. UMG recommends emailing customercare@umgstores.com with a clear "Notice of Order Cancelation" and Your order number in the subject line of the email. Please return the product to UMG immediately in the same condition you received it (at your own cost and risk), following the specific return instructions You receive. You have a legal obligation to take care of the product while it is in Your possession. If You fail to do so, UMG may have a claim against You for reimbursement for any damage caused by You to the product.
 
-C. FURTHER DETAILS, INCLUDING AN EXPLANATION OF HOW TO EXERCISE YOUR RIGHT TO CANCEL, MAY BE PROVIDED IN THE DISPATCH CONFIRMATION FOR PHYSICAL GOODS. DETAILS OF UMG’S REFUND POLICY CAN ALSO BE FOUND AT SECTION XIII.
+c.) Further details, including an explanation of how to exercise Your right to cancel, may be provided in the Dispatch Confirmation for physical goods. Details of UMG’s Refund Policy can also be found at Section XIII.
 
-D. NOTE, THIS RIGHT TO CANCEL DOES NOT APPLY:
+d.) Note, this right to cancel does not apply:
 
-1. WHERE CDS AND/OR DVDS (OR OTHER SUCH AUDIO OR AUDIO-VISUAL PRODUCTS) HAVE BEEN UNSEALED;
+1.) where CDs and/or DVDs (or other such audio or audio-visual products) have been unsealed;
 
-2. WHERE THE PRODUCT HAS BEEN MADE TO YOUR SPECIFICATION;
+2.) where the product has been made to Your specification;
 
-3. TO DIGITAL CONTENT (SEE SECTIONS XI(1) ABOVE);
+3.) to digital content (see Sections XI(1) above);
 
-4. WHERE THE PRODUCT, BY REASON OF ITS NATURE, CANNOT BE RETURNED, OR IS BILLED IS A "FINAL SALE" OR PART OF AN "ALL SALES ARE FINAL" OFFER IN THE APPLICABLE PRODUCT DESCRIPTION OR CHECKOUT PAGE;
+4.) where the product, by reason of its nature, cannot be returned, or is billed is a "Final Sale" or part of an "All Sales are Final" offer in the applicable product description or checkout page;
 
-5. LIMITED ADDITION MERCHANDISE OR OTHER MEMORABILIA; AND
+5.) Limited addition merchandise or other memorabilia; and
 
-6. MERCHANDISE THAT HAS BEEN WORN, WASHED OR IN ANY WAY DAMAGED BY THE CONSUMER.
+6.) Merchandise that has been worn, washed or in any way damaged by the consumer.
 
-II. DELIVERY. UMG WILL MAKE BEST EFFORTS TO FULFILL YOUR ORDER BY THE DELIVERY DATE, OR ESTIMATED DELIVERY DATE SET OUT IN THE DISPATCH CONFIRMATION, HOWEVER, IT IS UNDERSTOOD THAT CIRCUMSTANCES OUTSIDE OF UMG’S CONTROL MAY DELAY FULFILLMENT OR DELIVERY, INCLUDING, BUT NOT LIMITED TO: HIGH-ORDER VOLUMES, HOLIDAYS, WEATHER, ARTIST SIGNINGS, PREORDER DELAYS, MANUFACTURING DELAYS FOR PREORDER PRODUCT, AND SHIPPING DELAYS FROM THE CONTENT PROVIDER FOR PREORDER PRODUCT.
+ii. Delivery. UMG will make best efforts to fulfill Your order by the delivery date, or estimated delivery date set out in the Dispatch Confirmation, however, it is understood that circumstances outside of UMG’s control may delay fulfillment or delivery, including, but not limited to: high-order volumes, holidays, weather, artist signings, preorder delays, manufacturing delays for preorder product, and shipping delays from the content provider for preorder product.
 
-III. RISK AND TITLE. PRODUCTS PURCHASED WILL BE AT YOUR OWN RISK OF LOSS FROM THE TIME OF DELIVERY. OWNERSHIP OF THE PRODUCTS WILL ONLY PASS TO YOU WHEN UMG RECEIVES FULL PAYMENT OF ALL SUMS DUE IN RESPECT OF THE PRODUCTS, INCLUDING DELIVERY CHARGES.
+iii. Risk and Title. Products purchased will be at Your own risk of loss from the time of delivery. Ownership of the products will only pass to You when UMG receives full payment of all sums due in respect of the products, including delivery charges.
 
-XII. DAMAGED, INCORRECT OR INCOMPLETE ORDERS
+XII. Damaged, Incorrect or Incomplete Orders
 
-1. IF YOUR ORDER ARRIVES DAMAGED, INCORRECT OR INCOMPLETE, PLEASE CONTACT UMG AT CUSTOMERCARE@UMGSTORES.COM.
+1. If Your order arrives damaged, incorrect or incomplete, please contact UMG at customercare@umgstores.com.
 
-2. DAMAGED. IF YOUR ORDERED PRODUCT(S) ARRIVE DAMAGED, PHOTOGRAPH EVIDENCE WILL NEED TO BE ATTACHED TO YOUR EMAIL TO UMG. ONCE UMG RECEIVES THE PHOTOGRAPHS, UMG WILL ISSUE YOU A RETURN LABEL VIA EMAIL. ONCE THE DAMAGED PRODUCT(S) IS SHIPPED BACK TO UMG, AND UMG OBTAINS POSSESSION OF SAID PRODUCT(S), UMG WILL PROVIDE YOU WITH REPLACEMENT PRODUCT(S).
+2. Damaged. If Your ordered product(s) arrive damaged, photograph evidence will need to be attached to Your email to UMG. Once UMG receives the photographs, UMG will issue You a return label via email. Once the damaged product(s) is shipped back to UMG, and UMG obtains possession of said product(s), UMG will provide You with replacement product(s).
 
-3. INCORRECT. IF YOUR ORDERED PRODUCT(S) ARRIVE AND THE PRODUCT(S) IS/ARE NOT WHAT YOU ORDERED; ONCE YOU CONTACT UMG NOTIFYING UMG THAT YOU RECEIVED INCORRECT PRODUCT(S), UMG WILL ISSUE YOU A RETURN LABEL VIA EMAIL. ONCE THE INCORRECT PRODUCT IS SHIPPED BACK TO UMG, AND UMG OBTAINS POSSESSION OF SAID PRODUCT(S), UMG WILL PROVIDE YOU WITH A REPLACEMENT PRODUCT.
+3. Incorrect. If Your ordered product(s) arrive and the product(s) is/are not what You ordered; once You contact UMG notifying UMG that You received incorrect product(s), UMG will issue You a return label via email. Once the incorrect product is shipped back to UMG, and UMG obtains possession of said product(s), UMG will provide You with a replacement product.
 
-4. WORN OR WASHED. UMG WILL NOT PROVIDE RETURN LABELS, NOR BE RESPONSIBLE, FOR ANY PRODUCT THAT HAS BEEN WORN OR WASHED.
+4. Worn or Washed. UMG will not provide return labels, nor be responsible, for any product that has been worn or washed.
 
-XIII. REFUND POLICY
+XIII. Refund Policy
 
-1. IF YOU CANCEL YOUR PURCHASE OF PRODUCTS AS DETAILED IN SECTION XI ABOVE, UMG WILL PROCESS THE REFUND DUE TO YOU AS SOON AS POSSIBLE. IN SUCH EVENT, UMG WILL REFUND THE PRICE OF THE PRODUCT IN FULL, INCLUDING THE COST OF DELIVERING THE ITEM TO YOU VIA STANDARD DELIVERY, PROVIDED THAT YOU HAVE TAKEN REASONABLE CARE OF THE RETURNED PRODUCT. IF AUDIO, VIDEO OR SOFTWARE PRODUCTS PROVIDED TO YOU IN A SEPARATE SEALED PACKET ARE OPENED, YOU MAY NOT BE ENTITLED TO A REFUND. YOU WILL BE RESPONSIBLE FOR THE COST OF RETURNING THE ITEM TO UMG. FOR CLARITY, WHERE YOUR ORDER WAS FOR PRODUCTS OF A "HYBRID" NATURE (E.G., A PHYSICAL AND DIGITAL PRODUCT) AND UMG HAS BEGUN THE PROCESS OF DELIVERING THE DIGITAL PART OF YOUR PRODUCT ORDER, UMG WILL REFUND THE RELEVANT ELEMENT OF THE ORDER IN ACCORDANCE WITH UMG’S CANCELLATION POLICY (AS SET OUT IN SECTION XI AS APPLICABLE) FOR THAT PARTICULAR PRODUCT.
+1. If You cancel Your purchase of products as detailed in Section XI above, UMG will process the refund due to You as soon as possible. In such event, UMG will refund the price of the product in full, including the cost of delivering the item to You via standard delivery, provided that You have taken reasonable care of the returned product. If audio, video or software products provided to You in a separate sealed packet are opened, You may not be entitled to a refund. You will be responsible for the cost of returning the item to UMG. For clarity, where Your order was for products of a "hybrid" nature (e.g., a physical and digital product) and UMG has begun the process of delivering the digital part of Your product order, UMG will refund the relevant element of the order in accordance with UMG’s Cancellation Policy (as set out in Section XI as applicable) for that particular product.
 
-2. IF YOU SEEK TO CANCEL YOUR PURCHASE BECAUSE YOU CLAIM THAT THE PRODUCT IS DEFECTIVE OR THAT THERE HAS BEEN DAMAGE OR ERROR ON UMG’S PART, UMG WILL EXAMINE THE RETURNED PRODUCT AND WILL NOTIFY YOU OF YOUR REFUND OR OTHERWISE VIA EMAIL WITHIN A REASONABLE PERIOD OF TIME.
+2. If You seek to cancel Your purchase because You claim that the product is defective or that there has been damage or error on UMG’s part, UMG will examine the returned product and will notify You of Your refund or otherwise via email within a reasonable period of time.
 
-3. IN THE EVENT THAT UMG HAS TO CANCEL YOUR ORDER AFTER PAYMENT HAS BEEN RECEIVED FROM YOU, UMG WILL NOTIFY YOU OF UMG’S NEED TO CANCEL YOUR ORDER AND SUPPLY YOU WITH A REFUND AS SOON AS POSSIBLE.
+3. In the event that UMG has to cancel Your order after payment has been received from you, UMG will notify You of UMG’s need to cancel Your order and supply You with a refund as soon as possible.
 
-4. PRODUCTS RETURNED BY YOU BECAUSE OF A DEFECT WILL BE REFUNDED IN FULL, INCLUDING A REFUND OF THE DELIVERY CHARGES FOR SENDING THE ITEM TO YOU AND THE COST INCURRED BY YOU IN RETURNING THE ITEM TO UMG.
+4. Products returned by You because of a defect will be refunded in full, including a refund of the delivery charges for sending the item to You and the cost incurred by You in returning the item to UMG.
 
-5. UMG WILL ATTEMPT TO PROCESS ANY REFUND USING THE SAME METHOD ORIGINALLY USED BY YOU TO PAY FOR YOUR PURCHASE. IF YOU USE A GIFT CARD TO MAKE YOUR PURCHASE, OR ANY OTHER PREPAID METHOD, YOU MAY RECEIVE CREDIT BACK TO THE APPLICABLE GIFT CARD OR PREPAID METHOD; BECAUSE OF THIS, YOU ARE EXPECTED TO KEEP ANY GIFT CARDS OR PREPAID METHODS PURSUANT TO MAKING A PURCHASE TO ENSURE YOU RECEIVE CREDIT UPON ANY REFUND.
+5. UMG will attempt to process any refund using the same method originally used by You to pay for Your purchase. If You use a gift card to make your purchase, or any other prepaid method, You may receive credit back to the applicable gift card or prepaid method; because of this, You are expected to keep any gift cards or prepaid methods pursuant to making a purchase to ensure You receive credit upon any refund.
 
-XIV. TECHNICAL PROBLEMS
+XIV. Technical Problems
 
-1. OCCASIONALLY, TECHNICAL PROBLEMS MAY DELAY OR PREVENT DELIVERY OF A PURCHASED PRODUCT. IN SUCH EVENT, YOUR SOLE REMEDY WILL BE EITHER A REPLACEMENT PRODUCT OR A REFUND, AS DETERMINED BY UMG OR THE RELEVANT THIRD-PARTY SUPPLIER AS APPROPRIATE.
+1. Occasionally, technical problems may delay or prevent delivery of a purchased product. In such event, Your sole remedy will be either a replacement product or a refund, as determined by UMG or the relevant third-party supplier as appropriate.
 
-2. UMG WILL NOT BE LIABLE TO YOU FOR FAILURES, DEFECTS OR DELAYS IN DELIVERY CAUSED BY:
+2. UMG will not be liable to You for failures, defects or delays in delivery caused by:
 
-I. YOUR PROVISION OF INCORRECT INFORMATION;
+i. Your provision of incorrect information;
 
-II. YOUR COMPUTER FAILING TO MEET THE MINIMUM TECHNICAL REQUIREMENTS FOR THE SERVICES;
+ii. Your computer failing to meet the minimum technical requirements for the Services;
 
-III. YOUR FAILURE TO COMPLY WITH INSTRUCTIONS FOR USE OF THE SERVICES; OR
+iii. Your failure to comply with instructions for use of the Services; or
 
-IV. AN EVENT WHICH IS OUTSIDE OF UMG’S REASONABLE CONTROL.
+iv. an event which is outside of UMG’s reasonable control.
 
-XV. INTERNATIONAL ORDERS; IMPORT DUTY
+XV. International Orders; Import Duty
 
-1. PRODUCTS ORDERED FROM THIS WEBSTORE FOR DELIVERY OUTSIDE THE UNITED STATES MAY TAKE UP TO EIGHT (8) WEEKS FROM THE SHIP DATE TO ARRIVE AT THE DESIGNATED DESTINATION.
+1. Products ordered from this Webstore for delivery outside the United States may take up to eight (8) weeks from the ship date to arrive at the designated destination.
 
-2. PRODUCTS ORDERED FROM THIS WEBSTORE FOR DELIVERY OUTSIDE THE UNITED STATES MAY BE SUBJECT TO IMPORT DUTIES AND TAXES THAT ARE LEVIED WHEN THE DELIVERY REACHES THE SPECIFIED DESTINATION. YOU ACKNOWLEDGE THAT YOU MAY BE LISTED AS THE DECLARANT ON ANY CUSTOMS DECLARATION(S) ASSOCIATED WITH YOUR ORDER(S), AS APPLICABLE. YOU WILL BE RESPONSIBLE FOR PAYMENT OF ANY SUCH IMPORT DUTIES AND TAXES. FURTHER, YOU SHALL BE RESPONSIBLE FOR ANY LOCAL PICKUP OR SPECIFIED DELIVERY WITH YOUR LOCAL POSTAL SERVICE. UMG HAS NO CONTROL OVER THESE CHARGES AND LOCAL REQUIREMENTS AND CANNOT PREDICT THEIR AMOUNT. PLEASE CONTACT YOUR LOCAL CUSTOMS OFFICE AND POST OFFICE FOR FURTHER INFORMATION BEFORE PLACING YOUR ORDER.
+2. Products ordered from this Webstore for delivery outside the United States may be subject to import duties and taxes that are levied when the delivery reaches the specified destination. You acknowledge that You may be listed as the declarant on any customs declaration(s) associated with Your order(s), as applicable. You will be responsible for payment of any such import duties and taxes. Further, You shall be responsible for any local pickup or specified delivery with Your local postal service. UMG has no control over these charges and local requirements and cannot predict their amount. Please contact Your local customs office and post office for further information before placing Your order.
 
-3. YOU MUST MAKE SURE THAT YOU COMPLY WITH ALL APPLICABLE LAWS AND REGULATIONS OF THE COUNTRY FOR WHICH THE PRODUCTS ARE DESTINED. UMG WILL NOT BE LIABLE FOR ANY BREACH BY YOU OF ANY SUCH LAWS.
+3. You must make sure that You comply with all applicable laws and regulations of the country for which the products are destined. UMG will not be liable for any breach by You of any such laws.
 
-XVI. GAMES
+XVI. Games
 
-1. UMG MAY FROM TIME TO TIME PROVIDE ACCESS VIA THIS WEBSTORE TO GAMES, APPLICATIONS, AND OTHER SUCH FEATURES (THE "GAMES") THAT MAY BE ACCESSED BY YOU SUBJECT, IN ADDITION TO THE TERMS, TO THE FOLLOWING SPECIFIC PROVISIONS:
+1. UMG may from time to time provide access via this Webstore to games, applications, and other such features (the "Games") that may be accessed by You subject, in addition to the Terms, to the following specific provisions:
 
-I. UNLESS OTHERWISE SPECIFIED, ALL CONTENT, TEXT, GRAPHICS, LOGOS, BUTTON ICONS, IMAGES, AUDIO CLIPS, DIGITAL DOWNLOADS, DATA COMPILATIONS, AND SOFTWARE ACCESSIBLE VIA THIS WEBSTORE (COLLECTIVELY THE "MATERIALS") ARE THE PROPERTY OF UMG, OR ITS SUPPLIERS, AND ARE PROTECTED BY THE UNITED STATES’ AND INTERNATIONAL COPYRIGHT, TRADE MARK AND OTHER RELEVANT INTELLECTUAL PROPERTY AND PROPRIETARY RIGHTS LAWS.
+i. Unless otherwise specified, all content, text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software accessible via this Webstore (collectively the "Materials") are the property of UMG, or its suppliers, and are protected by the United States’ and international copyright, trade mark and other relevant intellectual property and proprietary rights laws.
 
-II. YOU MAY ACCESS AND USE THE GAMES AND THE MATERIALS ONLY FOR YOUR PERSONAL AND NON-COMMERCIAL USE AND, IF APPLICABLE, IN ACCORDANCE WITH THE TERMS OF THE END USER LICENSE AGREEMENT THAT ACCOMPANIES OR IS INCLUDED WITH THE GAMES AND WHICH IS INCORPORATED INTO THESE TERMS BY REFERENCE.
+ii. You may access and use the Games and the Materials only for Your personal and non-commercial use and, if applicable, in accordance with the terms of the end user license agreement that accompanies or is included with the Games and which is incorporated into these Terms by reference.
 
-III. EXCEPT AS EXPRESSLY AUTHORIZED BY UMG IN WRITING, YOU MAY NOT MODIFY, DOWNLOAD, REPRODUCE, COPY, SELL, POST, TRANSMIT, CREATE DERIVATIVE WORKS FROM, PUBLICLY PERFORM, PUBLICLY DISPLAY, DISTRIBUTE OR OTHERWISE USE THE GAMES OR THE MATERIALS FOR ANY OTHER PURPOSE.
+iii. Except as expressly authorized by UMG in writing, You may not modify, download, reproduce, copy, sell, post, transmit, create derivative works from, publicly perform, publicly display, distribute or otherwise use the Games or the Materials for any other purpose.
 
-IV. YOU MAY NOT LINK TO OR FRAME THE GAMES OR USE FRAMING TECHNIQUES TO ENCLOSE ANY TRADEMARK, LOGO, OR OTHER PROPRIETARY INFORMATION (INCLUDING IMAGES, TEXT, PAGE LAYOUT, OR FORM) OF UMG WITHOUT FIRST OBTAINING UMG’S EXPRESS WRITTEN CONSENT.
+iv. You may not link to or frame the Games or use framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of UMG without first obtaining UMG’s express written consent.
 
-V. YOU MAY NOT USE ANY META TAGS OR ANY OTHER "HIDDEN TEXT" USING UMG’S NAME OR TRADEMARKS WITHOUT UMG’S EXPRESS WRITTEN CONSENT. ANY UNAUTHORIZED USE IMMEDIATELY TERMINATES THE PERMISSION OR LICENSE GRANTED BY UMG.
+v. You may not use any meta tags or any other "hidden text" using UMG’s name or trademarks without UMG’s express written consent. Any unauthorized use immediately terminates the permission or license granted by UMG.
 
-VI. YOU AGREE THAT UMG IN ITS SOLE DISCRETION MAY TERMINATE, MODIFY, DELETE OR SUSPEND YOUR ACCESS TO THE GAMES, OR ANY PART THEREOF, WITH OR WITHOUT NOTICE TO YOU. IN THE EVENT OF TERMINATION FOR ANY BREACH OF THESE TERMS, ALL UNUSED CREDIT IF APPLICABLE, AND/OR OTHER ASPECTS OF YOUR GAMES ACCOUNT WILL BE FORFEITED.
+vi. You agree that UMG in its sole discretion may terminate, modify, delete or suspend Your access to the Games, or any part thereof, with or without notice to You. In the event of termination for any breach of these Terms, all unused credit if applicable, and/or other aspects of Your Games account will be forfeited.
 
-VII. UMG’S THE GAMES ARE SUBJECT TO ALL OTHER UMG POLICIES AND RULES POSTED ON THIS WEBSTORE, INCLUDING UMG’S PRIVACY POLICY. UMG RESERVES THE RIGHT TO MAKE CHANGES TO THE GAMES, THE POLICIES, THE RULES, AND THESE TERMS AT ANY TIME.
+vii. UMG’s the Games are subject to all other UMG policies and rules posted on this Webstore, including UMG’s Privacy Policy. UMG reserves the right to make changes to the Games, the policies, the rules, and these terms at any time.
 
-VIII. WHEN YOU ACCESS THE GAMES, YOU ARE COMMUNICATING WITH UMG ELECTRONICALLY. YOU HEREBY CONSENT TO RECEIVE SUCH ELECTRONIC COMMUNICATIONS.
+viii. When You access the Games, You are communicating with UMG electronically. You hereby consent to receive such electronic communications.
 
-IX. THE GAMES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. UMG MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE GAMES OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON OR ACCESSING/DOWNLOADING FROM THIS WEBSTORE. YOU EXPRESSLY AGREE THAT YOU ARE ACCESSING/DOWNLOADING THE GAMES AT YOUR SOLE RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOADING OF ANY SUCH INFORMATION, CONTENT, MATERIAL OR PRODUCTS. UMG DOES NOT WARRANT THAT THE GAMES, ITS SERVERS, OR ANY ELECTRONIC COMMUNICATIONS SENT TO YOU ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+ix. The Games are provided on an "as is" and "as available" basis. UMG makes no representations or warranties of any kind, express or implied, as to the operation of the Games or the information, content, materials or products included on or accessing/downloading from this Webstore. You expressly agree that You are accessing/downloading the Games at Your sole risk and that You will be solely responsible for any damage to Your computer system or loss of data that results from the downloading of any such information, content, material or products. UMG does not warrant that the Games, its servers, or any electronic communications sent to You are free of viruses or other harmful components.
 
-XVII. TICKET AND EVENT PRE-SALE TERMS
+XVII. Ticket and Event Pre-Sale Terms
 
-1. UMG MAY FROM TIME TO TIME SELL ACCESS TO CERTAIN PRE-SALE OPPORTUNITIES FOR TICKETS AND EVENTS. SUCH PRE-SALE ACCESS MAY BE BUNDLED WITH MERCHANDISE AND OTHER OFFERS.
+1. UMG may from time to time sell access to certain pre-sale opportunities for tickets and events. Such Pre-Sale Access may be bundled with merchandise and other offers.
 
-II. ACCESS TO OBTAIN TICKETS BEFORE THE GENERAL PUBLIC ("PRE-SALE ACCESS") DOES NOT GUARANTEE A TICKET, BUT IS AN OPPORTUNITY TO OBTAIN TICKETS AS A PART OF A PRE-SALE OFFERING.
+ii. Access to obtain tickets before the general public ("Pre-Sale Access") does not guarantee a ticket, but is an opportunity to obtain tickets as a part of a pre-sale offering.
 
-III. PRE-SALE ACCESS IS CONTROLLED BY THIRD PARTY ENTITIES, AND UMG AND RELATED PARTIES HAVE NO CONTROL OR LIABILITY IN RELATION TO SUCH THIRD PARTY TICKET OFFERS.
+iii. Pre-Sale Access is controlled by third party entities, and UMG and related parties have no control or liability in relation to such third party ticket offers.
 
-IV. PRE-SALE ACCESS TO TICKETS WILL ONLY BE AVAILABLE ONLINE. NO DIRECT PHONE, E-MAIL, OR MAIL ORDERS WILL BE ACCEPTED.
+iv. Pre-Sale Access to tickets will only be available online. No direct phone, e-mail, or mail orders will be accepted.
 
-V. PRE-SALE ACCESS TICKETS ARE SOLD AS OUTLINED IN THE PRE-SALE ANNOUNCEMENT AND ACCESS AND TICKET PRICES MAY VARY. NO CHANGES CAN BE MADE TO THE QUANTITY OR TYPE OF TICKETS AVAILABLE. ADDITIONAL LIMITATIONS MAY APPLY
+v. Pre-Sale Access tickets are sold as outlined in the pre-sale announcement and access and ticket prices may vary. No changes can be made to the quantity or type of tickets available. Additional limitations may apply
 
-VI. UMG DOES NOT GUARANTEE PRE-SALE ACCESS TO ANY ADDITIONAL SHOWS ADDED AFTER A PRE-SALE ANNOUNCEMENT
+vi. UMG does not guarantee Pre-Sale Access to any additional shows added after a pre-sale announcement
 
-VII. PRE-SALE ACCESS SALES ARE FINAL. THERE WILL BE NO REFUNDS, EXCHANGES, OR NAME TRANSFERS FOR PRE-SALE ACCESS. YOU SHOULD ONLY PURCHASE PRE-SALE ACCESS FOR SHOWS YOU ARE CERTAIN YOU CAN ATTEND.
+vii. Pre-Sale Access sales are final. There will be no refunds, exchanges, or name transfers for Pre-Sale Access. You should only purchase Pre-Sale Access for shows You are certain You can attend.
 
-VII. YOU MAY NOT RESELL YOUR PRE-SALE ACCESS TO ANOTHER PARTY. RESELLING PRE-SALE ACCESS CAN RESULT IN THE REVOCATION OF THE PRE-SALE ACCESS ITSELF, IN ADDITION TO FUTURE TICKET PRIVILEGES.
+vii. You may not resell Your Pre-Sale Access to another party. Reselling Pre-Sale Access can result in the revocation of the Pre-Sale Access itself, in addition to future ticket privileges.
 
-XVIII. TERMINATION
+XVIII. Termination
 
-1. UMG MAY, IN UMG’S SOLE DISCRETION, TERMINATE YOUR PASSWORD, ACCOUNT (OR ANY PART THEREOF, IF ANY) OR USE OF THIS WEBSTORE WITHOUT NOTICE IF (I) YOU ARE IN BREACH OF THESE TERMS; OR, (II) IF UMG BELIEVES, IN UMG’S ABSOLUTE SOLE DISCRETION, THAT THE SERVICES, THE CONTENT OR THE SOFTWARE, IS UNSUITABLE.
+1. UMG may, in UMG’s sole discretion, terminate Your password, account (or any part thereof, if any) or use of this Webstore without notice if (i) You are in breach of these Terms; or, (ii) if UMG believes, in UMG’s absolute sole discretion, that the Services, the Content or the Software, is unsuitable.
 
-2. TERMINATION, SUSPENSION OR CANCELLATION OF YOUR ACCESS RIGHTS SHALL NOT AFFECT ANY OTHER RIGHT OR RELIEF TO WHICH UMG MAY BE ENTITLED, AT LAW OR IN EQUITY.
+2. Termination, suspension or cancellation of Your access rights shall not affect any other right or relief to which UMG may be entitled, at law or in equity.
 
-3. UPON TERMINATION, ALL RIGHTS GRANTED TO YOU UNDER THESE TERMS WILL AUTOMATICALLY TERMINATE AND IMMEDIATELY REVERT TO UMG AND UMG’S LICENSORS (SAVE FOR ANY CONTINUING RIGHTS WHICH YOU MAY HAVE IN CONNECTION WITH PRODUCTS WHICH YOU HAVE PURCHASED FROM THIS WEBSTORE).
+3. Upon termination, all rights granted to you under these Terms will automatically terminate and immediately revert to UMG and UMG’s licensors (save for any continuing rights which You may have in connection with products which You have purchased from this Webstore).
 
-XIX. WARRANTY; LIABILITY
+XIX. Warranty; Liability
 
-1. UMG WARRANTS TO YOU THAT ANY GOODS PURCHASED FROM UMG THROUGH THIS WEBSTORE ARE OF SATISFACTORY QUALITY AND REASONABLY FIT FOR ALL THE PURPOSES FOR WHICH PRODUCTS OF THE KIND ARE COMMONLY SUPPLIED.
+1. UMG warrants to You that any goods purchased from UMG through this Webstore are of satisfactory quality and reasonably fit for all the purposes for which products of the kind are commonly supplied.
 
-2. WITH RESPECT TO THE SALE OF CERTAIN MERCHANDISE OR AUCTIONS TO RESIDENTS OF THE STATE OF CALIFORNIA, PURSUANT TO CALIFORNIA CIVIL CODE, TITLE 1.1A, AUTOGRAPHED MEMORABILIA, CAL CIVIL CODE § 1739.7 (2017): SALE OF AUTOGRAPHED COLLECTIBLES: AS REQUIRED BY LAW, A DEALER WHO SELLS TO A CONSUMER ANY COLLECTIBLE DESCRIBED AS BEING AUTOGRAPHED MUST PROVIDE A WRITTEN EXPRESS WARRANTY AT THE TIME OF SALE AND A THREE-DAY RIGHT OF RETURN. THIS DEALER MAY BE SURETY BONDED OR OTHERWISE INSURED TO ENSURE THE AUTHENTICITY OF ANY AUTOGRAPHED COLLECTIBLE SOLD BY THIS DEALER.
+2. With respect to the sale of certain merchandise or auctions to residents of the State of California, pursuant to California Civil Code, Title 1.1A, Autographed Memorabilia, Cal Civil Code § 1739.7 (2017): SALE OF AUTOGRAPHED COLLECTIBLES: AS REQUIRED BY LAW, A DEALER WHO SELLS TO A CONSUMER ANY COLLECTIBLE DESCRIBED AS BEING AUTOGRAPHED MUST PROVIDE A WRITTEN EXPRESS WARRANTY AT THE TIME OF SALE AND A THREE-DAY RIGHT OF RETURN. THIS DEALER MAY BE SURETY BONDED OR OTHERWISE INSURED TO ENSURE THE AUTHENTICITY OF ANY AUTOGRAPHED COLLECTIBLE SOLD BY THIS DEALER.
 
-3. IN RELATION TO UMG’S SUPPLY OF PRODUCTS VIA THIS WEBSTORE (INCLUDING BOTH DIGITAL AND PHYSICAL PRODUCTS) UMG’S LIABILITY FOR LOSSES WHICH YOU SUFFER IS STRICTLY LIMITED TO THE PURCHASE PRICE PAID BY YOU. UMG IS NOT RESPONSIBLE FOR INDIRECT LOSSES WHICH ARE NOT FORESEEABLE BY YOU AND UMG (SUCH AS LOSS OF INCOME OR REVENUE, LOSS OF BUSINESS, LOSS OF PROFITS OR CONTRACTS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA, WASTE OF MANAGEMENT OR OFFICE TIME) HOWEVER ARISING AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE.
+3. In relation to UMG’s supply of products via this Webstore (including both digital and physical products) UMG’s liability for losses which You suffer is strictly limited to the purchase price paid by You. UMG is not responsible for indirect losses which are not foreseeable by You and UMG (such as loss of income or revenue, loss of business, loss of profits or contracts, loss of anticipated savings, loss of data, waste of management or office time) however arising and whether caused by tort (including negligence), breach of contract or otherwise.
 
-4. UMG SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE PRODUCTS, INCLUDING BUT NOT LIMITED TO, A DIRECT, INDIRECT, INCIDENTAL AND/OR CONSEQUENTIAL LOSS, INCLUDING LOST PROFITS, GOODWILL OR ANY OTHER INTANGIBLE LOSS, EVEN IF UMG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS. IF YOU ARE AN INDIVIDUAL CONSUMER, THIS MAY NOT APPLY TO YOU AND INSTEAD UMG WILL BE LIABLE TO YOU ONLY FOR THE DIRECT AND ACTUAL LOSS SUFFERED BY YOU AND WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL AND/OR CONSEQUENTIAL LOSS, EVEN IF UMG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+4. UMG shall not be liable for any damages of any kind arising from the use of the products, including but not limited to, a direct, indirect, incidental and/or consequential loss, including lost profits, goodwill or any other intangible loss, even if UMG has been advised of the possibility of such loss. If You are an individual consumer, this may not apply to You and instead UMG will be liable to You only for the direct and actual loss suffered by You and will not be liable for any indirect, incidental and/or consequential loss, even if UMG has been advised of the possibility of such loss.
 
-5. YOU AGREE TO INDEMNIFY UMG, ITS AFFILIATES, SUBSIDIARIES, SERVICE PROVIDERS, DISTRIBUTORS, LICENSORS, OFFICERS, DIRECTORS AND EMPLOYEES FROM ANY CLAIM OR DEMAND MADE BY ANY THIRD PARTY DUE TO, ARISING OUT OF OR RELATED TO YOUR BREACH OF THESE TERMS, MISUSE OF THE PRODUCTS, OR YOUR VIOLATION OF ANY APPLICABLE LAW, RULE, REGULATION OR THIRD PARTY RIGHT.
+5. You agree to indemnify UMG, its affiliates, subsidiaries, service providers, distributors, licensors, officers, directors and employees from any claim or demand made by any third party due to, arising out of or related to Your breach of these Terms, misuse of the products, or Your violation of any applicable law, rule, regulation or third party right.
 
-6. THIS SECTION DOES NOT IN ANY WAY LIMIT OR EXCLUDE UMG’S LIABILITY FOR ANY MATTER FOR WHICH IT WOULD BE ILLEGAL FOR UMG TO EXCLUDE, OR ATTEMPT TO EXCLUDE, UMG’S LIABILITY.
+6. This Section does not in any way limit or exclude UMG’s liability for any matter for which it would be illegal for UMG to exclude, or attempt to exclude, UMG’s liability.
 
-XX. TRANSFER RIGHTS AND OBLIGATIONS
+XX. Transfer Rights and Obligations
 
-1. THE AGREEMENT BETWEEN YOU AND UMG CREATED BY THESE TERMS (THE "AGREEMENT") IS BINDING ON YOU AND UMG AND ON UMG’S RESPECTIVE SUCCESSORS AND ASSIGNS.
+1. The agreement between You and UMG created by these Terms (the "Agreement") is binding on You and UMG and on UMG’s respective successors and assigns.
 
-2. YOU MAY NOT TRANSFER OR ASSIGN, CHARGE OR OTHERWISE DISPOSE OF THE AGREEMENT, OR ANY OF YOUR RIGHTS OR OBLIGATIONS ARISING UNDER IT, WITHOUT UMG’S PRIOR WRITTEN CONSENT.
+2. You may not transfer or assign, charge or otherwise dispose of the Agreement, or any of Your rights or obligations arising under it, without UMG’s prior written consent.
 
-3. UMG MAY TRANSFER, ASSIGN, CHARGE OR SUB-CONTRACT THE AGREEMENT, OR ANY OF UMG’S RIGHTS OR OBLIGATIONS ARISING UNDER IT, AT ANY TIME DURING THE TERM OF THE AGREEMENT, PROVIDED THAT UMG REMAINS PRIMARILY LIABLE FOR UMG’S OBLIGATIONS UNDER THE AGREEMENT WHERE APPLICABLE.
+3. UMG may transfer, assign, charge or sub-contract the Agreement, or any of UMG’s rights or obligations arising under it, at any time during the term of the Agreement, provided that UMG remains primarily liable for UMG’s obligations under the Agreement where applicable.
 
-XXI. EVENTS OUTSIDE UMG’S CONTROL
+XXI. Events Outside UMG’s Control
 
-1. UMG WILL NOT BE LIABLE OR RESPONSIBLE FOR ANY FAILURE TO PERFORM, OR DELAY IN PERFORMANCE OF, ANY OF UMG’S OBLIGATIONS THAT IS CAUSED BY EVENTS OUTSIDE UMG’S REASONABLE CONTROL. UMG’S PERFORMANCE UNDER THESE TERMS IS DEEMED TO BE SUSPENDED FOR THE PERIOD THAT ANY SUCH EVENT CONTINUES, AND UMG WILL HAVE AN EXTENSION OF TIME FOR PERFORMANCE FOR THE DURATION OF THAT PERIOD. UMG WILL USE UMG’S REASONABLE EFFORTS TO FIND A SOLUTION BY MEANS OF WHICH UMG’S OBLIGATIONS MAY BE PERFORMED DESPITE SUCH EVENT.
+1. UMG will not be liable or responsible for any failure to perform, or delay in performance of, any of UMG’s obligations that is caused by events outside UMG’s reasonable control. UMG’s performance under these Terms is deemed to be suspended for the period that any such event continues, and UMG will have an extension of time for performance for the duration of that period. UMG will use UMG’s reasonable efforts to find a solution by means of which UMG’s obligations may be performed despite such event.
 
-XXII. RESOLVING DISPUTES BETWEEN YOU AND UMG
+XXII. Resolving Disputes Between You and UMG
 
-1. UMG AIMS TO HELP YOU WITH ANY QUERIES OR COMPLAINTS YOU MAY HAVE WITH THE SERVICES AND GOODS UMG PROVIDES. EMAIL UMG AT CUSTOMERCARE@UMGSTORES.COM WITH ANY QUESTIONS OR ISSUES.
+1. UMG aims to help You with any queries or complaints You may have with the services and goods UMG provides. Email UMG at customercare@umgstores.com with any questions or issues.
 
-XXIII. MISCELLANEOUS
+XXIII. Miscellaneous
 
-1. THESE TERMS, TOGETHER WITH ANY DOCUMENTS OR LINKS TO OTHER TERMS REFERRED TO HEREIN, CONSTITUTE THE WHOLE AGREEMENT BETWEEN YOU AND UMG AND SUPERSEDE AND EXTINGUISH ANY PRIOR UNDERSTANDINGS, AGREEMENTS OR TERMS BETWEEN YOU AND UMG.
+1. These Terms, together with any documents or links to other terms referred to herein, constitute the whole Agreement between You and UMG and supersede and extinguish any prior understandings, agreements or terms between You and UMG.
 
-2. THE RIGHTS AND REMEDIES PROVIDED IN THESE TERMS ARE CUMULATIVE AND ARE NOT EXCLUSIVE OF ANY RIGHTS AND REMEDIES PROVIDED BY LAW OR OTHERWISE.
+2. The rights and remedies provided in these Terms are cumulative and are not exclusive of any rights and remedies provided by law or otherwise.
 
-3. NO BREACH BY EITHER YOU OR UMG OF ANY PROVISION OF THESE TERMS SHALL BE WAIVED OR DISCHARGED EXCEPT WITH THE EXPRESS WRITTEN CONSENT OF THE OTHER.
+3. No breach by either You or UMG of any provision of these Terms shall be waived or discharged except with the express written consent of the other.
 
-4. NO FAILURE OR DELAY BY EITHER YOU OR UMG IN EXERCISING ANY RIGHT, POWER OR PRIVILEGE UNDER THESE TERMS SHALL OPERATE AS A WAIVER OF THAT RIGHT, POWER OR PRIVILEGE AND NO SINGLE OR PARTIAL EXERCISE BY EITHER YOU OR UMG OF ANY RIGHT, POWER OR PRIVILEGE SHALL PRECLUDE ANY FURTHER EXERCISE OF THAT RIGHT, POWER OR PRIVILEGE OR THE EXERCISE OF ANY OTHER RIGHT, POWER OR PRIVILEGE.
+4. No failure or delay by either You or UMG in exercising any right, power or privilege under these Terms shall operate as a waiver of that right, power or privilege and no single or partial exercise by either You or UMG of any right, power or privilege shall preclude any further exercise of that right, power or privilege or the exercise of any other right, power or privilege.
 
-5. THESE TERMS SHALL BE BINDING ON AND ENDURE FOR THE BENEFIT OF EACH PARTY’S SUCCESSORS IN TITLE.
+5. These Terms shall be binding on and endure for the benefit of each party’s successors in title.
 
-6. THE VIEWS AND OPINIONS EXPRESSED ON THIS WEBSTORE DO NOT NECESSARILY REFLECT THOSE OF UMG AND ITS AFFILIATES.
+6. The views and opinions expressed on this Webstore do not necessarily reflect those of UMG and its Affiliates.
 
-XXIV. GOVERNING LAW AND JURISDICTION
+XXIV. Governing Law and Jurisdiction
 
-1. THESE TERMS SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK AND YOU AND UMG HEREBY IRREVOCABLY SUBMIT TO THE NON-EXCLUSIVE JURISDICTION OF THE STATE OF NEW YORK, NEW YORK COUNTY AS REGARDS TO ANY CLAIM OR MATTER ARISING IN RELATION TO THESE TERMS.
+1. These Terms shall be governed by and construed in accordance with the laws of the State of New York and You and UMG hereby irrevocably submit to the non-exclusive jurisdiction of the State of New York, New York County as regards to any claim or matter arising in relation to these Terms.
 
-2. PLEASE NOTE, YOU MUST COMPLY WITH ALL APPLICABLE LAWS AND REGULATIONS OF THE COUNTRY FOR WHICH THE PRODUCTS ARE DESTINED. UMG WILL NOT BE LIABLE FOR ANY BREACH BY YOU OF ANY SUCH LAWS.
+2. Please note, You must comply with all applicable laws and regulations of the country for which the products are destined. UMG will not be liable for any breach by you of any such laws.
 
-XXV. COMMUNICATION
+XXV. Communication
 
-1. APPLICABLE LAWS REQUIRE THAT SOME OF THE INFORMATION OR COMMUNICATIONS UMG SENDS TO YOU SHOULD BE IN WRITING. WHEN USING THIS WEBSTORE, YOU ACCEPT THAT COMMUNICATION WITH UMG WILL BE PRIMARILY COMMUNICATED ELECTRONICALLY. UMG WILL CONTACT YOU BY EMAIL OR PROVIDE YOU WITH INFORMATION BY POSTING NOTICES ON THIS WEBSTORE. YOU AGREE TO THIS ELECTRONIC MEANS OF COMMUNICATION AND YOU ACKNOWLEDGE THAT ALL CONTRACTS, NOTICES, INFORMATION AND OTHER COMMUNICATIONS THAT UMG PROVIDES TO YOU ELECTRONICALLY COMPLY WITH ANY LEGAL REQUIREMENT THAT SUCH COMMUNICATIONS BE IN WRITING. FOR THE AVOIDANCE OF DOUBT, ALL COMMUNICATIONS, INCLUDING THE CONCLUSION OF THE CONTRACT, WILL BE IN ENGLISH.
+1. Applicable laws require that some of the information or communications UMG sends to You should be in writing. When using this Webstore, You accept that communication with UMG will be primarily communicated electronically. UMG will contact You by email or provide You with information by posting notices on this Webstore. You agree to this electronic means of communication and You acknowledge that all contracts, notices, information and other communications that UMG provides to You electronically comply with any legal requirement that such communications be in writing. For the avoidance of doubt, all communications, including the conclusion of the contract, will be in English.
 
-2. ALL LEGAL NOTICES GIVEN BY YOU TO UMG MUST BE GIVEN TO UMG AT THE ADDRESS SET OUT BELOW OR THE FOLLOWING EMAIL ADDRESS: LEGALNOTICES@UMUSIC.COM. UMG MAY GIVE NOTICE TO YOU AT THE EMAIL OR POSTAL ADDRESS YOU PROVIDE TO UMG WHEN PLACING AN ORDER OR REGISTERING WITH THIS WEBSTORE, OR BY POSTING THE NOTICE ON THIS WEBSTORE. NOTICE WILL BE DEEMED RECEIVED IMMEDIATELY WHEN POSTED ON THIS WEBSTORE, TWENTY-FOUR (24) HOURS AFTER AN EMAIL IS SENT OR THREE (3) DAYS AFTER THE DATE OF POSTING OF ANY LETTER. IN PROVING THE SERVICE OF ANY NOTICE, IT WILL BE SUFFICIENT TO PROVE, IN THE CASE OF A LETTER, THAT SUCH LETTER WAS PROPERLY ADDRESSED, STAMPED AND PLACED IN THE POST AND, IN THE CASE OF AN EMAIL THAT THE EMAIL WAS SENT TO THE SPECIFIED EMAIL ADDRESS OF THE ADDRESSEE.
+2. All legal notices given by You to UMG must be given to UMG at the address set out below or the following email address: legalnotices@umusic.com. UMG may give notice to You at the email or postal address You provide to UMG when placing an order or registering with this Webstore, or by posting the notice on this Webstore. Notice will be deemed received immediately when posted on this Webstore, twenty-four (24) hours after an email is sent or three (3) days after the date of posting of any letter. In proving the service of any notice, it will be sufficient to prove, in the case of a letter, that such letter was properly addressed, stamped and placed in the post and, in the case of an email that the email was sent to the specified email address of the addressee.
 
-3. IF YOU HAVE ANY QUERIES ABOUT THESE TERMS, THIS WEBSTORE OR ANY OF UMG’S SERVICES PLEASE CONTACT: CUSTOMERCARE@UMGSTORES.COM.UMG’S NOTICE ADDRESS IS:
-   UMG COMMERCIAL SERVICES, INC.
-   ATTN: GENERAL COUNSEL, EVP OF BUSINESS & LEGAL AFFAIRS
-   2220 COLORADO AVENUE
-   SANTA MONICA, CALIFORNIA 90404
-   UMG’S HOURS OF OPERATION ARE MONDAY THROUGH FRIDAY, 9:00 AM TO 5:00 PM, EASTERN TIME (UTC 05:00).
+3. If You have any queries about these Terms, this Webstore or any of UMG’s Services please contact: customercare@umgstores.com.UMG’s notice address is:
+   UMG Commercial Services, Inc.
+   Attn: General Counsel, EVP of Business & Legal Affairs
+   2220 Colorado Avenue
+   Santa Monica, California 90404
+   UMG’s hours of operation are Monday through Friday, 9:00 AM to 5:00 PM, Eastern Time (UTC 05:00).
 
-XXVI. EGIFT CARD TERMS
+XXVI. eGift Card Terms
 
-1. UMG EGIFT CARDS (“EGIFT CARDS”) ARE ISSUED BY RISE AI E-COMMERCE SOLUTIONS LTD., AN ISRAELI CORPORATION. EGIFT CARDS MAY BE PURCHASED AT PARTICIPATING UMG ONLINE STORES. EGIFT CARDS MAY ONLY BE REDEEMED TOWARD THE PURCHASE OF ELIGIBLE GOODS AND SERVICES AT SELECT UMG ONLINE STORES.
+1. UMG eGift Cards (“eGift Cards”) are issued by Rise AI E-commerce Solutions Ltd., an Israeli corporation. eGift Cards may be purchased at participating UMG online stores. eGift Cards may only be redeemed toward the purchase of eligible goods and services at select UMG online stores.
 
-2. EGIFT CARDS DO NOT EXPIRE AND THERE ARE NO FEES OR CHARGES ASSOCIATED WITH THEIR USE OR REDEMPTION. THE VALUE OF AN EGIFT CARD DOES NOT DIMINISH OVER TIME THROUGH NON-USE; THE BALANCE DECREASES ONLY THROUGH PURCHASES MADE USING THEN-AVAILABLE EGIFT CARD BALANCE.
+2. eGift Cards do not expire and there are no fees or charges associated with their use or redemption. The value of an eGift Card does not diminish over time through non-use; the balance decreases only through purchases made using then-available eGift Card balance.
 
-3. EGIFT CARDS CANNOT BE USED TO PURCHASE OTHER EGIFT CARDS AND MAY ONLY BE REDEEMED AT SELECT UMG ONLINE STORES. EGIFT CARDS CANNOT BE RELOADED; RESOLD; USED FOR PAYMENT OUTSIDE OF PARTICIPATING UMG ONLINE STORES; REDEEMED FOR MORE THAN FACE VALUE; TRANSFERRED FOR VALUE; REDEEMED FOR CASH; RETURNED FOR A CASH REFUND (EXCEPT TO THE EXTENT REQUIRED BY LAW); OR USED IN A MANNER PROHIBITED BY THESE TERMS.
+3. eGift Cards cannot be used to purchase other eGift Cards and may only be redeemed at select UMG online stores. eGift Cards cannot be reloaded; resold; used for payment outside of participating UMG online stores; redeemed for more than face value; transferred for value; redeemed for cash; returned for a cash refund (except to the extent required by law); or used in a manner prohibited by these terms.
 
-4. THE RISK OF LOSS FOR EGIFT CARDS PASSES TO THE PURCHASER UPON UMG’S ELECTRONIC TRANSMISSION OF THE EGIFT CARD TO THE DESIGNATED RECIPIENT. RECIPIENT IS RESPONSIBLE FOR SAFEGUARDING THE EGIFT CARD FROM UNAUTHORIZED USE. UMG IS NOT RESPONSIBLE IF AN EGIFT CARD IS LOST, STOLEN, OR DESTROYED, IF AN EGIFT CARD IS SENT TO AN INCORRECT ADDRESS PROVIDED BY THE PURCHASER, OR IF AN EGIFT CARD IS USED WITHOUT THE PURCHASER’S OR RECIPIENT’S PERMISSION. UMG IS NOT RESPONSIBLE FOR, AND ASSUMES NO LIABILITY TO, PURCHASER OR RECIPIENT FOR ANY UNLAWFUL CONDUCT OR FRAUD BY ANY THIRD PARTY ASSOCIATED WITH THE PURCHASE OR USE OF ANY EGIFT CARD.
+4. The risk of loss for eGift Cards passes to the purchaser upon UMG’s electronic transmission of the eGift Card to the designated recipient. Recipient is responsible for safeguarding the eGift Card from unauthorized use. UMG is not responsible if an eGift Card is lost, stolen, or destroyed, if an eGift Card is sent to an incorrect address provided by the purchaser, or if an eGift Card is used without the purchaser’s or recipient’s permission. UMG is not responsible for, and assumes no liability to, purchaser or recipient for any unlawful conduct or fraud by any third party associated with the purchase or use of any eGift Card.
 
-5. BY PURCHASING AND/OR REDEEMING AN EGIFT CARD, BOTH PURCHASER AND RECIPIENT AGREE TO COMPLY WITH THESE TERMS AND CONDITIONS. UMG RESERVES THE RIGHT, WITHOUT NOTICE, TO VOID EGIFT CARDS WITHOUT A REFUND, CANCEL OR LIMIT ORDERS, AND/OR BILL ALTERNATIVE FORMS OF PAYMENT FOR A PURCHASE MADE AT AN UMG STORE IF UMG REASONABLY BELIEVES THAT THE EGIFT CARD WAS OBTAINED OR REDEEMED FRAUDULENTLY, UNLAWFULLY, OR OTHERWISE IN VIOLATION OF THESE TERMS AND CONDITIONS.
+5. By purchasing and/or redeeming an eGift Card, both purchaser and recipient agree to comply with these terms and conditions. UMG reserves the right, without notice, to void eGift Cards without a refund, cancel or limit orders, and/or bill alternative forms of payment for a purchase made at an UMG store if UMG reasonably believes that the eGift Card was obtained or redeemed fraudulently, unlawfully, or otherwise in violation of these terms and conditions.
 
-6. FROM TIME TO TIME, UMG MAY LIMIT THE QUANTITY OR NUMBER OF EGIFT CARDS THAT MAY BE PURCHASED AT ONE TIME, OR BY ANY ONE PERSON. SUCH LIMITATIONS, IF ANY, WILL BE SET FORTH ON THE PRODUCT PAGE FOR EGIFT CARDS.
+6. From time to time, UMG may limit the quantity or number of eGift Cards that may be purchased at one time, or by any one person. Such limitations, if any, will be set forth on the product page for eGift Cards.
 
-7. ALL PURCHASES OF EGIFT CARDS ARE FINAL. THE PURCHASE AMOUNT OF AN EGIFT CARDS IS NON-REFUNDABLE AND PURCHASES ARE NON-CANCELLABLE. IN THE EVENT AN EGIFT CARD SENT TO A RECIPIENT IS NON-FUNCTIONAL AND CANNOT BE REDEEMED, THE SOLE REMEDY IS REPLACEMENT OF THAT EGIFT CARD.
+7. All purchases of eGift Cards are final. The purchase amount of an eGift Cards is non-refundable and purchases are non-cancellable. In the event an eGift Card sent to a recipient is non-functional and cannot be redeemed, the sole remedy is replacement of that eGift Card.
