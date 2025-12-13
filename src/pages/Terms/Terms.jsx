@@ -26,7 +26,7 @@ function Terms() {
       "November",
       "December",
     ];
-    // Get month, day and year
+    // Get current month, day, and year
     const month = months[now.getMonth()];
     const day = now.getDate();
     const year = now.getFullYear();
@@ -381,9 +381,9 @@ function Terms() {
           <p className={styles.paragraph}>
             12. If You have ordered multiple items within a single order, UMG reserves the right to either (i) ship Your
             order once all items become available to ship or (ii) to split Your order containing multiple items into
-            multiple shipments (“Split Shipping”) at UMG's discretion. For some orders, UMG may offer You the ability to
-            choose Split Shipping during checkout. Split Shipping options may read “Ship Items Separately - As They
-            Become Available” or similar. If You have selected Split Shipping, Your items will ship in separate packages
+            multiple shipments ("Split Shipping") at UMG's discretion. For some orders, UMG may offer You the ability to
+            choose Split Shipping during checkout. Split Shipping options may read "Ship Items Separately - As They
+            Become Available" or similar. If You have selected Split Shipping, Your items will ship in separate packages
             as they become available for shipment. Split Shipping is not available for every order and UMG reserves the
             right to revoke Split Shipping options at any time.
           </p>
@@ -1008,7 +1008,7 @@ function Terms() {
           <p className={styles.paragraph}>XXVI. eGift Card Terms</p>
 
           <p className={styles.paragraph}>
-            1. UMG eGift Cards (“eGift Cards”) are issued by Rise AI E-commerce Solutions Ltd., an Israeli corporation.
+            1. UMG eGift Cards ("eGift Cards") are issued by Rise AI E-commerce Solutions Ltd., an Israeli corporation.
             eGift Cards may be purchased at participating UMG online stores. eGift Cards may only be redeemed toward the
             purchase of eligible goods and services at select UMG online stores.
           </p>
