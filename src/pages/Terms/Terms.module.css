@@ -4,13 +4,46 @@
   margin: 0 auto;
   min-height: 75vh;
   max-width: 1200px;
-  align-items: center;
   flex-direction: column;
   justify-content: center;
 }
 
+.title {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  transition: 0.3s ease;
+  text-transform: uppercase;
+}
+
+.paragraph {
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  transition: 0.3s ease;
+  text-transform: uppercase;
+}
+
+.paragraph:last-child {
+  margin-bottom: 0;
+}
+
 /* Tablet responsiveness */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+  .title {
+    font-size: 3rem;
+  }
+
+  .paragraph {
+    font-size: 0.875rem;
+  }
+}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .title {
+    font-size: 2rem;
+  }
+
+  .paragraph {
+    font-size: 0.75rem;
+  }
+}
