@@ -12,14 +12,16 @@
   font-size: 3.5rem;
   margin-bottom: 1rem;
   transition: 0.3s ease;
-  text-transform: uppercase;
 }
 
 .paragraph {
   line-height: 1.5;
   margin-bottom: 1rem;
   transition: 0.3s ease;
-  text-transform: uppercase;
+}
+
+.paragraph:last-child {
+  margin-bottom: 0;
 }
 
 .emailLink {
@@ -29,10 +31,6 @@
 
 .emailLink:hover {
   color: var(--text-secondary);
-}
-
-.paragraph:last-child {
-  margin-bottom: 0;
 }
 
 /* Tablet responsiveness */
