@@ -63,7 +63,13 @@ function LegalNotice() {
 
           <p className={styles.paragraph}>· Online using our Privacy Request Form or</p>
 
-          <p className={styles.paragraph}>· By emailing us at privacy@universalmusic.com.</p>
+          <p className={styles.paragraph}>
+            · By emailing us at{" "}
+            <a href="mailto:gilmer2002@outlook.com" className={styles.underline}>
+              privacy@universalmusic.com
+            </a>
+            .
+          </p>
 
           <p className={styles.paragraph}>US STATE RIGHTS</p>
 
@@ -115,7 +121,105 @@ function LegalNotice() {
             defined by state laws.
           </p>
 
-          {/* TABLE GOES HERE */}
+          {/* Personal data disclosure table */}
+          <div className={styles.tableWrapper}>
+            <table className={styles.dataTable}>
+              <thead>
+                <tr>
+                  <th className={styles.tableHeader}>CATEGORIES OF PERSONAL DATA</th>
+                  <th className={styles.tableHeader}>
+                    DISCLOSED TO THE FOLLOWING CATEGORIES OF THIRD PARTIES FOR BUSINESS PURPOSES
+                  </th>
+                  <th className={styles.tableHeader}>
+                    SHARED FOR TARGETED ADVERTISING PURPOSES WITH THE FOLLOWING CATEGORIES OF THIRD PARTIES
+                  </th>
+                  <th className={styles.tableHeader}>SOLD TO THE FOLLOWING CATEGORIES OF THIRD PARTIES</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td className={styles.tableCell}>
+                    IDENTIFIERS SUCH AS REAL NAME, ALIAS, POSTAL ADDRESS, UNIQUE PERSONAL IDENTIFIER, ONLINE IDENTIFIER,
+                    IP ADDRESS, EMAIL ADDRESS, ACCOUNT NAME, SOCIAL SECURITY NUMBER, DRIVER'S LICENSE NUMBER, PASSPORT
+                    NUMBER, OR OTHER SIMILAR IDENTIFIERS
+                  </td>
+                  <td className={styles.tableCell}>
+                    UMG AFFILIATES, BUSINESS PARTNERS, OUR SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                  </td>
+                  <td className={styles.tableCell}>
+                    OUR BUSINESS PARTNERS, OUR SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                  </td>
+                  <td className={styles.tableCell}>DATA ENRICHMENT PROVIDERS</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    COMMERCIAL INFORMATION, INCLUDING PRODUCTS OR SERVICES PURCHASED, OBTAINED, OR CONSIDERED, OR OTHER
+                    PURCHASING OR CONSUMING HISTORIES OR TENDENCIES
+                  </td>
+                  <td className={styles.tableCell}>
+                    UMG AFFILIATES, BUSINESS PARTNERS, SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                  </td>
+                  <td className={styles.tableCell}>N/A</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    GENDER, A PROTECTED CLASSIFICATION UNDER CALIFORNIA AND FEDERAL LAW
+                  </td>
+                  <td className={styles.tableCell}>UMG AFFILIATES, BUSINESS PARTNERS, AND SERVICE PROVIDERS</td>
+                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    INTERNET OR OTHER ELECTRONIC NETWORK ACTIVITY INFORMATION, INCLUDING BROWSING HISTORY, SEARCH
+                    HISTORY, AND INFORMATION REGARDING A CONSUMER'S INTERACTION WITH AN INTERNET WEBSITE, APPLICATION,
+                    OR ADVERTISEMENT
+                  </td>
+                  <td className={styles.tableCell}>UMG AFFILIATES, BUSINESS PARTNERS, AND SERVICE PROVIDERS</td>
+                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    GEOLOCATION DATA, GENERALLY DERIVED FROM IP ADDRESS LOCATION SERVICES, BUT COULD ALSO INCLUDE
+                    PRESENCE IN A GEO-FENCED AREA
+                  </td>
+                  <td className={styles.tableCell}>UMG AFFILIATES, BUSINESS PARTNERS, AND SERVICE PROVIDERS</td>
+                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>AUDIO, ELECTRONIC, VISUAL, OR SIMILAR INFORMATION</td>
+                  <td className={styles.tableCell}>SERVICE PROVIDERS</td>
+                  <td className={styles.tableCell}>N/A</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    INFERENCES DRAWN FROM ANY OF THE INFORMATION IDENTIFIED IN THIS SUBDIVISION TO CREATE A PROFILE
+                    ABOUT A CONSUMER REFLECTING THE CONSUMER'S PREFERENCES, CHARACTERISTICS, PSYCHOLOGICAL TRENDS,
+                    PREDISPOSITIONS, BEHAVIOR, ATTITUDES, INTELLIGENCE, ABILITIES, AND APTITUDES
+                  </td>
+                  <td className={styles.tableCell}>
+                    UMG AFFILIATES; BUSINESS PARTNERS, SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                  </td>
+                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    OTHER INFORMATION ABOUT YOU THAT IS LINKED TO THE PERSONAL INFORMATION ABOVE
+                  </td>
+                  <td className={styles.tableCell}>
+                    UMG AFFILIATES, BUSINESS PARTNERS, SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                  </td>
+                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
 
           <p className={styles.paragraph}>Categories of Sources:</p>
 
@@ -180,8 +284,11 @@ function LegalNotice() {
 
           <p className={styles.paragraph}>
             Depending on your state, if you have submitted a request that we have not reasonably fulfilled, you may
-            contact us to appeal our decision by sending an email with the subject line "Appeal" to
-            privacy@universalmusic.com.
+            contact us to appeal our decision by sending an email with the subject line "Appeal" to at{" "}
+            <a href="mailto:gilmer2002@outlook.com" className={styles.underline}>
+              privacy@universalmusic.com
+            </a>
+            .
           </p>
 
           <p className={styles.paragraph}>Verification</p>
