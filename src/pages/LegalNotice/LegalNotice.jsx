@@ -45,7 +45,7 @@ function LegalNotice() {
 
           {/* Legal notice */}
           <p className={styles.paragraph}>
-            Here at Universal Music Group, we take your privacy seriously and we’re dedicated to providing you with the
+            Here at Universal Music Group, we take your privacy seriously and we're dedicated to providing you with the
             best possible music experience. To do that, we collect and use information about you to personalize our
             sites, stores, and marketing communications. However, only you know what your best experience is, so we
             provide fans with choices about how we collect, use and share your data.
@@ -73,7 +73,7 @@ function LegalNotice() {
           </p>
 
           <p className={styles.paragraph}>
-            · Confirm whether we process the consumer’s personal information and to access such information
+            · Confirm whether we process the consumer's personal information and to access such information
           </p>
 
           <p className={styles.paragraph}>· Correct inaccuracies in personal information</p>
@@ -94,24 +94,24 @@ function LegalNotice() {
 
           <p className={styles.paragraph}>
             California residents may opt out of having their personally identifiable information shared with third
-            parties for those third parties’ direct marketing purposes by contacting us as described above.
+            parties for those third parties' direct marketing purposes by contacting us as described above.
           </p>
 
           <p className={styles.paragraph}>
-            Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit “do-not-track” signals to the
+            Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit "do-not-track" signals to the
             websites and other online services with which a user communicates. While there is no comprehensive industry
             standard for such signals, certain websites UMG operates attempt to recognize this signal and, if detected,
             limit our use of cookies and similar tracking technologies. Unfortunately, due to the variation in browsers
             and detection capabilities and the lack of accepted standards we cannot guarantee that transmitting a
-            “do-not-track” signal will result in our disabling cookies and tracking technologies. We recommend using the
-            cookie choices tools on our sites to control UMG’s use of cookies and tracking technologies.
+            "do-not-track" signal will result in our disabling cookies and tracking technologies. We recommend using the
+            cookie choices tools on our sites to control UMG's use of cookies and tracking technologies.
           </p>
 
           <p className={styles.paragraph}>Personal Data We Collect and Disclose</p>
 
           <p className={styles.paragraph}>
             In the preceding 12 months, UMG collected and disclosed the following categories of personal data. UMG
-            shares personal data for targeted advertising but does not otherwise engage in “sales” of personal data as
+            shares personal data for targeted advertising but does not otherwise engage in "sales" of personal data as
             defined by state laws.
           </p>
 
@@ -134,7 +134,7 @@ function LegalNotice() {
           <p className={styles.paragraph}>Business or Commercial Purposes for Processing Personal Data:</p>
 
           <p className={styles.paragraph}>
-            We use and disclose the personal data as described above in the “How Your Information May Be Used” section
+            We use and disclose the personal data as described above in the "How Your Information May Be Used" section
             of our privacy policy.
           </p>
 
@@ -166,7 +166,7 @@ function LegalNotice() {
           </p>
 
           <p className={styles.paragraph}>
-            · Depending on your state, the right to limit our processing of certain “sensitive” personal data, including
+            · Depending on your state, the right to limit our processing of certain "sensitive" personal data, including
             the withdrawal of prior consent and/or
           </p>
 
@@ -213,7 +213,7 @@ function LegalNotice() {
           </p>
 
           <p className={styles.paragraph}>
-            · Confirm whether we process the consumer’s personal information and to access such information
+            · Confirm whether we process the consumer's personal information and to access such information
           </p>
 
           <p className={styles.paragraph}>· Correct inaccuracies in personal information</p>
