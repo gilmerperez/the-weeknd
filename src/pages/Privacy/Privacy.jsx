@@ -108,7 +108,105 @@ function Privacy() {
 
           <p className={styles.paragraph}>In our operation of the Apps, we collect the following categories of data:</p>
 
-          {/* * TABLE GOES HERE * */}
+          {/* Information collection table */}
+          <div className={styles.tableWrapper}>
+            <table className={styles.dataTable}>
+              <thead>
+                <tr>
+                  <th className={styles.tableHeader}>CATEGORY OF INFORMATION</th>
+                  <th className={styles.tableHeader}>WHAT MAY BE COLLECTED</th>
+                  <th className={styles.tableHeader}>HOW IT IS COLLECTED, WHERE APPLICABLE</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td className={styles.tableCell}>
+                    INFORMATION YOU CHOOSE TO PROVIDE VIA THE APP OR THROUGH OTHER INTERACTIONS WITH UMG, SUCH AS
+                    E-MAIL, SOCIAL MEDIA, SMS, TELEPHONE, OR OTHER METHODS
+                  </td>
+                  <td className={styles.tableCell}>
+                    <ul className={styles.tableList}>
+                      <li>YOUR NAME,</li>
+                      <li>COUNTRY OF RESIDENCE,</li>
+                      <li>E-MAIL ADDRESS,</li>
+                      <li>PHONE NUMBER,</li>
+                      <li>
+                        LOGIN INFORMATION, INCLUDING CERTAIN SOCIAL MEDIA PROFILE INFORMATION IF YOU LOGIN WITH A SOCIAL
+                        MEDIA ACCOUNT,
+                      </li>
+                      <li>GENDER,</li>
+                      <li>AGE OR DATE OF BIRTH,</li>
+                      <li>PAYMENT CARD INFORMATION,</li>
+                      <li>BILLING AND/OR SHIPPING ADDRESS,</li>
+                      <li>CLOTHING SIZES OR SIMILAR PHYSICAL DESCRIPTIONS,</li>
+                      <li>PERSONAL DESCRIPTION,</li>
+                      <li>PHOTOGRAPHS, VIDEOS, OR IMAGES,</li>
+                      <li>COMMENTS.</li>
+                    </ul>
+                  </td>
+                  <td className={styles.tableCell}>
+                    <ul className={styles.tableList}>
+                      <li>
+                        FORMS YOU FILL OUT ON OUR APP, INCLUDING SUBSCRIBING TO DIRECT MARKETING, CREATING AN ACCOUNT,
+                        SEARCHES, UPLOADING DOCUMENTS OR MEDIA, OR LINKING A SOCIAL MEDIA ACCOUNT;
+                      </li>
+                      <li>CORRESPONDENCE WITH US (E-MAILS, PHONE TRANSCRIPTS OR OTHERWISE);</li>
+                      <li>PURCHASES OR ORDERS PLACED ON THE APP;</li>
+                      <li>PARTICIPATION IN FORUMS, CHATS, OR OTHER SOCIAL MEDIA FUNCTIONS ON THE APP;</li>
+                      <li>ENTERING A COMPETITION, PROMOTION, OR SURVEY;</li>
+                      <li>REPORTING A PROBLEM ON THE APP OR REQUESTING SUPPORT.</li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>INFORMATION COLLECTED THROUGH YOUR USE OF AN APP</td>
+                  <td className={styles.tableCell}>
+                    <ul className={styles.tableList}>
+                      <li>IP ADDRESS AND NETWORK INFORMATION,</li>
+                      <li>LOCATION (BASED ON IP LOOKUP),</li>
+                      <li>USER AGENT STRING INCLUDING BROWSER AND OS VERSION,</li>
+                      <li>LANGUAGE AND TIME ZONE,</li>
+                      <li>
+                        IDENTIFIERS SET BY COOKIES OR SIMILAR TRACKING INFORMATION (SEE COOKIES DISCLOSURE BELOW),
+                      </li>
+                      <li>UNIQUE DEVICE IDENTIFIERS AND HARDWARE VERSION,</li>
+                      <li>PAGE RESPONSE TIMES,</li>
+                      <li>DOWNLOAD OR CONTENT ERRORS,</li>
+                      <li>
+                        PAGE INTERACTION INFORMATION (SUCH AS SCROLLING, CLICKS, AND MOUSE-OVERS, LENGTH OF VISIT, PAGES
+                        VIEWED),
+                      </li>
+                      <li>METHODS USED TO BROWSE AWAY FROM THE PAGE.</li>
+                    </ul>
+                  </td>
+                  <td className={styles.tableCell}>VISITING OUR APP OR INTERACTING WITH US</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>INFORMATION COLLECTED FROM THIRD PARTIES</td>
+                  <td className={styles.tableCell}>
+                    <ul className={styles.tableList}>
+                      <li>NAME OR USERNAME,</li>
+                      <li>AGE OR BIRTHDATE,</li>
+                      <li>ADDRESS,</li>
+                      <li>PHONE NUMBER,</li>
+                      <li>GENDER,</li>
+                      <li>HOUSEHOLD INCOME,</li>
+                      <li>DEVICE OS,</li>
+                      <li>BRAND AFFINITIES,</li>
+                      <li>CONSUMER PROFILE CATEGORY,</li>
+                      <li>MUSIC INTENT SCORES,</li>
+                      <li>MUSIC CONCERT SPEND CATEGORY,</li>
+                      <li>MUSIC GENRE INTERESTS.</li>
+                    </ul>
+                  </td>
+                  <td className={styles.tableCell}>
+                    CONSISTENT WITH APPLICABLE LAWS, WE MAY MATCH AND SUPPLEMENT INFORMATION YOU PROVIDE, SUCH AS YOUR
+                    EMAIL ADDRESS OR PHONE NUMBER, WITH DATA HELD BY THIRD PARTY DATA PROVIDERS OR DATA BROKERS.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
 
           <p className={styles.paragraph}>HOW YOUR INFORMATION MAY BE USED</p>
 
@@ -253,7 +351,7 @@ function Privacy() {
           <p className={styles.paragraph}>INTERNATIONAL DATA TRANSFERS FROM THE EU, UK, OR SWITZERLAND</p>
 
           <p className={styles.paragraph}>
-            UMG’s US-based group companies UMG Recordings Services, Inc., UMG Recordings, Inc., Universal Music
+            UMG's US-based group companies UMG Recordings Services, Inc., UMG Recordings, Inc., Universal Music
             Investments, Inc., Universal Music Group Holdings, Inc., Universal Music Group, Inc., UMG Commercial
             Services, Inc., and Universal Music Publishing, Inc. participate in the EU-US Data Privacy Framework, the
             Swiss-US Data Privacy Framework, and the UK Extension to the EU-US Data Privacy Framework (collectively the
