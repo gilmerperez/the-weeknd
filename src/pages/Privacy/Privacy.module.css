@@ -38,49 +38,39 @@
 /* Information collection table */
 .tableWrapper {
   width: 100%;
-  margin: 2rem 0;
   overflow-x: auto;
 }
 
 .dataTable {
   width: 100%;
+  margin-bottom: 1rem;
   border-collapse: collapse;
-  background-color: #000;
-  border: 1px solid #fff;
 }
 
 .tableHeader {
   padding: 1rem;
   text-align: left;
-  border: 1px solid #fff;
-  background-color: #000;
-  color: #fff;
+  line-height: 1.5;
+  font-weight: 600;
   font-size: 0.875rem;
-  font-weight: 400;
   text-transform: uppercase;
-  vertical-align: top;
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
 }
 
 .tableCell {
   padding: 1rem;
-  border: 1px solid #fff;
-  background-color: #000;
-  color: #fff;
+  text-align: left;
+  line-height: 1.5;
+  font-weight: 400;
   font-size: 0.875rem;
   text-transform: uppercase;
-  vertical-align: top;
-  line-height: 1.6;
-}
-
-.tableList {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
 }
 
 .tableList li {
   margin-bottom: 0.5rem;
-  padding-left: 0;
 }
 
 .tableList li:last-child {
@@ -96,6 +86,14 @@
   .paragraph {
     font-size: 0.875rem;
   }
+
+  .tableHeader {
+    font-size: 0.75rem;
+  }
+
+  .tableCell {
+    font-size: 0.75rem;
+  }
 }
 
 /* Mobile responsiveness */
@@ -108,9 +106,11 @@
     font-size: 0.75rem;
   }
 
-  .tableHeader,
+  .tableHeader {
+    font-size: 0.5rem;
+  }
+
   .tableCell {
-    font-size: 0.75rem;
-    padding: 0.75rem;
+    font-size: 0.5rem;
   }
 }
