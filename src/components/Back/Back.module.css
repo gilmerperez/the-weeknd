@@ -1,0 +1,39 @@
+.backContainer {
+  top: 2rem;
+  left: 2rem;
+  z-index: 999;
+  position: absolute;
+  transition: 0.3s ease;
+}
+
+.backButton {
+  gap: 0.5rem;
+  display: flex;
+  font-size: 0.875rem;
+  transition: 0.3s ease;
+  color: var(--text-secondary);
+}
+
+.backButton:hover {
+  color: var(--text-primary);
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+  .backContainer {
+    top: 1.75rem;
+    left: 1.75rem;
+  }
+
+  .backButton {
+    font-size: 0.75rem;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  .backContainer {
+    top: 1.5rem;
+    left: 1.5rem;
+  }
+}

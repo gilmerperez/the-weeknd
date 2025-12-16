@@ -1,6 +1,6 @@
 import { useEffect } from "react";
-import { Link } from "react-router-dom";
 import styles from "./Help.module.css";
+import { Link } from "react-router-dom";
 
 function Help() {
   // * Set page title
@@ -21,16 +21,16 @@ function Help() {
             <div className={styles.helpCard}>
               <h2 className={styles.cardTitle}>Orders</h2>
               <p className={styles.cardText}>Learn about placing and managing orders</p>
-              <Link to="/help/orders" className={styles.viewAllButton}>
+              <Link to="/help/orders" state={{ from: "Help", backPath: "/help" }} className={styles.viewAllButton}>
                 VIEW ALL
               </Link>
             </div>
 
-            {/* Returns  */}
+            {/* Returns */}
             <div className={styles.helpCard}>
               <h2 className={styles.cardTitle}>Returns</h2>
               <p className={styles.cardText}>Learn about returning and refunding orders</p>
-              <Link to="/help/returns" className={styles.viewAllButton}>
+              <Link to="/help/returns" state={{ from: "Help", backPath: "/help" }} className={styles.viewAllButton}>
                 VIEW ALL
               </Link>
             </div>
@@ -39,7 +39,7 @@ function Help() {
             <div className={styles.helpCard}>
               <h2 className={styles.cardTitle}>Shipping</h2>
               <p className={styles.cardText}>Learn about shipping and delivery of orders</p>
-              <Link to="/help/shipping" className={styles.viewAllButton}>
+              <Link to="/help/shipping" state={{ from: "Help", backPath: "/help" }} className={styles.viewAllButton}>
                 VIEW ALL
               </Link>
             </div>

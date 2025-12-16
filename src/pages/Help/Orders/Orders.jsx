@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import styles from "./Orders.module.css";
+import Back from "../../../components/Back/Back";
 
 function Orders() {
   // * Set page title
@@ -9,7 +10,8 @@ function Orders() {
 
   return (
     <>
-      <main>
+      <main style={{ position: "relative" }}>
+        <Back />
         <div className={styles.ordersContainer}>
           {/* Title */}
           <h1 className={styles.title}>Orders</h1>
