@@ -31,19 +31,21 @@ footer {
   align-items: center;
   transition: 0.3s ease;
   justify-content: center;
+  color: var(--text-secondary);
 }
 
 .socialLink:hover {
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 /* Theme toggle button */
 .themeToggle {
   transition: 0.3s ease;
+  color: var(--text-secondary);
 }
 
 .themeToggle:hover {
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 .themeToggle svg {
@@ -65,10 +67,11 @@ footer {
 .navLink {
   font-size: 0.875rem;
   transition: 0.3s ease;
+  color: var(--text-secondary);
 }
 
 .navLink:hover {
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 /* Accessibility statement */
@@ -76,6 +79,7 @@ footer {
   text-align: center;
   font-size: 0.875rem;
   transition: 0.3s ease;
+  color: var(--text-secondary);
 }
 
 .phoneLink {
@@ -83,7 +87,7 @@ footer {
 }
 
 .phoneLink:hover {
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 /* Tablet responsiveness */

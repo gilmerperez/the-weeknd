@@ -133,11 +133,11 @@ function Footer() {
           {/* Navigation links */}
           <nav className={styles.navLinks}>
             {/* Terms */}
-            <Link to="/terms-of-sale" className={styles.navLink}>
+            <Link to="/terms" className={styles.navLink}>
               TERMS
             </Link>
             {/* Privacy */}
-            <Link to="/privacy-policy" className={styles.navLink}>
+            <Link to="/privacy" className={styles.navLink}>
               PRIVACY
             </Link>
             {/* Cookie choices */}
@@ -147,7 +147,7 @@ function Footer() {
               HELP AND SUPPORT
             </Link>
             {/* Do not sell my information */}
-            <Link to="/legal-notice" className={styles.navLink}>
+            <Link to="/legal" className={styles.navLink}>
               DO NOT SELL MY INFORMATION
             </Link>
           </nav>

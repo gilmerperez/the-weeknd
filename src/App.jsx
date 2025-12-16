@@ -7,7 +7,10 @@ import Account from "./pages/Account/Account";
 import Terms from "./pages/Terms/Terms";
 import Privacy from "./pages/Privacy/Privacy";
 import Help from "./pages/Help/Help";
-import LegalNotice from "./pages/LegalNotice/LegalNotice";
+import Orders from "./pages/Help/Orders/Orders";
+import Shipping from "./pages/Help/Shipping/Shipping";
+import Returns from "./pages/Help/Returns/Returns";
+import Legal from "./pages/Legal/Legal";
 import PageNotFound from "./pages/PageNotFound/PageNotFound";
 import Footer from "./components/Footer/Footer";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
@@ -23,10 +26,13 @@ function App() {
           <Route path="/music" element={<Music />} />
           <Route path="/clothing" element={<Clothing />} />
           <Route path="/account" element={<Account />} />
-          <Route path="/terms-of-sale" element={<Terms />} />
-          <Route path="/privacy-policy" element={<Privacy />} />
+          <Route path="/terms" element={<Terms />} />
+          <Route path="/privacy" element={<Privacy />} />
           <Route path="/help" element={<Help />} />
-          <Route path="/legal-notice" element={<LegalNotice />} />
+          <Route path="/help/orders" element={<Orders />} />
+          <Route path="/help/returns" element={<Returns />} />
+          <Route path="/help/shipping" element={<Shipping />} />
+          <Route path="/legal" element={<Legal />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
         <Footer />

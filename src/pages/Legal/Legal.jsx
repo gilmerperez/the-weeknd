@@ -1,7 +1,7 @@
 import { useEffect } from "react";
-import styles from "./LegalNotice.module.css";
+import styles from "./Legal.module.css";
 
-function LegalNotice() {
+function Legal() {
   // * Set page title
   useEffect(() => {
     document.title = "The Weeknd | Do Not Sell My Information";
@@ -393,4 +393,4 @@ function LegalNotice() {
   );
 }
 
-export default LegalNotice;
+export default Legal;

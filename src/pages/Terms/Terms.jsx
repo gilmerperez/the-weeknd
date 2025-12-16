@@ -31,7 +31,7 @@ function Terms() {
     const day = now.getDate();
     const year = now.getFullYear();
     // Return formatted date
-    return `(Last updated on ${month} ${day}, ${year})`;
+    return `Last updated on ${month} ${day}, ${year}`;
   };
 
   return (

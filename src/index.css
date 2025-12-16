@@ -6,19 +6,19 @@
 
 /* Dark theme */
 html[data-theme="dark"] {
-  --bg-color: hsl(0, 0%, 3%);
-  --text-primary: hsl(46, 21%, 88%);
-  --text-secondary: hsl(48, 33%, 97%);
+  --text-primary: hsl(48, 33%, 97%);
+  --text-secondary: hsl(46, 21%, 88%);
   --header-bg-color: hsl(0, 0%, 3%);
+  --bg-color: hsl(0, 0%, 3%);
   --footer-bg-color: hsl(0, 0%, 3%);
 }
 
 /* Light theme */
 html[data-theme="light"] {
-  --bg-color: hsl(0, 0%, 97%);
-  --text-primary: hsl(0, 0%, 10%);
-  --text-secondary: hsl(0, 0%, 20%);
+  --text-primary: hsl(0, 0%, 20%);
+  --text-secondary: hsl(0, 0%, 10%);
   --header-bg-color: hsl(0, 0%, 97%);
+  --bg-color: hsl(0, 0%, 97%);
   --footer-bg-color: hsl(0, 0%, 97%);
 }
 
@@ -47,6 +47,7 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   flex-direction: column;
+  text-transform: uppercase;
   color: var(--text-primary);
   font-family: "Inter", sans-serif;
   background-color: var(--bg-color);
@@ -69,7 +70,8 @@ hr {
 
 /* Paragraphs */
 p {
-  color: var(--text-primary);
+  font-weight: 300;
+  line-height: 1.5;
 }
 
 /* Links - Resetting default styles and hover behavior */
@@ -101,6 +103,11 @@ textarea {
   outline: none;
 }
 
+input,
+textarea {
+  text-transform: none;
+}
+
 /* Media elements - Ensures media doesn’t overflow and stays responsive */
 svg,
 img,
@@ -119,7 +126,10 @@ h3,
 h4,
 h5,
 h6 {
-  letter-spacing: 0.03em;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--text-secondary);
   font-family: "Bebas Neue", sans-serif;
 }
 

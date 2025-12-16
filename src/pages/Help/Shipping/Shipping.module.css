@@ -1,4 +1,4 @@
-.termsContainer {
+.shippingContainer {
   width: 100%;
   display: flex;
   margin: 0 auto;
@@ -14,24 +14,27 @@
   transition: 0.3s ease;
 }
 
-.paragraph {
-  margin-bottom: 1rem;
-  transition: 0.3s ease;
-  color: var(--text-secondary);
+.questionsContainer {
+  margin-bottom: 1.5rem;
 }
 
-.paragraph:last-child {
-  margin-bottom: 0;
-}
-
-.underline {
+.question {
   font-weight: 400;
+  display: inline-block;
   transition: 0.3s ease;
-  border-bottom: 1px solid var(--text-primary);
+  margin-bottom: 0.25rem;
+  padding-bottom: 0.15rem;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--text-secondary);
 }
 
-.underline:hover {
-  color: var(--text-primary);
+.answer {
+  transition: 0.3s ease;
+  margin-bottom: 0.5rem;
+}
+
+.answer:last-child {
+  margin-bottom: 0;
 }
 
 /* Tablet responsiveness */
@@ -40,7 +43,11 @@
     font-size: 3rem;
   }
 
-  .paragraph {
+  .question {
+    font-size: 0.875rem;
+  }
+
+  .answer {
     font-size: 0.875rem;
   }
 }
@@ -51,7 +58,11 @@
     font-size: 2rem;
   }
 
-  .paragraph {
+  .question {
+    font-size: 0.75rem;
+  }
+
+  .answer {
     font-size: 0.75rem;
   }
 }
