@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import styles from "./Returns.module.css";
+import Back from "../../../components/Back/Back";
 
 function Returns() {
   // * Set page title
@@ -11,6 +12,9 @@ function Returns() {
     <>
       <main>
         <div className={styles.returnsContainer}>
+          {/* Back button */}
+          <Back to="/help" pageName="Help" />
+
           {/* Title */}
           <h1 className={styles.title}>Returns</h1>
 
@@ -20,7 +24,7 @@ function Returns() {
             {/* Answer */}
             <p className={styles.answer}>
               Please allow 3-5 business days for your item to be processed. Refunds typically take 2-3 business days to
-              appear in your account once they’ve been processed, but can occasionally take up to 10 business days.
+              appear in your account once they've been processed, but can occasionally take up to 10 business days.
             </p>
           </div>
 

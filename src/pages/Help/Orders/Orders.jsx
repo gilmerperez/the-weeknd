@@ -11,9 +11,10 @@ function Orders() {
   return (
     <>
       <main>
-        {/* Back to last page */}
-        <Back />
         <div className={styles.ordersContainer}>
+          {/* Back button */}
+          <Back to="/help" pageName="Help" />
+
           {/* Title */}
           <h1 className={styles.title}>Orders</h1>
 

@@ -2,14 +2,14 @@ import styles from "./Back.module.css";
 import { Link } from "react-router-dom";
 import { HiOutlineArrowLeft } from "react-icons/hi";
 
-function Back() {
+function Back({ to, pageName = "LAST PAGE" }) {
   return (
     <>
-      <Link to="/help" className={styles.backContainer}>
+      <Link to={to} className={styles.backContainer}>
         <span className={styles.backIcon}>
           <HiOutlineArrowLeft />
         </span>
-        <span className={styles.backText}>BACK TO LAST PAGE</span>
+        <span className={styles.backText}>BACK TO {pageName.toUpperCase()}</span>
       </Link>
     </>
   );
