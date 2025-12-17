@@ -40,7 +40,7 @@ function Legal() {
           {/* Title */}
           <h1 className={styles.title}>Do not sell my information</h1>
 
-          {/* Last updated */}
+          {/* Effective date */}
           <p className={styles.paragraph}>{effectiveDate()}</p>
 
           {/* Legal notice */}

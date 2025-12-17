@@ -44,7 +44,7 @@ function Terms() {
           {/* Last updated */}
           <p className={styles.paragraph}>{lastUpdated()}</p>
 
-          {/* Terms */}
+          {/* Terms and conditions of sale */}
           <p className={styles.paragraph}>I. General</p>
 
           <p className={styles.paragraph}>

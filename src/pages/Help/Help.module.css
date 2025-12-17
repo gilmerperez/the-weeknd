@@ -18,7 +18,7 @@
 
 /* Help and support cards */
 .cardsContainer {
-  gap: 1rem;
+  gap: 2rem;
   width: 100%;
   display: flex;
   align-items: stretch;
@@ -32,7 +32,7 @@
   text-align: center;
   transition: 0.3s ease;
   flex-direction: column;
-  border: 1px solid var(--text-secondary);
+  border: 1px solid var(--text-primary);
 }
 
 .cardTitle {
@@ -42,34 +42,28 @@
 }
 
 .cardText {
-  flex: 1;
-  margin-bottom: 1rem;
+  font-size: 1rem;
   transition: 0.3s ease;
+  margin-bottom: 0.75rem;
   color: var(--text-secondary);
 }
 
 .viewAllButton {
-  padding: 1rem;
+  font-size: 1rem;
+  padding: 0.75rem;
   transition: 0.3s ease;
-  color: var(--text-primary);
   border: 1px solid var(--text-primary);
 }
 
 .viewAllButton:hover {
   color: var(--bg-color);
-  border-color: var(--text-secondary);
+  border: 1px solid var(--text-secondary);
   background-color: var(--text-secondary);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 950px) {
   .cardsContainer {
-    align-items: center;
     flex-direction: column;
-  }
-
-  .helpCard {
-    min-width: 75%;
-    padding: 1.5rem;
   }
 }
 
@@ -77,6 +71,14 @@
 @media (max-width: 768px) {
   .title {
     font-size: 3rem;
+  }
+
+  .cardsContainer {
+    gap: 1.75rem;
+  }
+
+  .helpCard {
+    padding: 1.75rem;
   }
 }
 
@@ -86,9 +88,12 @@
     font-size: 2rem;
   }
 
+  .cardsContainer {
+    gap: 1.5rem;
+  }
+
   .helpCard {
-    min-width: 100%;
-    padding: 1.25rem;
+    padding: 1.5rem;
   }
 
   .cardTitle {
@@ -100,7 +105,6 @@
   }
 
   .viewAllButton {
-    padding: 0.75rem;
     font-size: 0.875rem;
   }
 }
