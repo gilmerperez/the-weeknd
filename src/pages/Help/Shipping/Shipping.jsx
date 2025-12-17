@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import styles from "./Shipping.module.css";
-import Back from "../../../components/Back/Back";
 
 function Shipping() {
   // * Set page title
@@ -10,8 +9,7 @@ function Shipping() {
 
   return (
     <>
-      <main style={{ position: "relative" }}>
-        <Back />
+      <main>
         <div className={styles.shippingContainer}>
           {/* Title */}
           <h1 className={styles.title}>Shipping</h1>

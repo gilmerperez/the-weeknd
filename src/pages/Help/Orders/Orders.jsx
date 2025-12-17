@@ -10,7 +10,8 @@ function Orders() {
 
   return (
     <>
-      <main style={{ position: "relative" }}>
+      <main>
+        {/* Back to last page */}
         <Back />
         <div className={styles.ordersContainer}>
           {/* Title */}

@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import styles from "./Returns.module.css";
-import Back from "../../../components/Back/Back";
 
 function Returns() {
   // * Set page title
@@ -10,8 +9,7 @@ function Returns() {
 
   return (
     <>
-      <main style={{ position: "relative" }}>
-        <Back />
+      <main>
         <div className={styles.returnsContainer}>
           {/* Title */}
           <h1 className={styles.title}>Returns</h1>
