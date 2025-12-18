@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import styles from "./cookies.module.css";
+import styles from "./Cookies.module.css";
 
 function Cookies({ isOpen, onClose }) {
   // * If cookies are not open, return null
