@@ -13,7 +13,7 @@ function Cookies({ isOpen, onClose }) {
       <div className={styles.cookiesContainer}>
         {/* UMG logo */}
         <div className={styles.logoContainer}>
-          <img src="/images/umg-logo.png" alt="Universal Music Group Logo" className={styles.logo} />
+          <img src="/images/umg/umg-logo.png" alt="Universal Music Group Logo" className={styles.logo} />
         </div>
 
         {/* Information we collect about you */}
