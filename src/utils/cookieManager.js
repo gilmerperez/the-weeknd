@@ -1,12 +1,12 @@
-// * === Cookie manager utility: Handles cookie consent state, persistence, and script management
+// * Cookie manager utility - handles cookie consent state, persistence, and script management
 
-// * LocalStorage keys
+// * LocalStorage keys - used to store cookie preferences and consent date
 const STORAGE_KEYS = {
   PREFERENCES: "cookiePreferences",
   CONSENT_DATE: "cookieConsentDate",
 };
 
-// * Default consent state
+// * Default consent state - used to set default cookie preferences
 const DEFAULT_CONSENT_STATE = {
   essential: true,
   function: false,
@@ -22,7 +22,7 @@ export const getDefaultConsentState = () => {
   return { ...DEFAULT_CONSENT_STATE };
 };
 
-// *Get cookie preferences from localStorage
+// * Get cookie preferences from localStorage
 /**
 @returns {Object|null} Cookie preferences object or null if not found
  */
@@ -40,10 +40,10 @@ export const getCookiePreferences = () => {
         advertising: parsed.advertising || false,
       };
     }
-    // If there is no saved preferences, return null
+    // If there are no saved preferences, return null
     return null;
   } catch (error) {
-    // If there is an error, log it and return null
+    // If there is an error reading the cookie preferences, log it and return null
     console.error("Error reading cookie preferences from localStorage:", error);
   }
   return null;

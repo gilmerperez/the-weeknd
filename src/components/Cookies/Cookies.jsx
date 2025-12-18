@@ -1,27 +1,19 @@
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import styles from "./Cookies.module.css";
-import { useState, useEffect } from "react";
 import {
-  getDefaultConsentState,
   getCookiePreferences,
+  getDefaultConsentState,
   saveCookiePreferences,
   applyCookiePreferences,
 } from "../../utils/cookieManager";
 
 function Cookies({ isOpen, onClose }) {
-  // * If cookies are not open, return null
-  if (!isOpen) return null;
-
-  // * Cookie preferences state
-  const [cookiePreferences, setCookiePreferences] = useState(getDefaultConsentState());
-
-  // Load cookie preferences from localStorage on mount
-  useEffect(() => {
+  // * Cookie preferences state - initialize with saved preferences or default
+  const [cookiePreferences, setCookiePreferences] = useState(() => {
     const savedPreferences = getCookiePreferences();
-    if (savedPreferences) {
-      setCookiePreferences(savedPreferences);
-    }
-  }, []);
+    return savedPreferences || getDefaultConsentState();
+  });
 
   // Handle checkbox change
   const handleCheckboxChange = (cookieType) => {
@@ -43,6 +35,9 @@ function Cookies({ isOpen, onClose }) {
     // Close the modal
     onClose();
   };
+
+  // * If cookies are not open, return null
+  if (!isOpen) return null;
 
   return (
     <>
