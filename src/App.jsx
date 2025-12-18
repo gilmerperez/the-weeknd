@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Header from "./components/Header/Header";
 import Home from "./pages/Home/Home";
 import Tour from "./pages/Tour/Tour";
@@ -15,11 +15,17 @@ import Legal from "./pages/Legal/Legal";
 import PageNotFound from "./pages/PageNotFound/PageNotFound";
 import Footer from "./components/Footer/Footer";
 import Cookies from "./components/Cookies/Cookies";
+import { initializeCookiePreferences } from "./utils/cookieManager";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   // * Cookies state
   const [isCookiesOpen, setIsCookiesOpen] = useState(false);
+
+  // Initialize cookie preferences on app startup
+  useEffect(() => {
+    initializeCookiePreferences();
+  }, []);
 
   // Open cookies
   const openCookies = () => {
@@ -50,8 +56,8 @@ function App() {
           <Route path="/legal" element={<Legal />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
-        <Footer onCookieChoicesClick={openCookies} />
         <Cookies isOpen={isCookiesOpen} onClose={closeCookies} />
+        <Footer onCookieChoicesClick={openCookies} />
       </Router>
     </>
   );

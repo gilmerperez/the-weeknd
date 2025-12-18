@@ -1,9 +1,48 @@
 import { Link } from "react-router-dom";
 import styles from "./Cookies.module.css";
+import { useState, useEffect } from "react";
+import {
+  getDefaultConsentState,
+  getCookiePreferences,
+  saveCookiePreferences,
+  applyCookiePreferences,
+} from "../../utils/cookieManager";
 
 function Cookies({ isOpen, onClose }) {
   // * If cookies are not open, return null
   if (!isOpen) return null;
+
+  // * Cookie preferences state
+  const [cookiePreferences, setCookiePreferences] = useState(getDefaultConsentState());
+
+  // Load cookie preferences from localStorage on mount
+  useEffect(() => {
+    const savedPreferences = getCookiePreferences();
+    if (savedPreferences) {
+      setCookiePreferences(savedPreferences);
+    }
+  }, []);
+
+  // Handle checkbox change
+  const handleCheckboxChange = (cookieType) => {
+    // Prevent changing essential cookies
+    if (cookieType === "essential") return;
+    // Update cookie preferences
+    setCookiePreferences((prev) => ({
+      ...prev,
+      [cookieType]: !prev[cookieType],
+    }));
+  };
+
+  // Handle confirm button click
+  const handleConfirm = () => {
+    // Save preferences to localStorage
+    saveCookiePreferences(cookiePreferences);
+    // Apply preferences (enable/disable scripts)
+    applyCookiePreferences(cookiePreferences);
+    // Close the modal
+    onClose();
+  };
 
   return (
     <>
@@ -49,26 +88,51 @@ function Cookies({ isOpen, onClose }) {
         <section className={styles.checkboxSection}>
           <div className={styles.checkboxGroup}>
             <label className={styles.checkboxLabel}>
-              <input type="checkbox" className={styles.checkbox} defaultChecked disabled />
+              <input
+                disabled
+                readOnly
+                type="checkbox"
+                className={styles.checkbox}
+                checked={cookiePreferences.essential}
+                aria-label="Essential cookies (required)"
+              />
               <span className={styles.checkboxText}>Essential</span>
             </label>
             <label className={styles.checkboxLabel}>
-              <input type="checkbox" className={styles.checkbox} />
+              <input
+                type="checkbox"
+                className={styles.checkbox}
+                aria-label="Function cookies"
+                checked={cookiePreferences.function}
+                onChange={() => handleCheckboxChange("function")}
+              />
               <span className={styles.checkboxText}>Function</span>
             </label>
             <label className={styles.checkboxLabel}>
-              <input type="checkbox" className={styles.checkbox} />
+              <input
+                type="checkbox"
+                className={styles.checkbox}
+                aria-label="Analytics cookies"
+                checked={cookiePreferences.analytics}
+                onChange={() => handleCheckboxChange("analytics")}
+              />
               <span className={styles.checkboxText}>Analytics</span>
             </label>
             <label className={styles.checkboxLabel}>
-              <input type="checkbox" className={styles.checkbox} />
+              <input
+                type="checkbox"
+                className={styles.checkbox}
+                aria-label="Advertising cookies"
+                checked={cookiePreferences.advertising}
+                onChange={() => handleCheckboxChange("advertising")}
+              />
               <span className={styles.checkboxText}>Advertising</span>
             </label>
           </div>
         </section>
 
         {/* Confirm button */}
-        <button onClick={onClose} className={styles.confirmButton}>
+        <button onClick={handleConfirm} className={styles.confirmButton} aria-label="Confirm cookie preferences">
           Confirm
         </button>
       </div>
