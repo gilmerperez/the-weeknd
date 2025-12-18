@@ -13,9 +13,24 @@ import Returns from "./pages/Help/Returns/Returns";
 import Legal from "./pages/Legal/Legal";
 import PageNotFound from "./pages/PageNotFound/PageNotFound";
 import Footer from "./components/Footer/Footer";
+
+import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
+  // * Cookies state
+  const [isCookiesOpen, setIsCookiesOpen] = useState(false);
+
+  // Open cookies
+  const openCookies = () => {
+    setIsCookiesOpen(true);
+  };
+
+  // Close cookies
+  const closeCookies = () => {
+    setIsCookiesOpen(false);
+  };
+
   return (
     <>
       <Router>
@@ -35,7 +50,8 @@ function App() {
           <Route path="/legal" element={<Legal />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
-        <Footer />
+        <Footer onCookieChoicesClick={openCookies} />
+        <Cookies isOpen={isCookiesOpen} onClose={closeCookies} />
       </Router>
     </>
   );
