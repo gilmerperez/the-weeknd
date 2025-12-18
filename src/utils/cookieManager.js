@@ -27,6 +27,11 @@ export const getDefaultConsentState = () => {
 @returns {Object|null} Cookie preferences object or null if not found
  */
 export const getCookiePreferences = () => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
+    return null;
+  }
+
   try {
     // Try to get the saved preferences from localStorage
     const savedPreferences = localStorage.getItem(STORAGE_KEYS.PREFERENCES);
@@ -54,6 +59,11 @@ export const getCookiePreferences = () => {
 @param {Object} preferences - Cookie preferences object
 */
 export const saveCookiePreferences = (preferences) => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
+    return;
+  }
+
   try {
     // Ensure essential is always true
     const preferencesToSave = {
@@ -82,6 +92,11 @@ export const hasConsent = () => {
 @returns {string|null} ISO date string or null if not found
 */
 export const getConsentDate = () => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined" || typeof localStorage === "undefined") {
+    return null;
+  }
+
   try {
     // Try to get the consent date from localStorage
     return localStorage.getItem(STORAGE_KEYS.CONSENT_DATE);
@@ -97,6 +112,11 @@ export const getConsentDate = () => {
 @returns {Object} Current cookie preferences
 */
 export const initializeCookiePreferences = () => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined") {
+    return getDefaultConsentState();
+  }
+
   const savedPreferences = getCookiePreferences();
   const preferences = savedPreferences || getDefaultConsentState();
   // Apply preferences (enable/disable scripts based on consent)
@@ -110,6 +130,11 @@ export const initializeCookiePreferences = () => {
 @param {Object} preferences - Cookie preferences object
 */
 export const applyCookiePreferences = (preferences) => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined") {
+    return;
+  }
+
   // Essential cookies are always enabled
   if (preferences.essential) {
     enableEssentialCookies();
@@ -197,6 +222,11 @@ const disableAdvertisingCookies = () => {
 @param {string} id - Optional script ID
 */
 export const loadScript = (src, id = null) => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined" || typeof document === "undefined") {
+    return;
+  }
+
   if (document.querySelector(`script[src="${src}"]`)) {
     return; // Script already loaded
   }
@@ -217,6 +247,11 @@ export const loadScript = (src, id = null) => {
 @param {string} src - Script source URL or script ID
 */
 export const removeScript = (src) => {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined" || typeof document === "undefined") {
+    return;
+  }
+
   // Select the script element with the given source URL or script ID
   const script = document.querySelector(`script[src="${src}"], script#${src}`);
   // If the script element is found, remove it
