@@ -1,0 +1,72 @@
+.concertContainer {
+  gap: 2rem;
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  max-width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.concertInfo {
+  flex: 1;
+  gap: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Concert date */
+.date {
+  font-size: 2rem;
+  font-weight: 500;
+  transition: 0.3s ease;
+  color: var(--latin-america);
+}
+
+/* Concert stadium */
+.stadium {
+  font-size: 2rem;
+  font-weight: 500;
+  transition: 0.3s ease;
+  color: var(--latin-america);
+}
+
+/* Concert location */
+.location {
+  font-size: 2rem;
+  font-weight: 500;
+  transition: 0.3s ease;
+  color: var(--latin-america);
+}
+
+.concertLinks {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Tickets link & VIP tickets link */
+.ticketsLink,
+.vipTicketsLink {
+  font-size: 2rem;
+  font-weight: 500;
+  transition: 0.3s ease;
+  padding: 0.25rem 0.75rem;
+  color: var(--latin-america);
+}
+
+.ticketsLink:hover,
+.vipTicketsLink:hover {
+  color: var(--bg-color);
+  background-color: var(--text-primary);
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+}

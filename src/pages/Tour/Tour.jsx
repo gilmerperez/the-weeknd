@@ -1,5 +1,7 @@
 import { useEffect } from "react";
 import styles from "./Tour.module.css";
+import tourData from "../../data/tour.json";
+import Concert from "./components/Concert/Concert";
 
 function Tour() {
   // * Set page title
@@ -7,10 +9,46 @@ function Tour() {
     document.title = "The Weeknd | Tour";
   }, []);
 
+  // * Find Latin America tour (first tour in the array)
+  const latinAmericaTour = tourData.find((tour) => tour.region === "Latin America");
+  // If no tour data is available, show a message
+  if (!latinAmericaTour) {
+    return (
+      <>
+        <main>
+          <div className={styles.tourContainer}>No tour data available</div>
+        </main>
+      </>
+    );
+  }
+
   return (
     <>
       <main>
-        <div className={styles.tourContainer}>TOUR</div>
+        <div className={styles.tourContainer}>
+          {/* Tour banner */}
+          <div className={styles.bannerContainer}>
+            <img
+              className={styles.bannerImage}
+              src={latinAmericaTour.bannerImage}
+              alt={`${latinAmericaTour.title} ${latinAmericaTour.region} ${latinAmericaTour.year}`}
+            />
+          </div>
+
+          {/* Concerts list */}
+          <div className={styles.concertsContainer}>
+            {latinAmericaTour.concerts.map((concert, index) => (
+              <Concert
+                key={index}
+                date={concert.date}
+                stadium={concert.stadium}
+                location={concert.location}
+                ticketsLink={concert.ticketsLink}
+                vipTicketsLink={concert.vipTicketsLink}
+              />
+            ))}
+          </div>
+        </div>
       </main>
     </>
   );
