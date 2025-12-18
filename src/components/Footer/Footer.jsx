@@ -6,7 +6,7 @@ import { HiOutlineSun, HiOutlineMoon } from "react-icons/hi";
 import { SiApple, SiSpotify, SiSoundcloud } from "react-icons/si";
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
-function Footer() {
+function Footer({ onCookieChoicesClick }) {
   // * Theme state
   const getInitialTheme = () => {
     const storedTheme = localStorage.getItem("theme");
@@ -141,7 +141,9 @@ function Footer() {
               PRIVACY
             </Link>
             {/* Cookie choices */}
-            <button className={styles.navLink}>COOKIE CHOICES</button>
+            <button onClick={onCookieChoicesClick} className={styles.navLink}>
+              COOKIE CHOICES
+            </button>
             {/* Help and support */}
             <Link to="/help" className={styles.navLink}>
               HELP AND SUPPORT
