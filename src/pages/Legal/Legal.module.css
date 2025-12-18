@@ -28,13 +28,13 @@
 
 .underline {
   transition: 0.3s ease;
-  color: var(--text-primary);
-  border-bottom: 1px solid var(--text-primary);
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--text-secondary);
 }
 
 .underline:hover {
-  color: var(--text-secondary);
-  border-bottom: 1px solid var(--text-secondary);
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--text-primary);
 }
 
 /* Personal data disclosure table */

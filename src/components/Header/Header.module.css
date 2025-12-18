@@ -22,7 +22,6 @@ header {
 
 .navLink {
   display: flex;
-  font-weight: 400;
   font-size: 0.875rem;
   align-items: center;
   transition: 0.3s ease;
@@ -239,7 +238,7 @@ header {
 
 .sidebarDropdownMenu li {
   cursor: pointer;
-  font-weight: 300;
+  font-weight: 200;
   font-size: 0.875rem;
   padding: 0.25rem 0rem;
   transition: 0.3s ease;

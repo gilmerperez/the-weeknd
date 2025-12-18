@@ -63,7 +63,7 @@ function Privacy() {
             control those data practices.
           </p>
 
-          <p className={styles.paragraph}>WHO WE ARE</p>
+          <p className={styles.paragraph}>Who we are</p>
 
           <p className={styles.paragraph}>
             Apps that link to this privacy policy are operated by Universal Music Investments, Inc., located at 2220
@@ -85,7 +85,7 @@ function Privacy() {
             collection.
           </p>
 
-          <p className={styles.paragraph}>CONTACT US</p>
+          <p className={styles.paragraph}>Contact us</p>
 
           <p className={styles.paragraph}>
             Questions or comments about this privacy policy, our data practices, or requests regarding your privacy
@@ -103,7 +103,7 @@ function Privacy() {
             Protection Officer"), 2220 Colorado Ave, Santa Monica, CA 90404 USA.
           </p>
 
-          <p className={styles.paragraph}>INFORMATION WE COLLECT</p>
+          <p className={styles.paragraph}>Information we collect</p>
 
           <p className={styles.paragraph}>In our operation of the Apps, we collect the following categories of data:</p>
 
@@ -112,154 +112,152 @@ function Privacy() {
             <table className={styles.dataTable}>
               <thead>
                 <tr>
-                  <th className={styles.tableHeader}>CATEGORY OF INFORMATION</th>
-                  <th className={styles.tableHeader}>WHAT MAY BE COLLECTED</th>
-                  <th className={styles.tableHeader}>HOW IT IS COLLECTED, WHERE APPLICABLE</th>
+                  <th className={styles.tableHeader}>Category of information</th>
+                  <th className={styles.tableHeader}>What may be collected</th>
+                  <th className={styles.tableHeader}>How it is collected, where applicable</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td className={styles.tableCell}>
-                    INFORMATION YOU CHOOSE TO PROVIDE VIA THE APP OR THROUGH OTHER INTERACTIONS WITH UMG, SUCH AS
-                    E-MAIL, SOCIAL MEDIA, SMS, TELEPHONE, OR OTHER METHODS
+                    Information you choose to provide via the app or through other interactions with UMG, such as email,
+                    social media, SMS, telephone, or other methods
                   </td>
                   <td className={styles.tableCell}>
                     <ul className={styles.tableList}>
-                      <li>· YOUR NAME</li>
-                      <li>· COUNTRY OF RESIDENCE</li>
-                      <li>· E-MAIL ADDRESS</li>
-                      <li>· PHONE NUMBER</li>
+                      <li>Your name</li>
+                      <li>Country of residence</li>
+                      <li>Email address</li>
+                      <li>Phone number</li>
                       <li>
-                        · LOGIN INFORMATION, INCLUDING CERTAIN SOCIAL MEDIA PROFILE INFORMATION IF YOU LOGIN WITH A
-                        SOCIAL MEDIA ACCOUNT
+                        Login information, including certain social media profile information if you login with a social
+                        media account
                       </li>
-                      <li>· GENDER</li>
-                      <li>· AGE OR DATE OF BIRTH</li>
-                      <li>· PAYMENT CARD INFORMATION</li>
-                      <li>· BILLING AND/OR SHIPPING ADDRESS</li>
-                      <li>· CLOTHING SIZES OR SIMILAR PHYSICAL DESCRIPTIONS</li>
-                      <li>· PERSONAL DESCRIPTION</li>
-                      <li>· PHOTOGRAPHS, VIDEOS, OR IMAGES</li>
-                      <li>· COMMENTS</li>
+                      <li>Gender</li>
+                      <li>Age or date of birth</li>
+                      <li>Payment card information</li>
+                      <li>Billing and/or shipping address</li>
+                      <li>Clothing sizes or similar physical descriptions</li>
+                      <li>Personal description</li>
+                      <li>Photographs, videos, or images</li>
+                      <li>Comments</li>
                     </ul>
                   </td>
                   <td className={styles.tableCell}>
                     <ul className={styles.tableList}>
                       <li>
-                        · FORMS YOU FILL OUT ON OUR APP, INCLUDING SUBSCRIBING TO DIRECT MARKETING, CREATING AN ACCOUNT,
-                        SEARCHES, UPLOADING DOCUMENTS OR MEDIA, OR LINKING A SOCIAL MEDIA ACCOUNT
+                        Forms you fill out on our app, including subscribing to direct marketing, creating an account,
+                        searches, uploading documents or media, or linking a social media account
                       </li>
-                      <li>· CORRESPONDENCE WITH US (E-MAILS, PHONE TRANSCRIPTS OR OTHERWISE)</li>
-                      <li>· PURCHASES OR ORDERS PLACED ON THE APP</li>
-                      <li>· PARTICIPATION IN FORUMS, CHATS, OR OTHER SOCIAL MEDIA FUNCTIONS ON THE APP</li>
-                      <li>· ENTERING A COMPETITION, PROMOTION, OR SURVEY</li>
-                      <li>· REPORTING A PROBLEM ON THE APP OR REQUESTING SUPPORT</li>
+                      <li>Correspondence with us (emails, phone transcripts or otherwise)</li>
+                      <li>Purchases or orders placed on the app</li>
+                      <li>Participation in forums, chats, or other social media functions on the app</li>
+                      <li>Entering a competition, promotion, or survey</li>
+                      <li>Reporting a problem on the app or requesting support</li>
                     </ul>
                   </td>
                 </tr>
                 <tr>
-                  <td className={styles.tableCell}>INFORMATION COLLECTED THROUGH YOUR USE OF AN APP</td>
+                  <td className={styles.tableCell}>Information collected through your use of an app</td>
                   <td className={styles.tableCell}>
                     <ul className={styles.tableList}>
-                      <li>· IP ADDRESS AND NETWORK INFORMATION</li>
-                      <li>· LOCATION (BASED ON IP LOOKUP)</li>
-                      <li>· USER AGENT STRING INCLUDING BROWSER AND OS VERSION</li>
-                      <li>· LANGUAGE AND TIME ZONE</li>
+                      <li>IP address and network information</li>
+                      <li>Location (based on IP lookup)</li>
+                      <li>User agent string including browser and OS version</li>
+                      <li>Language and time zone</li>
+                      <li>Identifiers set by cookies or similar tracking information (see cookies disclosure below)</li>
+                      <li>Unique device identifiers and hardware version</li>
+                      <li>Page response times</li>
+                      <li>Download or content errors</li>
                       <li>
-                        · IDENTIFIERS SET BY COOKIES OR SIMILAR TRACKING INFORMATION (SEE COOKIES DISCLOSURE BELOW)
+                        Page interaction information (such as scrolling, clicks, and mouse-overs, length of visit, pages
+                        viewed)
                       </li>
-                      <li>· UNIQUE DEVICE IDENTIFIERS AND HARDWARE VERSION</li>
-                      <li>· PAGE RESPONSE TIMES</li>
-                      <li>· DOWNLOAD OR CONTENT ERRORS</li>
-                      <li>
-                        · PAGE INTERACTION INFORMATION (SUCH AS SCROLLING, CLICKS, AND MOUSE-OVERS, LENGTH OF VISIT,
-                        PAGES VIEWED)
-                      </li>
-                      <li>· METHODS USED TO BROWSE AWAY FROM THE PAGE</li>
+                      <li>Methods used to browse away from the page</li>
                     </ul>
                   </td>
-                  <td className={styles.tableCell}>VISITING OUR APP OR INTERACTING WITH US</td>
+                  <td className={styles.tableCell}>Visiting our app or interacting with us</td>
                 </tr>
                 <tr>
-                  <td className={styles.tableCell}>INFORMATION COLLECTED FROM THIRD PARTIES</td>
+                  <td className={styles.tableCell}>Information collected from third parties</td>
                   <td className={styles.tableCell}>
                     <ul className={styles.tableList}>
-                      <li>· NAME OR USERNAME</li>
-                      <li>· AGE OR BIRTHDATE</li>
-                      <li>· ADDRESS</li>
-                      <li>· PHONE NUMBER</li>
-                      <li>· GENDER</li>
-                      <li>· HOUSEHOLD INCOME</li>
-                      <li>· DEVICE OS</li>
-                      <li>· BRAND AFFINITIES</li>
-                      <li>· CONSUMER PROFILE CATEGORY</li>
-                      <li>· MUSIC INTENT SCORES</li>
-                      <li>· MUSIC CONCERT SPEND CATEGORY</li>
-                      <li>· MUSIC GENRE INTERESTS</li>
+                      <li>Name or username</li>
+                      <li>Age or birthdate</li>
+                      <li>Address</li>
+                      <li>Phone number</li>
+                      <li>Gender</li>
+                      <li>Household income</li>
+                      <li>Device OS</li>
+                      <li>Brand affinities</li>
+                      <li>Consumer profile category</li>
+                      <li>Music intent scores</li>
+                      <li>Music concert spend category</li>
+                      <li>Music genre interests</li>
                     </ul>
                   </td>
                   <td className={styles.tableCell}>
-                    CONSISTENT WITH APPLICABLE LAWS, WE MAY MATCH AND SUPPLEMENT INFORMATION YOU PROVIDE, SUCH AS YOUR
-                    EMAIL ADDRESS OR PHONE NUMBER, WITH DATA HELD BY THIRD PARTY DATA PROVIDERS OR DATA BROKERS
+                    Consistent with applicable laws, we may match and supplement information you provide, such as your
+                    email address or phone number, with data held by third party data providers or data brokers
                   </td>
                 </tr>
               </tbody>
             </table>
           </div>
 
-          <p className={styles.paragraph}>HOW YOUR INFORMATION MAY BE USED</p>
+          <p className={styles.paragraph}>How your information may be used</p>
 
           <p className={styles.paragraph}>We may use information we collect to:</p>
 
-          <p className={styles.paragraph}>· Respond requests and/or queries, including customer support queries,</p>
+          <p className={styles.paragraph}>Respond requests and/or queries, including customer support queries,</p>
 
-          <p className={styles.paragraph}>· Fulfil orders, process payments, and provide order-related updates,</p>
+          <p className={styles.paragraph}>Fulfil orders, process payments, and provide order-related updates,</p>
 
           <p className={styles.paragraph}>
-            · Send requested marketing communications via email, SMS, or direct messages,
+            Send requested marketing communications via email, SMS, or direct messages,
           </p>
 
           <p className={styles.paragraph}>
-            · Advertise our products or the products of third parties that we believe may be of interest,
+            Advertise our products or the products of third parties that we believe may be of interest,
           </p>
 
           <p className={styles.paragraph}>
-            · Create segments of users with similar features for ad targeting or seeding lookalike audiences,
+            Create segments of users with similar features for ad targeting or seeding lookalike audiences,
           </p>
 
-          <p className={styles.paragraph}>· Operate, measure, and audit online advertisements,</p>
+          <p className={styles.paragraph}>Operate, measure, and audit online advertisements,</p>
 
           <p className={styles.paragraph}>
-            · Build user profiles to assist us in understanding your interests, create marketing or advertising
-            segments, and predict likely sales, marketing, or advertising outcomes,
+            Build user profiles to assist us in understanding your interests, create marketing or advertising segments,
+            and predict likely sales, marketing, or advertising outcomes,
           </p>
 
           <p className={styles.paragraph}>
-            · Train AI or machine learning models that analyze or predict sales, marketing, or advertising outcomes,
+            Train AI or machine learning models that analyze or predict sales, marketing, or advertising outcomes,
           </p>
 
-          <p className={styles.paragraph}>· Personalize and improve our Apps, products, and services,</p>
+          <p className={styles.paragraph}>Personalize and improve our Apps, products, and services,</p>
 
-          <p className={styles.paragraph}>· Administer promotions, contests, or sweepstakes,</p>
+          <p className={styles.paragraph}>Administer promotions, contests, or sweepstakes,</p>
 
           <p className={styles.paragraph}>
-            · Operate and administer our Apps, including troubleshooting, data analysis, testing, research, statistics,
+            Operate and administer our Apps, including troubleshooting, data analysis, testing, research, statistics,
             and other internal operations,
           </p>
 
           <p className={styles.paragraph}>
-            · Manage your access to our Apps, including notifying you of changes to the Apps,
+            Manage your access to our Apps, including notifying you of changes to the Apps,
           </p>
 
-          <p className={styles.paragraph}>· Analyze usage of our Apps,</p>
+          <p className={styles.paragraph}>Analyze usage of our Apps,</p>
 
-          <p className={styles.paragraph}>· Secure our Apps and prevent fraud or other illegal activities,</p>
+          <p className={styles.paragraph}>Secure our Apps and prevent fraud or other illegal activities,</p>
 
-          <p className={styles.paragraph}>· Resolve disputes and/or enforce our agreements,</p>
+          <p className={styles.paragraph}>Resolve disputes and/or enforce our agreements,</p>
 
-          <p className={styles.paragraph}>· Comply with legal and regulatory obligations.</p>
+          <p className={styles.paragraph}>Comply with legal and regulatory obligations.</p>
 
-          <p className={styles.paragraph}>HOW YOUR INFORMATION MAY BE SHARED</p>
+          <p className={styles.paragraph}>How your information may be shared</p>
 
           <p className={styles.paragraph}>
             In compliance with applicable laws, we may share information about you with third parties to facilitate the
@@ -267,37 +265,37 @@ function Privacy() {
           </p>
 
           <p className={styles.paragraph}>
-            · Our affiliates and joint venture partners that we have now or may have in the future,
+            Our affiliates and joint venture partners that we have now or may have in the future,
           </p>
 
           <p className={styles.paragraph}>
-            · Our business partners, suppliers, agents, and sub-contractors who provide services on our behalf;
+            Our business partners, suppliers, agents, and sub-contractors who provide services on our behalf;
           </p>
 
-          <p className={styles.paragraph}>· Relevant UMG artists and/or their representatives,</p>
+          <p className={styles.paragraph}>Relevant UMG artists and/or their representatives,</p>
 
           <p className={styles.paragraph}>
-            · With other users where you leave comments or otherwise contribute content to an App,
+            With other users where you leave comments or otherwise contribute content to an App,
           </p>
 
-          <p className={styles.paragraph}>· Advertisers, advertising networks and social networks,</p>
+          <p className={styles.paragraph}>Advertisers, advertising networks and social networks,</p>
 
           <p className={styles.paragraph}>
-            · As part of an actual or potential corporate sale, merger, or acquisition, or other transfer of all or part
+            As part of an actual or potential corporate sale, merger, or acquisition, or other transfer of all or part
             of UMG,
           </p>
 
           <p className={styles.paragraph}>
-            · Pursuant to a subpoena, court order, governmental inquiry, or other legal process or as otherwise required
+            Pursuant to a subpoena, court order, governmental inquiry, or other legal process or as otherwise required
             by law, to protect our rights or the rights of third parties, or to protect the safety or security of any
             person or entity, or
           </p>
 
           <p className={styles.paragraph}>
-            · With your consent or as otherwise disclosed at the time of data collection or sharing.
+            With your consent or as otherwise disclosed at the time of data collection or sharing.
           </p>
 
-          <p className={styles.paragraph}>STORAGE AND RETENTION OF INFORMATION</p>
+          <p className={styles.paragraph}>Storage and retention of information</p>
 
           <p className={styles.paragraph}>
             We will retain the information we collect in accordance with applicable laws and as reasonably necessary for
@@ -317,7 +315,7 @@ function Privacy() {
             do our best to protect the information we collect, we cannot guarantee its security.
           </p>
 
-          <p className={styles.paragraph}>CHILDREN</p>
+          <p className={styles.paragraph}>Children</p>
 
           <p className={styles.paragraph}>
             Our apps are not directed toward children (as defined by local law) nor does UMG knowingly collect
@@ -325,7 +323,7 @@ function Privacy() {
             applicable laws.
           </p>
 
-          <p className={styles.paragraph}>YOUR RIGHTS</p>
+          <p className={styles.paragraph}>Your rights</p>
 
           <p className={styles.paragraph}>
             You may have certain rights regarding our processing of personal data about you. These rights may include
@@ -347,7 +345,7 @@ function Privacy() {
             page.
           </p>
 
-          <p className={styles.paragraph}>INTERNATIONAL DATA TRANSFERS FROM THE EU, UK, OR SWITZERLAND</p>
+          <p className={styles.paragraph}>International data transfers from the EU, UK, or Switzerland</p>
 
           <p className={styles.paragraph}>
             UMG's US-based group companies UMG Recordings Services, Inc., UMG Recordings, Inc., Universal Music
@@ -390,24 +388,27 @@ function Privacy() {
             requests.
           </p>
 
-          <p className={styles.paragraph}>Dispute Resolution</p>
+          <p className={styles.paragraph}>Dispute resolution</p>
 
           <p className={styles.paragraph}>
             If you have any questions or complaints regarding UMG's handling of your personal information, please
-            contact us using our Privacy Request Form or email us at privacy.officer@umusic.com. We will respond
-            promptly. If you are not satisfied with our resolution of your privacy or data use complaint you may contact
-            our US-based independent dispute resolution body, JAMS by clicking here. It may be possible, under certain
-            conditions, for individuals to invoke binding arbitration.
+            contact us using our Privacy Request Form or email us at{" "}
+            <a href="mailto:gilmer2002@outlook.com" className={styles.underline}>
+              privacy.officer@umusic.com
+            </a>
+            . We will respond promptly. If you are not satisfied with our resolution of your privacy or data use
+            complaint you may contact our US-based independent dispute resolution body, JAMS by clicking here. It may be
+            possible, under certain conditions, for individuals to invoke binding arbitration.
           </p>
 
-          <p className={styles.paragraph}>CHANGES TO OUR PRIVACY POLICY</p>
+          <p className={styles.paragraph}>Changes to our privacy policy</p>
 
           <p className={styles.paragraph}>
             Any material changes we may make to our privacy policy in the future will be posted here. Please check back
             frequently to see any updates or changes to our privacy policy.
           </p>
 
-          <p className={styles.paragraph}>DIGITAL ADVERTISING</p>
+          <p className={styles.paragraph}>Digital advertising</p>
 
           <p className={styles.paragraph}>
             We use third party partners to enable targeted advertising on third-party social media platforms, websites,
@@ -444,7 +445,7 @@ function Privacy() {
             may make the ads you see less relevant to your interests.
           </p>
 
-          <p className={styles.paragraph}>COOKIES</p>
+          <p className={styles.paragraph}>Cookies</p>
 
           <p className={styles.paragraph}>
             Our Apps use cookies and other similar technologies to improve your experience and support targeted

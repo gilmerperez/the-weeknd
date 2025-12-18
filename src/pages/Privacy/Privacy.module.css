@@ -27,13 +27,14 @@
 }
 
 .underline {
-  font-weight: 400;
   transition: 0.3s ease;
-  border-bottom: 1px solid var(--text-primary);
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--text-secondary);
 }
 
 .underline:hover {
   color: var(--text-primary);
+  border-bottom: 1px solid var(--text-primary);
 }
 
 /* Information collection table */

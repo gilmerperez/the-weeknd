@@ -545,7 +545,7 @@ function Terms() {
           </p>
 
           <p className={styles.paragraph}>
-            b.) To cancel in accordance with the terms herein, You must inform UMG clearly. UMG recommends emailing{" "}
+            b. To cancel in accordance with the terms herein, You must inform UMG clearly. UMG recommends emailing{" "}
             <a href="mailto:gilmer2002@outlook.com" className={styles.underline}>
               customercare@umgstores.com
             </a>{" "}
@@ -557,30 +557,30 @@ function Terms() {
           </p>
 
           <p className={styles.paragraph}>
-            c.) Further details, including an explanation of how to exercise Your right to cancel, may be provided in
+            c. Further details, including an explanation of how to exercise Your right to cancel, may be provided in
             the Dispatch Confirmation for physical goods. Details of UMG's Refund Policy can also be found at Section
             XIII.
           </p>
 
-          <p className={styles.paragraph}>d.) Note, this right to cancel does not apply:</p>
+          <p className={styles.paragraph}>d. Note, this right to cancel does not apply:</p>
 
           <p className={styles.paragraph}>
-            1.) where CDs and/or DVDs (or other such audio or audio-visual products) have been unsealed;
+            1. where CDs and/or DVDs (or other such audio or audio-visual products) have been unsealed;
           </p>
 
-          <p className={styles.paragraph}>2.) where the product has been made to Your specification;</p>
+          <p className={styles.paragraph}>2. where the product has been made to Your specification;</p>
 
-          <p className={styles.paragraph}>3.) to digital content (see Sections XI(1) above);</p>
+          <p className={styles.paragraph}>3. to digital content (see Sections XI(1) above);</p>
 
           <p className={styles.paragraph}>
-            4.) where the product, by reason of its nature, cannot be returned, or is billed is a "Final Sale" or part
+            4. where the product, by reason of its nature, cannot be returned, or is billed is a "Final Sale" or part
             of an "All Sales are Final" offer in the applicable product description or checkout page;
           </p>
 
-          <p className={styles.paragraph}>5.) Limited addition merchandise or other memorabilia; and</p>
+          <p className={styles.paragraph}>5. Limited addition merchandise or other memorabilia; and</p>
 
           <p className={styles.paragraph}>
-            6.) Merchandise that has been worn, washed or in any way damaged by the consumer.
+            6. Merchandise that has been worn, washed or in any way damaged by the consumer.
           </p>
 
           <p className={styles.paragraph}>

@@ -13,7 +13,7 @@ function Help() {
       <main>
         <div className={styles.helpContainer}>
           {/* Title */}
-          <h1 className={styles.title}>HELP AND SUPPORT</h1>
+          <h1 className={styles.title}>Help and Support</h1>
 
           {/* Help and support cards */}
           <div className={styles.cardsContainer}>
@@ -22,7 +22,7 @@ function Help() {
               <h2 className={styles.cardTitle}>Orders</h2>
               <p className={styles.cardText}>Learn about placing and managing orders</p>
               <Link to="/help/orders" className={styles.viewAllButton}>
-                VIEW ALL
+                View All
               </Link>
             </div>
 
@@ -31,7 +31,7 @@ function Help() {
               <h2 className={styles.cardTitle}>Returns</h2>
               <p className={styles.cardText}>Learn about returning and refunding orders</p>
               <Link to="/help/returns" className={styles.viewAllButton}>
-                VIEW ALL
+                View All
               </Link>
             </div>
 
@@ -40,7 +40,7 @@ function Help() {
               <h2 className={styles.cardTitle}>Shipping</h2>
               <p className={styles.cardText}>Learn about shipping and delivery of orders</p>
               <Link to="/help/shipping" className={styles.viewAllButton}>
-                VIEW ALL
+                View All
               </Link>
             </div>
           </div>

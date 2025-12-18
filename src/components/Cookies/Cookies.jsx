@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import styles from "./cookies.module.css";
+import styles from "./Cookies.module.css";
 
 function Cookies({ isOpen, onClose }) {
   // * If cookies are not open, return null
@@ -23,7 +23,7 @@ function Cookies({ isOpen, onClose }) {
           <p className={styles.paragraph}>
             We want to be transparent about the data we and our partners collect and how we use it, so you can best
             exercise control over your personal data. For more information, please see our{" "}
-            <Link to="/privacy" className={styles.link}>
+            <Link to="/privacy" target="_blank" rel="noopener noreferrer" className={styles.link}>
               Privacy Policy
             </Link>
             .
@@ -49,6 +49,10 @@ function Cookies({ isOpen, onClose }) {
         <section className={styles.checkboxSection}>
           <div className={styles.checkboxGroup}>
             <label className={styles.checkboxLabel}>
+              <input type="checkbox" className={styles.checkbox} defaultChecked disabled />
+              <span className={styles.checkboxText}>Essential</span>
+            </label>
+            <label className={styles.checkboxLabel}>
               <input type="checkbox" className={styles.checkbox} />
               <span className={styles.checkboxText}>Function</span>
             </label>
@@ -59,10 +63,6 @@ function Cookies({ isOpen, onClose }) {
             <label className={styles.checkboxLabel}>
               <input type="checkbox" className={styles.checkbox} />
               <span className={styles.checkboxText}>Advertising</span>
-            </label>
-            <label className={styles.checkboxLabel}>
-              <input type="checkbox" className={styles.checkbox} defaultChecked disabled />
-              <span className={styles.checkboxText}>Essential</span>
             </label>
           </div>
         </section>

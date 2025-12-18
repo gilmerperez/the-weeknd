@@ -61,17 +61,17 @@ function Legal() {
             practices, please contact us:
           </p>
 
-          <p className={styles.paragraph}>· Online using our Privacy Request Form or</p>
+          <p className={styles.paragraph}>Online using our Privacy Request Form or</p>
 
           <p className={styles.paragraph}>
-            · By emailing us at{" "}
+            By emailing us at{" "}
             <a href="mailto:gilmer2002@outlook.com" className={styles.underline}>
               privacy@universalmusic.com
             </a>
             .
           </p>
 
-          <p className={styles.paragraph}>US STATE RIGHTS</p>
+          <p className={styles.paragraph}>US state rights</p>
 
           <p className={styles.paragraph}>
             Residents of Colorado, Connecticut, Utah, or Virginia have certain rights with respect to their personal
@@ -79,18 +79,18 @@ function Legal() {
           </p>
 
           <p className={styles.paragraph}>
-            · Confirm whether we process the consumer's personal information and to access such information
+            Confirm whether we process the consumer's personal information and to access such information
           </p>
 
-          <p className={styles.paragraph}>· Correct inaccuracies in personal information</p>
+          <p className={styles.paragraph}>Correct inaccuracies in personal information</p>
 
-          <p className={styles.paragraph}>· Delete personal information</p>
+          <p className={styles.paragraph}>Delete personal information</p>
 
-          <p className={styles.paragraph}>· Data portability</p>
+          <p className={styles.paragraph}>Data portability</p>
 
-          <p className={styles.paragraph}>· Opt out from targeted advertising and/or</p>
+          <p className={styles.paragraph}>Opt out from targeted advertising and/or</p>
 
-          <p className={styles.paragraph}>· Opt out from the sale of personal information</p>
+          <p className={styles.paragraph}>Opt out from the sale of personal information</p>
 
           <p className={styles.paragraph}>
             Residents of Virginia, Colorado, and Connecticut have the right to opt out from profiling in furtherance of
@@ -126,95 +126,95 @@ function Legal() {
             <table className={styles.dataTable}>
               <thead>
                 <tr>
-                  <th className={styles.tableHeader}>CATEGORIES OF PERSONAL DATA</th>
+                  <th className={styles.tableHeader}>Categories of personal data</th>
                   <th className={styles.tableHeader}>
-                    DISCLOSED TO THE FOLLOWING CATEGORIES OF THIRD PARTIES FOR BUSINESS PURPOSES
+                    Disclosed to the following categories of third parties for business purposes
                   </th>
                   <th className={styles.tableHeader}>
-                    SHARED FOR TARGETED ADVERTISING PURPOSES WITH THE FOLLOWING CATEGORIES OF THIRD PARTIES
+                    Shared for targeted advertising purposes with the following categories of third parties
                   </th>
-                  <th className={styles.tableHeader}>SOLD TO THE FOLLOWING CATEGORIES OF THIRD PARTIES</th>
+                  <th className={styles.tableHeader}>Sold to the following categories of third parties</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td className={styles.tableCell}>
-                    IDENTIFIERS SUCH AS REAL NAME, ALIAS, POSTAL ADDRESS, UNIQUE PERSONAL IDENTIFIER, ONLINE IDENTIFIER,
-                    IP ADDRESS, EMAIL ADDRESS, ACCOUNT NAME, SOCIAL SECURITY NUMBER, DRIVER'S LICENSE NUMBER, PASSPORT
-                    NUMBER, OR OTHER SIMILAR IDENTIFIERS
+                    Identifiers such as real name, alias, postal address, unique personal identifier, online identifier,
+                    IP address, email address, account name, social security number, driver's license number, passport
+                    number, or other similar identifiers
                   </td>
                   <td className={styles.tableCell}>
-                    UMG AFFILIATES, BUSINESS PARTNERS, OUR SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                    UMG affiliates, business partners, our service providers, and advertising companies
                   </td>
                   <td className={styles.tableCell}>
-                    OUR BUSINESS PARTNERS, OUR SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                    Our business partners, our service providers, and advertising companies
                   </td>
-                  <td className={styles.tableCell}>DATA ENRICHMENT PROVIDERS</td>
+                  <td className={styles.tableCell}>Data enrichment providers</td>
                 </tr>
                 <tr>
                   <td className={styles.tableCell}>
-                    COMMERCIAL INFORMATION, INCLUDING PRODUCTS OR SERVICES PURCHASED, OBTAINED, OR CONSIDERED, OR OTHER
-                    PURCHASING OR CONSUMING HISTORIES OR TENDENCIES
+                    Commercial information, including products or services purchased, obtained, or considered, or other
+                    purchasing or consuming histories or tendencies
                   </td>
                   <td className={styles.tableCell}>
-                    UMG AFFILIATES, BUSINESS PARTNERS, SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                    UMG affiliates, business partners, service providers, and advertising companies
                   </td>
-                  <td className={styles.tableCell}>N/A</td>
-                  <td className={styles.tableCell}>N/A</td>
-                </tr>
-                <tr>
-                  <td className={styles.tableCell}>
-                    GENDER, A PROTECTED CLASSIFICATION UNDER CALIFORNIA AND FEDERAL LAW
-                  </td>
-                  <td className={styles.tableCell}>UMG AFFILIATES, BUSINESS PARTNERS, AND SERVICE PROVIDERS</td>
-                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
-                  <td className={styles.tableCell}>N/A</td>
-                </tr>
-                <tr>
-                  <td className={styles.tableCell}>
-                    INTERNET OR OTHER ELECTRONIC NETWORK ACTIVITY INFORMATION, INCLUDING BROWSING HISTORY, SEARCH
-                    HISTORY, AND INFORMATION REGARDING A CONSUMER'S INTERACTION WITH AN INTERNET WEBSITE, APPLICATION,
-                    OR ADVERTISEMENT
-                  </td>
-                  <td className={styles.tableCell}>UMG AFFILIATES, BUSINESS PARTNERS, AND SERVICE PROVIDERS</td>
-                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
-                  <td className={styles.tableCell}>N/A</td>
-                </tr>
-                <tr>
-                  <td className={styles.tableCell}>
-                    GEOLOCATION DATA, GENERALLY DERIVED FROM IP ADDRESS LOCATION SERVICES, BUT COULD ALSO INCLUDE
-                    PRESENCE IN A GEO-FENCED AREA
-                  </td>
-                  <td className={styles.tableCell}>UMG AFFILIATES, BUSINESS PARTNERS, AND SERVICE PROVIDERS</td>
-                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
-                  <td className={styles.tableCell}>N/A</td>
-                </tr>
-                <tr>
-                  <td className={styles.tableCell}>AUDIO, ELECTRONIC, VISUAL, OR SIMILAR INFORMATION</td>
-                  <td className={styles.tableCell}>SERVICE PROVIDERS</td>
                   <td className={styles.tableCell}>N/A</td>
                   <td className={styles.tableCell}>N/A</td>
                 </tr>
                 <tr>
                   <td className={styles.tableCell}>
-                    INFERENCES DRAWN FROM ANY OF THE INFORMATION IDENTIFIED IN THIS SUBDIVISION TO CREATE A PROFILE
-                    ABOUT A CONSUMER REFLECTING THE CONSUMER'S PREFERENCES, CHARACTERISTICS, PSYCHOLOGICAL TRENDS,
-                    PREDISPOSITIONS, BEHAVIOR, ATTITUDES, INTELLIGENCE, ABILITIES, AND APTITUDES
+                    Gender, a protected classification under California and federal law
                   </td>
-                  <td className={styles.tableCell}>
-                    UMG AFFILIATES; BUSINESS PARTNERS, SERVICE PROVIDERS, AND ADVERTISING COMPANIES
-                  </td>
-                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>UMG affiliates, business partners, and service providers</td>
+                  <td className={styles.tableCell}>Advertising companies</td>
                   <td className={styles.tableCell}>N/A</td>
                 </tr>
                 <tr>
                   <td className={styles.tableCell}>
-                    OTHER INFORMATION ABOUT YOU THAT IS LINKED TO THE PERSONAL INFORMATION ABOVE
+                    Internet or other electronic network activity information, including browsing history, search
+                    history, and information regarding a consumer's interaction with an internet website, application,
+                    or advertisement
+                  </td>
+                  <td className={styles.tableCell}>UMG affiliates, business partners, and service providers</td>
+                  <td className={styles.tableCell}>Advertising companies</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    Geolocation data, generally derived from IP address location services, but could also include
+                    Presence in a geo-fenced area
+                  </td>
+                  <td className={styles.tableCell}>UMG affiliates, business partners, and service providers</td>
+                  <td className={styles.tableCell}>Advertising companies</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>Audio, electronic, visual, or similar information</td>
+                  <td className={styles.tableCell}>Service providers</td>
+                  <td className={styles.tableCell}>N/A</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    Inferences drawn from any of the information identified in this subdivision to create a profile
+                    about a consumer reflecting the consumer's preferences, characteristics, psychological trends,
+                    predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
                   </td>
                   <td className={styles.tableCell}>
-                    UMG AFFILIATES, BUSINESS PARTNERS, SERVICE PROVIDERS, AND ADVERTISING COMPANIES
+                    UMG affiliates; business partners, service providers, and advertising companies
                   </td>
-                  <td className={styles.tableCell}>ADVERTISING COMPANIES</td>
+                  <td className={styles.tableCell}>Advertising companies</td>
+                  <td className={styles.tableCell}>N/A</td>
+                </tr>
+                <tr>
+                  <td className={styles.tableCell}>
+                    Other information about you that is linked to the personal information above
+                  </td>
+                  <td className={styles.tableCell}>
+                    UMG affiliates, business partners, service providers, and advertising companies
+                  </td>
+                  <td className={styles.tableCell}>Advertising companies</td>
                   <td className={styles.tableCell}>N/A</td>
                 </tr>
               </tbody>
@@ -225,15 +225,15 @@ function Legal() {
 
           <p className={styles.paragraph}>We collect personal data from:</p>
 
-          <p className={styles.paragraph}>· Individuals who provide information directly</p>
+          <p className={styles.paragraph}>Individuals who provide information directly</p>
 
-          <p className={styles.paragraph}>· Affiliates and business partners, which may include third parties</p>
+          <p className={styles.paragraph}>Affiliates and business partners, which may include third parties</p>
 
-          <p className={styles.paragraph}>· Third-party data providers and data brokers</p>
+          <p className={styles.paragraph}>Third-party data providers and data brokers</p>
 
-          <p className={styles.paragraph}>· Service providers and</p>
+          <p className={styles.paragraph}>Service providers and</p>
 
-          <p className={styles.paragraph}>· Advertising companies</p>
+          <p className={styles.paragraph}>Advertising companies</p>
 
           <p className={styles.paragraph}>Business or Commercial Purposes for Processing Personal Data:</p>
 
@@ -249,12 +249,12 @@ function Legal() {
             exercise the following rights regarding your personal data:
           </p>
 
-          <p className={styles.paragraph}>· The right to confirm whether we process personal data about you</p>
+          <p className={styles.paragraph}>The right to confirm whether we process personal data about you</p>
 
-          <p className={styles.paragraph}>· The right to correct inaccurate personal data</p>
+          <p className={styles.paragraph}>The right to correct inaccurate personal data</p>
 
           <p className={styles.paragraph}>
-            · The right to know the categories and specific pieces of personal data we collect, use, disclose, and sell
+            The right to know the categories and specific pieces of personal data we collect, use, disclose, and sell
             about you; the categories of sources from which we collected personal data about you; our purposes for
             collecting or selling personal data about you; the categories of personal data about you that we have sold
             or disclosed for a business purpose; and the categories of third parties with which we have shared personal
@@ -262,20 +262,20 @@ function Legal() {
           </p>
 
           <p className={styles.paragraph}>
-            · The right to request the deletion of personal data we have collected about you
+            The right to request the deletion of personal data we have collected about you
           </p>
 
           <p className={styles.paragraph}>
-            · The right to opt out of processing and sharing of personal data for targeted advertising
+            The right to opt out of processing and sharing of personal data for targeted advertising
           </p>
 
           <p className={styles.paragraph}>
-            · Depending on your state, the right to limit our processing of certain "sensitive" personal data, including
+            Depending on your state, the right to limit our processing of certain "sensitive" personal data, including
             the withdrawal of prior consent and/or
           </p>
 
           <p className={styles.paragraph}>
-            · The right to be free of discriminatory treatment for the exercise of the above privacy rights
+            The right to be free of discriminatory treatment for the exercise of the above privacy rights
           </p>
 
           <p className={styles.paragraph}>
@@ -308,7 +308,7 @@ function Legal() {
             authorized the agent to make requests on your behalf prior to accepting requests from the agent.
           </p>
 
-          <p className={styles.paragraph}>EUROPEAN RIGHTS</p>
+          <p className={styles.paragraph}>European rights</p>
 
           <p className={styles.paragraph}>
             This section of this Privacy Policy applies only if you use the App from a country that is a Member State of
@@ -323,13 +323,13 @@ function Legal() {
             · Confirm whether we process the consumer's personal information and to access such information
           </p>
 
-          <p className={styles.paragraph}>· Correct inaccuracies in personal information</p>
+          <p className={styles.paragraph}>Correct inaccuracies in personal information</p>
 
-          <p className={styles.paragraph}>· Delete personal information</p>
+          <p className={styles.paragraph}>Delete personal information</p>
 
-          <p className={styles.paragraph}>· Data portability and/or</p>
+          <p className={styles.paragraph}>Data portability and/or</p>
 
-          <p className={styles.paragraph}>· Object to or request the restriction of processing of your personal data</p>
+          <p className={styles.paragraph}>Object to or request the restriction of processing of your personal data</p>
 
           <p className={styles.paragraph}>
             You may also be entitled, in accordance with applicable law, to lodge a complaint with a supervisory
