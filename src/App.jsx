@@ -56,8 +56,8 @@ function App() {
           <Route path="/legal" element={<Legal />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
-        <Cookies isOpen={isCookiesOpen} onClose={closeCookies} />
         <Footer onCookieChoicesClick={openCookies} />
+        <Cookies isOpen={isCookiesOpen} onClose={closeCookies} />
       </Router>
     </>
   );
