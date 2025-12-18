@@ -9,6 +9,7 @@
   justify-content: center;
 }
 
+/* Tour banner */
 .bannerContainer {
   width: 100%;
   margin-bottom: 2rem;
@@ -27,6 +28,12 @@
   width: 100%;
   display: flex;
   flex-direction: column;
+}
+
+@media (max-width: 950px) {
+  .concertsContainer {
+    gap: 2rem;
+  }
 }
 
 /* Tablet responsiveness */

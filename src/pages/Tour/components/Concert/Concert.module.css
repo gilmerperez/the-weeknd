@@ -1,45 +1,30 @@
 .concertContainer {
-  gap: 2rem;
+  gap: 1rem;
   width: 100%;
   display: flex;
-  margin: 0 auto;
-  max-width: 1200px;
+  font-weight: 500;
+  text-align: center;
   align-items: center;
+  transition: 0.3s ease;
   justify-content: space-between;
   font-family: "Bebas Neue", sans-serif;
 }
 
-.concertInfo {
-  flex: 1;
-  gap: 2rem;
-  display: flex;
-  justify-content: space-between;
-}
-
-/* Concert date */
+/* Concert information */
 .date {
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 1.5rem;
   transition: 0.3s ease;
   color: var(--latin-america);
 }
 
-/* Concert stadium */
-.stadium {
-  font-size: 2rem;
-  font-weight: 500;
-  transition: 0.3s ease;
-  color: var(--latin-america);
-}
-
-/* Concert location */
+.stadium,
 .location {
   font-size: 2rem;
-  font-weight: 500;
   transition: 0.3s ease;
   color: var(--latin-america);
 }
 
+/* Concert tickets */
 .concertLinks {
   gap: 1rem;
   display: flex;
@@ -47,20 +32,23 @@
   justify-content: center;
 }
 
-/* Tickets link & VIP tickets link */
 .ticketsLink,
 .vipTicketsLink {
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 1.5rem;
   transition: 0.3s ease;
-  padding: 0.25rem 0.75rem;
   color: var(--latin-america);
 }
 
 .ticketsLink:hover,
 .vipTicketsLink:hover {
-  color: var(--bg-color);
-  background-color: var(--text-primary);
+  color: var(--text-primary);
+}
+
+@media (max-width: 950px) {
+  .concertContainer {
+    gap: 0rem;
+    flex-direction: column;
+  }
 }
 
 /* Tablet responsiveness */
