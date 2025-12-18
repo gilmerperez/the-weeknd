@@ -30,56 +30,62 @@ function Tour() {
     <>
       <main>
         <div className={styles.tourContainer}>
-          {/* Latin America tour banner */}
-          <div className={styles.bannerContainer}>
-            <picture>
-              <source media="(max-width: 480px)" srcSet={latinAmericaTour.bannerImageTall} />
-              <img
-                className={styles.bannerImage}
-                src={latinAmericaTour.bannerImageWide}
-                alt={`${latinAmericaTour.title} ${latinAmericaTour.region} ${latinAmericaTour.year}`}
-              />
-            </picture>
+          {/* Latin America tour section */}
+          <div className={styles.latinAmericaSection}>
+            {/* Latin America tour banner */}
+            <div className={styles.bannerContainer}>
+              <picture>
+                <source media="(max-width: 480px)" srcSet={latinAmericaTour.bannerImageTall} />
+                <img
+                  className={styles.bannerImage}
+                  src={latinAmericaTour.bannerImageWide}
+                  alt={`${latinAmericaTour.title} ${latinAmericaTour.region} ${latinAmericaTour.year}`}
+                />
+              </picture>
+            </div>
+
+            {/* Latin America concerts list */}
+            <div className={styles.concertsContainer}>
+              {latinAmericaTour.concerts.map((concert, index) => (
+                <Concert
+                  key={index}
+                  date={concert.date}
+                  stadium={concert.stadium}
+                  location={concert.location}
+                  ticketsLink={concert.ticketsLink}
+                  vipTicketsLink={concert.vipTicketsLink}
+                />
+              ))}
+            </div>
           </div>
 
-          {/* Latin America concerts list */}
-          <div className={styles.concertsContainer}>
-            {latinAmericaTour.concerts.map((concert, index) => (
-              <Concert
-                key={index}
-                date={concert.date}
-                stadium={concert.stadium}
-                location={concert.location}
-                ticketsLink={concert.ticketsLink}
-                vipTicketsLink={concert.vipTicketsLink}
-              />
-            ))}
-          </div>
+          {/* Europe tour section */}
+          <div className={styles.europeSection}>
+            {/* Europe tour banner */}
+            <div className={styles.bannerContainer}>
+              <picture>
+                <source media="(max-width: 480px)" srcSet={europeTour.bannerImageTall} />
+                <img
+                  className={styles.bannerImage}
+                  src={europeTour.bannerImageWide}
+                  alt={`${europeTour.title} ${europeTour.region} ${europeTour.year}`}
+                />
+              </picture>
+            </div>
 
-          {/* Europe tour banner */}
-          <div className={styles.bannerContainer}>
-            <picture>
-              <source media="(max-width: 480px)" srcSet={europeTour.bannerImageTall} />
-              <img
-                className={styles.bannerImage}
-                src={europeTour.bannerImageWide}
-                alt={`${europeTour.title} ${europeTour.region} ${europeTour.year}`}
-              />
-            </picture>
-          </div>
-
-          {/* Europe concerts list */}
-          <div className={styles.concertsContainer}>
-            {europeTour.concerts.map((concert, index) => (
-              <Concert
-                key={`europe-${index}`}
-                date={concert.date}
-                stadium={concert.stadium}
-                location={concert.location}
-                ticketsLink={concert.ticketsLink}
-                vipTicketsLink={concert.vipTicketsLink}
-              />
-            ))}
+            {/* Europe concerts list */}
+            <div className={styles.concertsContainer}>
+              {europeTour.concerts.map((concert, index) => (
+                <Concert
+                  key={`europe-${index}`}
+                  date={concert.date}
+                  stadium={concert.stadium}
+                  location={concert.location}
+                  ticketsLink={concert.ticketsLink}
+                  vipTicketsLink={concert.vipTicketsLink}
+                />
+              ))}
+            </div>
           </div>
         </div>
       </main>

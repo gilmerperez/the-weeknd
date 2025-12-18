@@ -1,3 +1,15 @@
+/* Latin America tour section */
+.latinAmericaSection {
+  width: 100%;
+  --tour-color: var(--latin-america);
+}
+
+/* Europe tour section */
+.europeSection {
+  width: 100%;
+  --tour-color: var(--europe);
+}
+
 .tourContainer {
   width: 100%;
   display: flex;

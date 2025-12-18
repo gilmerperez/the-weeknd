@@ -14,14 +14,14 @@
 .date {
   font-size: 1.5rem;
   transition: 0.3s ease;
-  color: var(--latin-america);
+  color: var(--tour-color);
 }
 
 .stadium,
 .location {
   font-size: 2rem;
   transition: 0.3s ease;
-  color: var(--latin-america);
+  color: var(--tour-color);
 }
 
 /* Concert tickets */
@@ -36,7 +36,7 @@
 .vipTicketsLink {
   font-size: 1.5rem;
   transition: 0.3s ease;
-  color: var(--latin-america);
+  color: var(--tour-color);
 }
 
 .ticketsLink:hover,
