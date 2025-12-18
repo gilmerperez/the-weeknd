@@ -4,7 +4,8 @@
     "title": "After Hours Til Dawn",
     "region": "Latin America",
     "year": 2026,
-    "bannerImage": "/images/tour/after-hours-til-dawn-latin-america-2026-tour-poster.jpg",
+    "bannerImageWide": "/images/tour/after-hours-til-dawn-latin-america-2026-tour-poster-wide.jpg",
+    "bannerImageTall": "/images/tour/after-hours-til-dawn-latin-america-2026-tour-poster-tall.jpg",
     "concerts": [
       {
         "date": "Monday, April 20th",
@@ -55,7 +56,8 @@
     "title": "After Hours Til Dawn",
     "region": "Europe",
     "year": 2026,
-    "bannerImage": "/images/tour/after-hours-til-dawn-europe-2026-tour-poster.jpg",
+    "bannerImageWide": "/images/tour/after-hours-til-dawn-europe-2026-tour-poster-wide.jpg",
+    "bannerImageTall": "/images/tour/after-hours-til-dawn-europe-2026-tour-poster-tall.jpg",
     "concerts": [
       {
         "date": "Thursday, June 11th",

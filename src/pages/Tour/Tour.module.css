@@ -16,6 +16,11 @@
   transition: 0.3s ease;
 }
 
+.bannerContainer picture {
+  width: 100%;
+  display: block;
+}
+
 .bannerImage {
   width: 100%;
   display: block;
