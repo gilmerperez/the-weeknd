@@ -12,14 +12,6 @@ import {
 } from "react-icons/hi";
 
 function Header() {
-  // * Get current location to determine if on home page
-  const location = useLocation();
-  const isHomePage = location.pathname === "/";
-
-  // * Collections dropdown state
-  const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
-  const [isMobileCollectionsOpen, setIsMobileCollectionsOpen] = useState(false);
-
   // * Mobile menu state
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -35,16 +27,69 @@ function Header() {
     };
   }, [menuOpen]);
 
+  // * Get current location to determine if on home page
+  const location = useLocation();
+  const isHomePage = location.pathname === "/";
+
+  // * Collections dropdown state
+  const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
+  const [isMobileCollectionsOpen, setIsMobileCollectionsOpen] = useState(false);
+
+  // * Sticky header state
+  const [isSticky, setIsSticky] = useState(false);
+  const [isVisible, setIsVisible] = useState(true);
+
+  useEffect(() => {
+    let ticking = false;
+    let lastScrollY = window.scrollY;
+
+    // Update header state on scroll
+    const updateHeader = () => {
+      const scrollThreshold = 10; // Minimum scroll distance to trigger show/hide
+      const currentScrollY = window.scrollY;
+      // Determine if header should be sticky (scrolled past initial position)
+      setIsSticky(currentScrollY > 0);
+      // Show/hide header based on scroll direction
+      if (Math.abs(currentScrollY - lastScrollY) > scrollThreshold) {
+        if (currentScrollY > lastScrollY && currentScrollY > 100) {
+          // Scrolling down - hide header
+          setIsVisible(false);
+        } else {
+          // Scrolling up - show header
+          setIsVisible(true);
+        }
+        lastScrollY = currentScrollY;
+      }
+      ticking = false;
+    };
+
+    // Update header state on scroll
+    const onScroll = () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateHeader);
+        ticking = true;
+      }
+    };
+
+    // Add scroll event listener
+    window.addEventListener("scroll", onScroll, { passive: true });
+
+    // Remove scroll event listener on unmount
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+    };
+  }, []);
+
   return (
     <>
-      <header>
+      <header className={`${isSticky ? styles.sticky : ""} ${!isVisible ? styles.hidden : ""}`}>
         <div className={styles.headerContainer}>
           {/* Navigation */}
           <nav className={styles.navLeft}>
             {/* Home */}
             {!isHomePage && (
               <Link to="/" className={styles.navLink}>
-                HOME
+                Home
               </Link>
             )}
             {/* Film */}
@@ -54,19 +99,19 @@ function Header() {
               className={styles.navLink}
               href="https://www.lionsgate.com/movies/hurry-up-tomorrow"
             >
-              FILM
+              Film
             </a>
             {/* Tour */}
             <Link to="/tour" className={styles.navLink}>
-              TOUR
+              Tour
             </Link>
             {/* Music */}
             <Link to="/music" className={styles.navLink}>
-              MUSIC
+              Music
             </Link>
             {/* Clothing */}
             <Link to="/clothing" className={styles.navLink}>
-              CLOTHING
+              Clothing
             </Link>
             {/* Collections */}
             <div
@@ -74,21 +119,21 @@ function Header() {
               onMouseEnter={() => setIsCollectionsOpen(true)}
               onMouseLeave={() => setIsCollectionsOpen(false)}
             >
-              <button className={styles.navLink}>COLLECTIONS</button>
+              <button className={styles.navLink}>Collections</button>
               {isCollectionsOpen && (
                 <ul className={styles.dropdownMenu}>
-                  <li>ALL COLLECTIONS</li>
-                  <li>HOUSE OF BALLOONS</li>
-                  <li>THURSDAY</li>
-                  <li>ECHOES OF SILENCE</li>
-                  <li>KISSLAND</li>
-                  <li>BEAUTY BEHIND THE MADNESS</li>
-                  <li>STARBOY</li>
-                  <li>MY DEAR MELANCHOLY,</li>
-                  <li>AFTER HOURS</li>
-                  <li>DAWN FM</li>
-                  <li>HURRY UP TOMORROW</li>
-                  <li>THE HIGHLIGHTS</li>
+                  <li>All Collections</li>
+                  <li>House of Balloons</li>
+                  <li>Thursday</li>
+                  <li>Echoes of Silence</li>
+                  <li>Kissland</li>
+                  <li>Beauty Behind the Madness</li>
+                  <li>Starboy</li>
+                  <li>My Dear Melancholy,</li>
+                  <li>After Hours</li>
+                  <li>Dawn FM</li>
+                  <li>Hurry Up Tomorrow</li>
+                  <li>The Highlights</li>
                 </ul>
               )}
             </div>
@@ -150,7 +195,7 @@ function Header() {
                 {/* Home */}
                 {!isHomePage && (
                   <Link to="/" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                    HOME
+                    Home
                   </Link>
                 )}
                 {/* Film */}
@@ -161,19 +206,19 @@ function Header() {
                   onClick={() => setMenuOpen(false)}
                   href="https://www.lionsgate.com/movies/hurry-up-tomorrow"
                 >
-                  FILM
+                  Film
                 </a>
                 {/* Tour */}
                 <Link to="/tour" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  TOUR
+                  Tour
                 </Link>
                 {/* Music */}
                 <Link to="/music" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  MUSIC
+                  Music
                 </Link>
                 {/* Clothing */}
                 <Link to="/clothing" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  CLOTHING
+                  Clothing
                 </Link>
                 {/* Collections */}
                 <div className={styles.sidebarDropdown}>
@@ -181,22 +226,22 @@ function Header() {
                     className={styles.sidebarNavLink}
                     onClick={() => setIsMobileCollectionsOpen(!isMobileCollectionsOpen)}
                   >
-                    COLLECTIONS
+                    Collections
                   </button>
                   {isMobileCollectionsOpen && (
                     <ul className={styles.sidebarDropdownMenu}>
-                      <li>ALL COLLECTIONS</li>
-                      <li>HOUSE OF BALLOONS</li>
-                      <li>THURSDAY</li>
-                      <li>ECHOES OF SILENCE</li>
-                      <li>KISSLAND</li>
-                      <li>BEAUTY BEHIND THE MADNESS</li>
-                      <li>STARBOY</li>
-                      <li>MY DEAR MELANCHOLY,</li>
-                      <li>AFTER HOURS</li>
-                      <li>DAWN FM</li>
-                      <li>HURRY UP TOMORROW</li>
-                      <li>THE HIGHLIGHTS</li>
+                      <li>All Collections</li>
+                      <li>House of Balloons</li>
+                      <li>Thursday</li>
+                      <li>Echoes of Silence</li>
+                      <li>Kissland</li>
+                      <li>Beauty Behind the Madness</li>
+                      <li>Starboy</li>
+                      <li>My Dear Melancholy,</li>
+                      <li>After Hours</li>
+                      <li>Dawn FM</li>
+                      <li>Hurry Up Tomorrow</li>
+                      <li>The Highlights</li>
                     </ul>
                   )}
                 </div>
@@ -204,11 +249,11 @@ function Header() {
                 <hr className={styles.sidebarSeparator} />
                 {/* Login */}
                 <Link to="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  LOGIN
+                  Login
                 </Link>
                 {/* Create account */}
                 <Link to="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
-                  CREATE ACCOUNT
+                  Create Account
                 </Link>
               </nav>
             </div>
