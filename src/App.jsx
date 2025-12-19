@@ -4,6 +4,7 @@ import Tour from "./pages/Tour/Tour";
 import Music from "./pages/Music/Music";
 import Clothing from "./pages/Clothing/Clothing";
 import Account from "./pages/Account/Account";
+import Reset from "./pages/Account/Reset/Reset";
 import Terms from "./pages/Terms/Terms";
 import Privacy from "./pages/Privacy/Privacy";
 import Help from "./pages/Help/Help";
@@ -42,6 +43,7 @@ function App() {
           <Route path="/music" element={<Music />} />
           <Route path="/clothing" element={<Clothing />} />
           <Route path="/account" element={<Account />} />
+          <Route path="/account/reset" element={<Reset />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/help" element={<Help />} />

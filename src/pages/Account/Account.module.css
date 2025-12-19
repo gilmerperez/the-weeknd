@@ -3,14 +3,160 @@
   display: flex;
   margin: 0 auto;
   min-height: 75vh;
-  max-width: 1200px;
-  align-items: center;
-  flex-direction: column;
+  max-width: 1400px;
+  align-items: flex-start;
   justify-content: center;
+  gap: 0;
+  padding: 2rem 0;
+}
+
+/* Login Section */
+.loginSection {
+  width: 50%;
+  display: flex;
+  padding: 2rem;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Create Account Section */
+.createSection {
+  width: 50%;
+  display: flex;
+  padding: 2rem;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Divider */
+.divider {
+  width: 1px;
+  background-color: var(--text-secondary);
+  opacity: 0.3;
+  align-self: stretch;
+}
+
+/* Section Title */
+.sectionTitle {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+/* Form Group */
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* Label */
+.label {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+}
+
+/* Input */
+.input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-secondary);
+  border-radius: 0;
+  transition: 0.3s ease;
+  text-transform: uppercase;
+}
+
+.input::placeholder {
+  color: var(--text-secondary);
+  opacity: 0.5;
+  text-transform: uppercase;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--text-primary);
+}
+
+/* Forgot Password Link */
+.forgotPasswordLink {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: 0.3s ease;
+  text-transform: uppercase;
+  align-self: flex-start;
+}
+
+.forgotPasswordLink:hover {
+  color: var(--text-primary);
+}
+
+/* Button */
+.button {
+  width: 100%;
+  padding: 0.875rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  background-color: transparent;
+  border: 1px solid var(--text-primary);
+  cursor: pointer;
+  transition: 0.3s ease;
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+}
+
+.button:hover {
+  background-color: var(--text-primary);
+  color: var(--bg-color);
+}
+
+/* Password Requirements */
+.passwordRequirements {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+  list-style: none;
+}
+
+.requirement {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.xIcon {
+  width: 1.25rem;
+  height: 1.25rem;
+  color: hsl(0, 70%, 50%);
+  flex-shrink: 0;
+}
+
+.checkIcon {
+  width: 1.25rem;
+  height: 1.25rem;
+  color: hsl(120, 50%, 50%);
+  flex-shrink: 0;
+}
+
+.requirement span {
+  text-transform: none;
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+}
