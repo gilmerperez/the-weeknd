@@ -11,11 +11,12 @@
 /* Tour banner */
 .bannerContainer {
   width: 100%;
+  margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
-* {
-  border: 1px solid red;
+.bannerContainer:first-child {
+  margin-top: 0rem;
 }
 
 .bannerImage {
@@ -37,6 +38,7 @@
   gap: 1rem;
   width: 100%;
   display: flex;
+  max-width: 1200px;
   transition: 0.3s ease;
   flex-direction: column;
 }
