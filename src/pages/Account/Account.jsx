@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import styles from "./Account.module.css";
 import { useEffect, useState } from "react";
-import { HiX, HiCheck } from "react-icons/hi";
+import { HiOutlineInformationCircle, HiX, HiCheck } from "react-icons/hi";
 
 function Account() {
   // * Set page title
@@ -73,8 +73,20 @@ function Account() {
 
           {/* Create account section */}
           <div className={styles.createSection}>
-            {/* Title */}
-            <h1 className={styles.sectionTitle}>Create a new account</h1>
+            {/* Create account title wrapper */}
+            <div className={styles.titleWrapper}>
+              {/* Create account title */}
+              <h1 className={styles.sectionTitle}>Create a new account</h1>
+              {/* Info icon */}
+              <div className={styles.infoIconWrapper}>
+                <HiOutlineInformationCircle className={styles.infoIcon} />
+                {/* Tooltip */}
+                <div className={styles.tooltip}>
+                  By creating an account, you'll be able to move through the checkout process faster, store multiple
+                  shipping addresses, view and track your orders and more.
+                </div>
+              </div>
+            </div>
             {/* First name field */}
             <div className={styles.formGroup}>
               <label htmlFor="first-name" className={styles.label}>
