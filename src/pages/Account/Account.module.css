@@ -64,7 +64,7 @@
   color: var(--text-secondary);
 }
 
-/* Button */
+/* Log in button & Create account button */
 .button {
   width: 100%;
   font-size: 1rem;
@@ -121,7 +121,9 @@
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+}

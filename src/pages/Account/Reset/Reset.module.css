@@ -59,7 +59,19 @@
   color: var(--text-secondary);
 }
 
-/* Button */
+/* Cancel link */
+.cancelLink {
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+  transition: 0.3s ease;
+  color: var(--text-secondary);
+}
+
+.cancelLink:hover {
+  color: var(--text-primary);
+}
+
+/* Reset password button */
 .button {
   width: 100%;
   font-size: 1rem;

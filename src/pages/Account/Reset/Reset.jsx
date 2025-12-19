@@ -1,8 +1,6 @@
 import styles from "./Reset.module.css";
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
-import Back from "../../../components/Back/Back";
-import { HiOutlineArrowLeft } from "react-icons/hi";
 
 function Reset() {
   // * Set page title
@@ -34,6 +32,10 @@ function Reset() {
                 className={styles.input}
                 onChange={(e) => setEmail(e.target.value)}
               />
+              {/* Cancel link */}
+              <Link to="/account" className={styles.cancelLink}>
+                Cancel password reset
+              </Link>
             </div>
             {/* Reset password button */}
             <button type="button" className={styles.button}>
