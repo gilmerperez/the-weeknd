@@ -1,7 +1,7 @@
 header {
   width: 100%;
+  padding: 1.5rem 2rem;
   transition: 0.3s ease;
-  padding: 1.25rem 1.75rem;
   background-color: var(--header-bg-color);
 }
 
@@ -105,11 +105,11 @@ header.hidden {
 /* Tablet responsiveness */
 @media (max-width: 768px) {
   header {
-    padding: 1.15rem 1.5rem;
+    padding: 1.25rem 1.75rem;
   }
 }
 
-@media (max-width: 615px) {
+@media (max-width: 625px) {
   .navLeft {
     gap: 0.875rem;
   }
@@ -147,11 +147,7 @@ header.hidden {
 }
 
 /* Hide desktop layout and show mobile layout */
-@media (max-width: 545px) {
-  header {
-    padding: 1rem;
-  }
-
+@media (max-width: 560px) {
   /* Hide navigation links */
   .navLeft {
     display: none;
@@ -171,6 +167,13 @@ header.hidden {
   .iconButton svg {
     width: 1.5rem;
     height: 1.5rem;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  header {
+    padding: 1rem 1.5rem;
   }
 }
 

@@ -10,9 +10,12 @@
 
 /* Tour banner */
 .bannerContainer {
-  width: 100vw;
-  margin-top: -2rem;
+  width: 100%;
   margin-bottom: 2rem;
+}
+
+* {
+  border: 1px solid red;
 }
 
 .bannerImage {
