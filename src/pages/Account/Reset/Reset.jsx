@@ -1,5 +1,8 @@
-import { useEffect } from "react";
 import styles from "./Reset.module.css";
+import { Link } from "react-router-dom";
+import { useEffect, useState } from "react";
+import Back from "../../../components/Back/Back";
+import { HiOutlineArrowLeft } from "react-icons/hi";
 
 function Reset() {
   // * Set page title
@@ -7,10 +10,39 @@ function Reset() {
     document.title = "The Weeknd | Reset Password";
   }, []);
 
+  // * Form state
+  const [email, setEmail] = useState("");
+
   return (
     <>
       <main>
-        <div className={styles.resetContainer}>RESET</div>
+        <div className={styles.resetContainer}>
+          {/* Reset section */}
+          <div className={styles.resetSection}>
+            {/* Title */}
+            <h1 className={styles.sectionTitle}>Reset your password</h1>
+            {/* Email field */}
+            <div className={styles.formGroup}>
+              <label htmlFor="reset-email" className={styles.label}>
+                Email
+              </label>
+              <input
+                type="email"
+                value={email}
+                id="reset-email"
+                placeholder="Email"
+                className={styles.input}
+                onChange={(e) => setEmail(e.target.value)}
+              />
+            </div>
+            {/* Reset password button */}
+            <button type="button" className={styles.button}>
+              Reset Password
+            </button>
+            {/* Back button */}
+            <Back to="/account" pageName="Account" />
+          </div>
+        </div>
       </main>
     </>
   );
