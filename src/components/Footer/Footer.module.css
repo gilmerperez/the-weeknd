@@ -76,6 +76,7 @@ footer {
 
 /* Accessibility statement */
 .accessibilityStatement {
+  line-height: 1.5;
   text-align: center;
   font-size: 0.875rem;
   transition: 0.3s ease;

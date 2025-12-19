@@ -16,6 +16,7 @@
 }
 
 .questionsContainer {
+  line-height: 1.5;
   margin-bottom: 1rem;
 }
 
@@ -25,10 +26,8 @@
 
 /* Question */
 .question {
-  display: inline-block;
   transition: 0.3s ease;
-  margin-bottom: 0.15rem;
-  border-bottom: 1px solid var(--text-primary);
+  margin-bottom: 0.25rem;
 }
 
 /* Answer */

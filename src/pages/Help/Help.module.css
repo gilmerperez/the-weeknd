@@ -43,6 +43,7 @@
 
 .cardText {
   font-size: 1rem;
+  line-height: 1.5;
   transition: 0.3s ease;
   margin-bottom: 0.75rem;
   color: var(--text-secondary);
