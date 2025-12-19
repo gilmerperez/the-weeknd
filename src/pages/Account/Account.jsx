@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import styles from "./Account.module.css";
 import { useEffect, useState } from "react";
-import { HiOutlineInformationCircle, HiX, HiCheck } from "react-icons/hi";
+import { HiExclamationCircle, HiOutlineInformationCircle, HiX, HiCheck } from "react-icons/hi";
 
 function Account() {
   // * Set page title
@@ -22,6 +22,10 @@ function Account() {
   const [hasMinLength, setHasMinLength] = useState(false);
   const [hasUpperLower, setHasUpperLower] = useState(false);
 
+  // * Email validation
+  const isLoginEmailValid = loginEmail === "" || loginEmail.includes("@");
+  const isCreateEmailValid = createEmail === "" || createEmail.includes("@");
+
   return (
     <>
       <main>
@@ -40,9 +44,15 @@ function Account() {
                 id="login-email"
                 value={loginEmail}
                 placeholder="Email"
-                className={styles.input}
                 onChange={(e) => setLoginEmail(e.target.value)}
+                className={`${styles.input} ${!isLoginEmailValid ? styles.inputError : ""}`}
               />
+              {!isLoginEmailValid && (
+                <div className={styles.errorMessage}>
+                  <HiExclamationCircle className={styles.errorIcon} />
+                  <span>Please enter a valid email address</span>
+                </div>
+              )}
             </div>
             {/* Password field */}
             <div className={styles.formGroup}>
@@ -125,9 +135,15 @@ function Account() {
                 id="create-email"
                 value={createEmail}
                 placeholder="Email"
-                className={styles.input}
                 onChange={(e) => setCreateEmail(e.target.value)}
+                className={`${styles.input} ${!isCreateEmailValid ? styles.inputError : ""}`}
               />
+              {!isCreateEmailValid && (
+                <div className={styles.errorMessage}>
+                  <HiExclamationCircle className={styles.errorIcon} />
+                  <span>Please enter a valid email address</span>
+                </div>
+              )}
             </div>
             {/* Password field */}
             <div className={styles.formGroup}>
