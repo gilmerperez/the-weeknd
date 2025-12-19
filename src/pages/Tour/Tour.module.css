@@ -1,10 +1,10 @@
 /* Tour color variables */
 .latinAmericaTour {
-  --tour-text-color: hsl(63, 12%, 65%);
+  --tour-text-color: var(--tour-latin-america);
 }
 
 .europeTour {
-  --tour-text-color: hsl(191, 19%, 77%);
+  --tour-text-color: var(--tour-europe);
 }
 
 .tourContainer {
