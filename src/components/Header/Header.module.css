@@ -3,6 +3,7 @@ header {
   padding: 1.5rem 2rem;
   transition: 0.3s ease;
   background-color: var(--header-bg-color);
+  will-change: transform;
 }
 
 header.sticky {

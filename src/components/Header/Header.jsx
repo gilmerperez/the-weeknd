@@ -46,9 +46,22 @@ function Header() {
     // Update header state on scroll
     const updateHeader = () => {
       const scrollThreshold = 10; // Minimum scroll distance to trigger show/hide
+      const stickyThreshold = 5; // Small threshold to prevent flickering at top
+      const topThreshold = 150; // Always show header when near top
       const currentScrollY = window.scrollY;
+
       // Determine if header should be sticky (scrolled past initial position)
-      setIsSticky(currentScrollY > 0);
+      // Use a small threshold to prevent rapid toggling at the very top
+      setIsSticky(currentScrollY > stickyThreshold);
+
+      // Always show header when near the top to prevent glitching
+      if (currentScrollY <= topThreshold) {
+        setIsVisible(true);
+        lastScrollY = currentScrollY;
+        ticking = false;
+        return;
+      }
+
       // Show/hide header based on scroll direction
       if (Math.abs(currentScrollY - lastScrollY) > scrollThreshold) {
         if (currentScrollY > lastScrollY && currentScrollY > 100) {
