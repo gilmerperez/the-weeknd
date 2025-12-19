@@ -1,5 +1,4 @@
 .concertContainer {
-  gap: 1rem;
   width: 100%;
   display: flex;
   font-weight: 500;
@@ -13,40 +12,26 @@
 /* Concert information */
 .date {
   font-size: 1.5rem;
-  transition: 0.3s ease;
-  color: var(--tour-color);
 }
 
 .stadium,
 .location {
   font-size: 2rem;
-  transition: 0.3s ease;
-  color: var(--tour-color);
 }
 
 /* Concert tickets */
 .concertLinks {
   gap: 1rem;
   display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .ticketsLink,
 .vipTicketsLink {
   font-size: 1.5rem;
-  transition: 0.3s ease;
-  color: var(--tour-color);
-}
-
-.ticketsLink:hover,
-.vipTicketsLink:hover {
-  color: var(--text-primary);
 }
 
 @media (max-width: 950px) {
   .concertContainer {
-    gap: 0rem;
     flex-direction: column;
   }
 }

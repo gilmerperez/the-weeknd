@@ -1,15 +1,3 @@
-/* Latin America tour section */
-.latinAmericaSection {
-  width: 100%;
-  --tour-color: var(--latin-america);
-}
-
-/* Europe tour section */
-.europeSection {
-  width: 100%;
-  --tour-color: var(--europe);
-}
-
 .tourContainer {
   width: 100%;
   display: flex;
@@ -23,14 +11,9 @@
 
 /* Tour banner */
 .bannerContainer {
-  width: 100%;
+  width: 100vw;
+  margin-top: -2rem;
   margin-bottom: 2rem;
-  transition: 0.3s ease;
-}
-
-.bannerContainer picture {
-  width: 100%;
-  display: block;
 }
 
 .bannerImage {
@@ -44,6 +27,7 @@
   gap: 1rem;
   width: 100%;
   display: flex;
+  transition: 0.3s ease;
   flex-direction: column;
 }
 
@@ -54,15 +38,7 @@
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {
-  .bannerContainer {
-    margin-bottom: 1.75rem;
-  }
-}
+@media (max-width: 768px) {}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {
-  .bannerContainer {
-    margin-bottom: 1.5rem;
-  }
-}
+@media (max-width: 480px) {}
