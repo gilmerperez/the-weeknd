@@ -5,23 +5,23 @@
   min-height: 75vh;
   max-width: 1200px;
   align-items: center;
-  flex-direction: column;
   justify-content: center;
 }
 
-/* Reset section */
+/* Reset password section */
 .resetSection {
-  gap: 1.5rem;
+  gap: 1rem;
   width: 100%;
   display: flex;
-  padding: 2rem;
   max-width: 500px;
+  transition: 0.3s ease;
   flex-direction: column;
 }
 
 /* Title */
 .sectionTitle {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  transition: 0.3s ease;
   color: var(--text-primary);
 }
 
@@ -35,6 +35,7 @@
 /* Form label */
 .label {
   font-size: 1rem;
+  transition: 0.3s ease;
   color: var(--text-primary);
 }
 
@@ -73,7 +74,27 @@
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+  .resetSection {
+    max-width: 350px;
+  }
+}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .sectionTitle {
+    font-size: 2rem;
+  }
+
+  .label {
+    font-size: 0.875rem;
+  }
+
+  .input {
+    font-size: 0.75rem;
+  }
+
+  .button {
+    font-size: 0.875rem;
+  }
+}

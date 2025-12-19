@@ -8,34 +8,26 @@
   justify-content: center;
 }
 
-/* Login section */
-.loginSection {
-  width: 50%;
-  gap: 1.5rem;
-  display: flex;
-  padding: 2rem;
-  flex-direction: column;
-}
-
-/* Create account section */
+/* Login section & Create account section */
+.loginSection,
 .createSection {
+  gap: 1rem;
   width: 50%;
-  gap: 1.5rem;
   display: flex;
-  padding: 2rem;
   flex-direction: column;
 }
 
 /* Divider */
 .divider {
   width: 1px;
+  margin: 0rem 2rem;
   align-self: stretch;
   background-color: var(--text-primary);
 }
 
 /* Title */
 .sectionTitle {
-  font-size: 2rem;
+  font-size: 2.5rem;
   color: var(--text-primary);
 }
 
@@ -72,18 +64,6 @@
   color: var(--text-secondary);
 }
 
-/* Forgot password link */
-.forgotPasswordLink {
-  font-size: 0.75rem;
-  margin-top: 0.25rem;
-  transition: 0.3s ease;
-  color: var(--text-secondary);
-}
-
-.forgotPasswordLink:hover {
-  color: var(--text-primary);
-}
-
 /* Button */
 .button {
   width: 100%;
@@ -98,6 +78,18 @@
   background-color: var(--text-primary);
 }
 
+/* Forgot password link */
+.forgotPasswordLink {
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+  transition: 0.3s ease;
+  color: var(--text-secondary);
+}
+
+.forgotPasswordLink:hover {
+  color: var(--text-primary);
+}
+
 /* Password requirements */
 .passwordRequirements {
   gap: 0.5rem;
@@ -109,7 +101,7 @@
 .requirement {
   gap: 0.5rem;
   display: flex;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   align-items: center;
   color: var(--text-secondary);
 }
@@ -126,10 +118,6 @@
   width: 1.25rem;
   height: 1.25rem;
   color: hsl(120, 50%, 50%);
-}
-
-.requirement span {
-  text-transform: none;
 }
 
 /* Tablet responsiveness */

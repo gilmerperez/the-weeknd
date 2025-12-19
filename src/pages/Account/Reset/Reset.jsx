@@ -17,7 +17,7 @@ function Reset() {
     <>
       <main>
         <div className={styles.resetContainer}>
-          {/* Reset section */}
+          {/* Reset password section */}
           <div className={styles.resetSection}>
             {/* Title */}
             <h1 className={styles.sectionTitle}>Reset your password</h1>
@@ -39,8 +39,6 @@ function Reset() {
             <button type="button" className={styles.button}>
               Reset Password
             </button>
-            {/* Back button */}
-            <Back to="/account" pageName="Account" />
           </div>
         </div>
       </main>

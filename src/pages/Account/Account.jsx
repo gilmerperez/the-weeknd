@@ -146,7 +146,6 @@ function Account() {
                 </li>
               </ul>
             </div>
-
             {/* Create account button */}
             <button type="button" className={styles.button}>
               Create Account
