@@ -134,34 +134,34 @@ function Footer({ onCookieChoicesClick }) {
           <nav className={styles.navLinks}>
             {/* Terms */}
             <Link to="/terms" className={styles.navLink}>
-              TERMS
+              Terms
             </Link>
             {/* Privacy */}
             <Link to="/privacy" className={styles.navLink}>
-              PRIVACY
+              Privacy
             </Link>
             {/* Cookie choices */}
             <button onClick={onCookieChoicesClick} className={styles.navLink}>
-              COOKIE CHOICES
+              Cookie Choices
             </button>
             {/* Help and support */}
             <Link to="/help" className={styles.navLink}>
-              HELP AND SUPPORT
+              Help and Support
             </Link>
             {/* Do not sell my information */}
             <Link to="/legal" className={styles.navLink}>
-              DO NOT SELL MY INFORMATION
+              Do Not Sell My Information
             </Link>
           </nav>
 
           {/* Accessibility statement */}
           <section className={styles.accessibilityStatement}>
             <p>
-              IF YOU ARE USING A SCREEN READER AND ARE HAVING PROBLEMS USING THIS WEBSITE, PLEASE CALL{" "}
+              If you are using a screen reader and are having problems using this website, please call{" "}
               <a href="tel:8666824413" className={styles.phoneLink}>
                 866-682-4413
               </a>{" "}
-              FOR ASSISTANCE.
+              for assistance.
             </p>
           </section>
         </div>
