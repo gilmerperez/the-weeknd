@@ -45,7 +45,7 @@ function Tour() {
                 />
               </div>
               {/* Concerts list */}
-              <div className={styles.concertsContainer}>
+              <div className={`${styles.concertsContainer} ${styles.latinAmericaTour}`}>
                 {latinAmericaTour.concerts.map((concert, index) => (
                   <Concert
                     key={index}
@@ -77,7 +77,7 @@ function Tour() {
                 />
               </div>
               {/* Concerts list */}
-              <div className={styles.concertsContainer}>
+              <div className={`${styles.concertsContainer} ${styles.europeTour}`}>
                 {europeTour.concerts.map((concert, index) => (
                   <Concert
                     key={index}

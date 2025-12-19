@@ -11,8 +11,6 @@ html[data-theme="dark"] {
   --text-secondary: hsl(46, 21%, 88%);
   --header-bg-color: hsl(0, 0%, 3%);
   --footer-bg-color: hsl(0, 0%, 3%);
-  --europe: hsl(191, 19%, 77%);
-  --latin-america: hsl(63, 12%, 65%);
 }
 
 /* Light theme */
@@ -22,8 +20,6 @@ html[data-theme="light"] {
   --text-secondary: hsl(0, 0%, 20%);
   --header-bg-color: hsl(0, 0%, 97%);
   --footer-bg-color: hsl(0, 0%, 97%);
-  --europe: hsl(191, 19%, 77%);
-  --latin-america: hsl(63, 12%, 65%);
 }
 
 /* Universal reset - Applies to all elements and pseudo-elements */

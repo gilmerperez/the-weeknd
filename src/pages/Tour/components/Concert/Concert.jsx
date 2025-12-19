@@ -19,6 +19,7 @@ function Concert({ date, stadium, location, ticketsLink, vipTicketsLink }) {
           >
             Tickets
           </a>
+          <span className={styles.separator}>|</span>
           <a
             target="_blank"
             href={vipTicketsLink}

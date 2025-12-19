@@ -1,3 +1,12 @@
+/* Tour color variables */
+.latinAmericaTour {
+  --tour-text-color: hsl(63, 12%, 65%);
+}
+
+.europeTour {
+  --tour-text-color: hsl(191, 19%, 77%);
+}
+
 .tourContainer {
   width: 100%;
   display: flex;
@@ -16,7 +25,7 @@
 }
 
 .bannerContainer:first-child {
-  margin-top: 0rem;
+  margin-top: -2rem;
 }
 
 .bannerImage {
@@ -41,6 +50,7 @@
   max-width: 1200px;
   transition: 0.3s ease;
   flex-direction: column;
+  color: var(--tour-text-color);
 }
 
 @media (max-width: 950px) {
@@ -50,10 +60,12 @@
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+  .bannerContainer:first-child {
+    margin-top: -1.75rem;
+  }
 
-/* Switch tour banner image */
-@media (max-width: 600px) {
+  /* Switch tour banner image */
   .bannerImageWide {
     display: none;
   }
@@ -64,4 +76,8 @@
 }
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .bannerContainer:first-child {
+    margin-top: -1.5rem;
+  }
+}
