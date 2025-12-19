@@ -3,7 +3,6 @@
   display: flex;
   margin: 0 auto;
   min-height: 75vh;
-  max-width: 1200px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -20,6 +19,14 @@
   width: 100%;
   display: block;
   object-fit: cover;
+}
+
+.bannerImageWide {
+  display: block;
+}
+
+.bannerImageTall {
+  display: none;
 }
 
 /* Concerts list */
@@ -39,6 +46,17 @@
 
 /* Tablet responsiveness */
 @media (max-width: 768px) {}
+
+/* Switch tour banner image */
+@media (max-width: 600px) {
+  .bannerImageWide {
+    display: none;
+  }
+
+  .bannerImageTall {
+    display: block;
+  }
+}
 
 /* Mobile responsiveness */
 @media (max-width: 480px) {}

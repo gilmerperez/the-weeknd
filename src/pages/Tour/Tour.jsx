@@ -30,8 +30,13 @@ function Tour() {
           {/* Tour banner */}
           <div className={styles.bannerContainer}>
             <img
-              className={styles.bannerImage}
               src={latinAmericaTour.bannerImageWide}
+              className={`${styles.bannerImage} ${styles.bannerImageWide}`}
+              alt={`${latinAmericaTour.title} ${latinAmericaTour.region} ${latinAmericaTour.year}`}
+            />
+            <img
+              src={latinAmericaTour.bannerImageTall}
+              className={`${styles.bannerImage} ${styles.bannerImageTall}`}
               alt={`${latinAmericaTour.title} ${latinAmericaTour.region} ${latinAmericaTour.year}`}
             />
           </div>
