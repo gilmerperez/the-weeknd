@@ -38,7 +38,7 @@ function Reset() {
               </Link>
             </div>
             {/* Reset password button */}
-            <button type="button" className={styles.button}>
+            <button type="button" className="button">
               Reset Password
             </button>
           </div>

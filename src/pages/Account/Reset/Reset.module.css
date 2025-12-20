@@ -71,20 +71,6 @@
   color: var(--text-primary);
 }
 
-/* Reset password button */
-.button {
-  width: 100%;
-  font-size: 1rem;
-  padding: 0.875rem;
-  transition: 0.3s ease;
-  border: 1px solid var(--text-primary);
-}
-
-.button:hover {
-  color: var(--bg-color);
-  background-color: var(--text-primary);
-}
-
 /* Tablet responsiveness */
 @media (max-width: 768px) {
   .resetSection {
@@ -104,9 +90,5 @@
 
   .input {
     font-size: 0.75rem;
-  }
-
-  .button {
-    font-size: 0.875rem;
   }
 }
