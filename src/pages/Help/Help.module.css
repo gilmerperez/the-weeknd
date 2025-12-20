@@ -49,19 +49,6 @@
   color: var(--text-secondary);
 }
 
-.viewAllButton {
-  width: 100%;
-  font-size: 1rem;
-  padding: 0.875rem;
-  transition: 0.3s ease;
-  border: 1px solid var(--text-primary);
-}
-
-.viewAllButton:hover {
-  color: var(--bg-color);
-  background-color: var(--text-primary);
-}
-
 @media (max-width: 950px) {
   .cardsContainer {
     flex-direction: column;
@@ -102,10 +89,6 @@
   }
 
   .cardText {
-    font-size: 0.875rem;
-  }
-
-  .viewAllButton {
     font-size: 0.875rem;
   }
 }

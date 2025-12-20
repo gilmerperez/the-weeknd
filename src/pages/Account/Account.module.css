@@ -141,20 +141,6 @@
   color: hsl(0, 70%, 50%);
 }
 
-/* Log in button & Create account button */
-.button {
-  width: 100%;
-  font-size: 1rem;
-  padding: 0.875rem;
-  transition: 0.3s ease;
-  border: 1px solid var(--text-primary);
-}
-
-.button:hover {
-  color: var(--bg-color);
-  background-color: var(--text-primary);
-}
-
 /* Forgot password link */
 .forgotPasswordLink {
   font-size: 0.75rem;
@@ -198,9 +184,7 @@
 }
 
 /* Tablet responsiveness */
-@media (max-width: 768px) {
-}
+@media (max-width: 768px) {}
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {
-}
+@media (max-width: 480px) {}

@@ -73,7 +73,7 @@ function Account() {
               </Link>
             </div>
             {/* Log in button */}
-            <button type="button" className={styles.button}>
+            <button type="button" className="button">
               Login
             </button>
           </div>
@@ -175,7 +175,7 @@ function Account() {
               </ul>
             </div>
             {/* Create account button */}
-            <button type="button" className={styles.button}>
+            <button type="button" className="button">
               Create Account
             </button>
           </div>

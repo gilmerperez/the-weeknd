@@ -142,6 +142,39 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--text-primary);
 }
 
+/* Custom button styles */
+.button {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.875rem;
+  transition: 0.3s ease;
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+}
+
+.button:hover {
+  color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+  background-color: var(--text-primary);
+}
+
+.buttonReverse {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.875rem;
+  transition: 0.3s ease;
+  color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+  background-color: var(--text-primary);
+}
+
+.buttonReverse:hover {
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+}
+
 /* Tablet responsiveness */
 @media (max-width: 768px) {
   body {
@@ -150,6 +183,11 @@ body::-webkit-scrollbar-thumb {
 
   main {
     padding: 1.75rem;
+  }
+
+  .button,
+  .buttonReverse {
+    font-size: 0.875rem;
   }
 }
 
@@ -161,5 +199,10 @@ body::-webkit-scrollbar-thumb {
 
   main {
     padding: 1.5rem;
+  }
+
+  .button,
+  .buttonReverse {
+    font-size: 0.75rem;
   }
 }

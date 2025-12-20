@@ -21,7 +21,7 @@ function Help() {
             <div className={styles.helpCard}>
               <h2 className={styles.cardTitle}>Orders</h2>
               <p className={styles.cardText}>Learn about placing and managing orders</p>
-              <Link to="/help/orders" className={styles.viewAllButton}>
+              <Link to="/help/orders" className="button">
                 View All
               </Link>
             </div>
@@ -30,7 +30,7 @@ function Help() {
             <div className={styles.helpCard}>
               <h2 className={styles.cardTitle}>Returns</h2>
               <p className={styles.cardText}>Learn about returning and refunding orders</p>
-              <Link to="/help/returns" className={styles.viewAllButton}>
+              <Link to="/help/returns" className="button">
                 View All
               </Link>
             </div>
@@ -39,7 +39,7 @@ function Help() {
             <div className={styles.helpCard}>
               <h2 className={styles.cardTitle}>Shipping</h2>
               <p className={styles.cardText}>Learn about shipping and delivery of orders</p>
-              <Link to="/help/shipping" className={styles.viewAllButton}>
+              <Link to="/help/shipping" className="button">
                 View All
               </Link>
             </div>

@@ -1,10 +1,10 @@
-Make header not snap when scrolling up
+Make universal button classes for consistency
+
+Make all text be 1rem, then 0.875rem, then 0.75rem
 
 Make back button component better:
 Make it be able to say whatever you want
 Make it be able to be placed anywhere without breaking layout
-
-Make universal button classes for consistency
 
 On account page, make sure error messages only pop up when the buttons are clicked
 
