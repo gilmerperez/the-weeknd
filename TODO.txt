@@ -1,7 +1,3 @@
-Make universal button classes for consistency
-
-Make all text be 1rem, then 0.875rem, then 0.75rem
-
 Make back button component better:
 Make it be able to say whatever you want
 Make it be able to be placed anywhere without breaking layout
