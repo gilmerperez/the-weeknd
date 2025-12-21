@@ -13,7 +13,7 @@ function Returns() {
       <main>
         <div className={styles.returnsContainer}>
           {/* Back button */}
-          <Back to="/help" pageName="Help" />
+          <Back to="/help" text="Back to help and support" />
 
           {/* Title */}
           <h1 className={styles.title}>Returns</h1>

@@ -13,7 +13,7 @@ function Orders() {
       <main>
         <div className={styles.ordersContainer}>
           {/* Back button */}
-          <Back to="/help" pageName="Help" />
+          <Back to="/help" text="Back to help and support" />
 
           {/* Title */}
           <h1 className={styles.title}>Orders</h1>

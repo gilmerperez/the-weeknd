@@ -13,7 +13,7 @@ function Shipping() {
       <main>
         <div className={styles.shippingContainer}>
           {/* Back button */}
-          <Back to="/help" pageName="Help" />
+          <Back to="/help" text="Back to help and support" />
 
           {/* Title */}
           <h1 className={styles.title}>Shipping</h1>
