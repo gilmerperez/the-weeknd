@@ -1,6 +1,7 @@
 import styles from "./Reset.module.css";
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
+import Back from "../../../components/Back/Back";
 
 function Reset() {
   // * Set page title
@@ -17,6 +18,8 @@ function Reset() {
         <div className={styles.resetContainer}>
           {/* Reset password section */}
           <div className={styles.resetSection}>
+            {/* Back button */}
+            <Back to="/account" text="Back to login" />
             {/* Title */}
             <h1 className={styles.sectionTitle}>Reset your password</h1>
             {/* Email field */}
@@ -32,10 +35,6 @@ function Reset() {
                 className={styles.input}
                 onChange={(e) => setEmail(e.target.value)}
               />
-              {/* Cancel link */}
-              <Link to="/account" className={styles.cancelLink}>
-                Cancel password reset
-              </Link>
             </div>
             {/* Reset password button */}
             <button type="button" className="button">

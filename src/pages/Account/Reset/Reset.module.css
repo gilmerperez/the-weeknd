@@ -21,6 +21,7 @@
 /* Title */
 .sectionTitle {
   font-size: 2.5rem;
+  margin-top: -1rem;
   transition: 0.3s ease;
   color: var(--text-primary);
 }
@@ -57,18 +58,6 @@
 
 .input::placeholder {
   color: var(--text-secondary);
-}
-
-/* Cancel link */
-.cancelLink {
-  font-size: 0.75rem;
-  margin-top: 0.25rem;
-  transition: 0.3s ease;
-  color: var(--text-secondary);
-}
-
-.cancelLink:hover {
-  color: var(--text-primary);
 }
 
 /* Tablet responsiveness */
