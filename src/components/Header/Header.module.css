@@ -3,20 +3,6 @@ header {
   padding: 1.5rem 2rem;
   transition: 0.3s ease;
   background-color: var(--header-bg-color);
-  will-change: transform;
-}
-
-header.sticky {
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1000;
-  position: fixed;
-  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
-}
-
-header.hidden {
-  transform: translateY(-100%);
 }
 
 .headerContainer {

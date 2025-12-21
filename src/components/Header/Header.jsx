@@ -35,67 +35,9 @@ function Header() {
   const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
   const [isMobileCollectionsOpen, setIsMobileCollectionsOpen] = useState(false);
 
-  // * Sticky header state
-  const [isSticky, setIsSticky] = useState(false);
-  const [isVisible, setIsVisible] = useState(true);
-
-  useEffect(() => {
-    let ticking = false;
-    let lastScrollY = window.scrollY;
-
-    // Update header state on scroll
-    const updateHeader = () => {
-      const scrollThreshold = 10; // Minimum scroll distance to trigger show/hide
-      const stickyThreshold = 5; // Small threshold to prevent flickering at top
-      const topThreshold = 150; // Always show header when near top
-      const currentScrollY = window.scrollY;
-
-      // Determine if header should be sticky (scrolled past initial position)
-      // Use a small threshold to prevent rapid toggling at the very top
-      setIsSticky(currentScrollY > stickyThreshold);
-
-      // Always show header when near the top to prevent glitching
-      if (currentScrollY <= topThreshold) {
-        setIsVisible(true);
-        lastScrollY = currentScrollY;
-        ticking = false;
-        return;
-      }
-
-      // Show/hide header based on scroll direction
-      if (Math.abs(currentScrollY - lastScrollY) > scrollThreshold) {
-        if (currentScrollY > lastScrollY && currentScrollY > 100) {
-          // Scrolling down - hide header
-          setIsVisible(false);
-        } else {
-          // Scrolling up - show header
-          setIsVisible(true);
-        }
-        lastScrollY = currentScrollY;
-      }
-      ticking = false;
-    };
-
-    // Update header state on scroll
-    const onScroll = () => {
-      if (!ticking) {
-        window.requestAnimationFrame(updateHeader);
-        ticking = true;
-      }
-    };
-
-    // Add scroll event listener
-    window.addEventListener("scroll", onScroll, { passive: true });
-
-    // Remove scroll event listener on unmount
-    return () => {
-      window.removeEventListener("scroll", onScroll);
-    };
-  }, []);
-
   return (
     <>
-      <header className={`${isSticky ? styles.sticky : ""} ${!isVisible ? styles.hidden : ""}`}>
+      <header>
         <div className={styles.headerContainer}>
           {/* Navigation */}
           <nav className={styles.navLeft}>
