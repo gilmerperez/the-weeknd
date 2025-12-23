@@ -70,7 +70,6 @@
   font-weight: 300;
   position: absolute;
   font-size: 0.875rem;
-  text-transform: none;
   pointer-events: none;
   transition: 0.3s ease;
   background-color: var(--bg-color);

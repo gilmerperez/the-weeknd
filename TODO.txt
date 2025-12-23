@@ -1,6 +1,3 @@
-Make back button component better:
-Make it be able to be placed anywhere without breaking layout
-
 On account page, make sure error messages only pop up when the buttons are clicked
 
 Add sticky header

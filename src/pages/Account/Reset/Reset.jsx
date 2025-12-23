@@ -19,7 +19,7 @@ function Reset() {
           {/* Reset password section */}
           <div className={styles.resetSection}>
             {/* Back button */}
-            <Back to="/account" text="Back to login" />
+            <Back to="/account" text="Back to account page" />
             {/* Title */}
             <h1 className={styles.sectionTitle}>Reset your password</h1>
             {/* Email field */}
