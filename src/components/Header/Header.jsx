@@ -1,3 +1,4 @@
+import Search from "../Search/Search";
 import styles from "./Header.module.css";
 import { createPortal } from "react-dom";
 import { useState, useEffect } from "react";
@@ -12,7 +13,7 @@ import {
 } from "react-icons/hi";
 
 function Header() {
-  // * Mobile menu state
+  // * Mobile menu logic
   const [menuOpen, setMenuOpen] = useState(false);
 
   // Close mobile menu when clicking outside
@@ -26,6 +27,9 @@ function Header() {
       document.body.style.overflow = "unset";
     };
   }, [menuOpen]);
+
+  // * Search state
+  const [searchOpen, setSearchOpen] = useState(false);
 
   // * Get current location to determine if on home page
   const location = useLocation();
@@ -107,7 +111,12 @@ function Header() {
           {/* Icons */}
           <div className={styles.navRight}>
             {/* Search */}
-            <button className={styles.iconButton} aria-label="Search">
+            <button
+              aria-label="Search"
+              aria-expanded={searchOpen}
+              className={styles.iconButton}
+              onClick={() => setSearchOpen(!searchOpen)}
+            >
               <HiOutlineSearch />
             </button>
             {/* Account */}
@@ -215,6 +224,9 @@ function Header() {
           </div>,
           document.body
         )}
+
+      {/* Search bar appears below header when search is open */}
+      {searchOpen && <Search />}
     </>
   );
 }
