@@ -13,6 +13,24 @@ import {
 } from "react-icons/hi";
 
 function Header() {
+  // * Get current location to determine if on home page
+  const location = useLocation();
+  const isHomePage = location.pathname === "/";
+
+  // * Collections dropdown state
+  const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
+  const [isMobileCollectionsOpen, setIsMobileCollectionsOpen] = useState(false);
+
+  // * Search logic
+  const [searchOpen, setSearchOpen] = useState(false);
+
+  // Close search when navigating to a new page
+  useEffect(() => {
+    setTimeout(() => {
+      setSearchOpen(false);
+    }, 0);
+  }, [location.pathname]);
+
   // * Mobile menu logic
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -27,17 +45,6 @@ function Header() {
       document.body.style.overflow = "unset";
     };
   }, [menuOpen]);
-
-  // * Search state
-  const [searchOpen, setSearchOpen] = useState(false);
-
-  // * Get current location to determine if on home page
-  const location = useLocation();
-  const isHomePage = location.pathname === "/";
-
-  // * Collections dropdown state
-  const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
-  const [isMobileCollectionsOpen, setIsMobileCollectionsOpen] = useState(false);
 
   return (
     <>
@@ -226,7 +233,7 @@ function Header() {
         )}
 
       {/* Search bar appears below header when search is open */}
-      {searchOpen && <Search />}
+      {searchOpen && <Search onClose={() => setSearchOpen(false)} />}
     </>
   );
 }

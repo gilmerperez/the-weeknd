@@ -5,6 +5,7 @@
   align-items: center;
   transition: 0.3s ease;
   justify-content: center;
+  animation: slideDown 0.3s ease;
 }
 
 .searchWrapper {
@@ -43,7 +44,23 @@
   height: 1.25rem;
   position: absolute;
   pointer-events: none;
-  color: hsl(0, 0%, 65%);
+  color: var(--text-secondary);
+}
+
+.searchWrapper:focus-within .searchIcon {
+  color: var(--text-primary);
+}
+
+/* Animations */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* Tablet responsiveness */
