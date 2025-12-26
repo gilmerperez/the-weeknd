@@ -2,6 +2,7 @@ import Search from "../Search/Search";
 import styles from "./Header.module.css";
 import { createPortal } from "react-dom";
 import { useState, useEffect } from "react";
+import Newsletter from "../Newsletter/Newsletter";
 import { useLocation, Link } from "react-router-dom";
 import {
   HiOutlineMenu,
@@ -30,6 +31,21 @@ function Header() {
       setSearchOpen(false);
     }, 0);
   }, [location.pathname]);
+
+  // * Newsletter logic
+  const [newsletterOpen, setNewsletterOpen] = useState(false);
+
+  // Prevent body scroll when newsletter is open
+  useEffect(() => {
+    if (newsletterOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "unset";
+    }
+    return () => {
+      document.body.style.overflow = "unset";
+    };
+  }, [newsletterOpen]);
 
   // * Mobile menu logic
   const [menuOpen, setMenuOpen] = useState(false);
@@ -131,7 +147,12 @@ function Header() {
               <HiOutlineUser />
             </Link>
             {/* Newsletter */}
-            <button className={styles.iconButton} aria-label="Newsletter">
+            <button
+              aria-label="Newsletter"
+              className={styles.iconButton}
+              aria-expanded={newsletterOpen}
+              onClick={() => setNewsletterOpen(true)}
+            >
               <HiOutlineMail />
             </button>
             {/* Shopping cart */}
@@ -232,8 +253,10 @@ function Header() {
           document.body
         )}
 
-      {/* Search bar appears below header when search is open */}
+      {/* Search bar */}
       {searchOpen && <Search onClose={() => setSearchOpen(false)} />}
+      {/* Newsletter modal */}
+      <Newsletter isOpen={newsletterOpen} onClose={() => setNewsletterOpen(false)} />
     </>
   );
 }
