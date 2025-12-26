@@ -307,7 +307,7 @@ function Newsletter({ isOpen, onClose }) {
           </div>
 
           {/* Submit button */}
-          <button type="submit" className={styles.submitButton}>
+          <button type="submit" className="buttonReverse">
             Submit
           </button>
 
