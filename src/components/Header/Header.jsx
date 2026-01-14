@@ -1,9 +1,12 @@
+"use client";
+
 import Search from "../Search/Search";
 import styles from "./Header.module.css";
 import { createPortal } from "react-dom";
 import { useState, useEffect } from "react";
 import Newsletter from "../Newsletter/Newsletter";
-import { useLocation, Link } from "react-router-dom";
+import { usePathname } from "next/navigation";
+import Link from "next/link";
 import {
   HiOutlineMenu,
   HiOutlineSearch,
@@ -15,8 +18,8 @@ import {
 
 function Header() {
   // * Get current location to determine if on home page
-  const location = useLocation();
-  const isHomePage = location.pathname === "/";
+  const pathname = usePathname();
+  const isHomePage = pathname === "/";
 
   // * Collections dropdown state
   const [isCollectionsOpen, setIsCollectionsOpen] = useState(false);
@@ -30,7 +33,7 @@ function Header() {
     setTimeout(() => {
       setSearchOpen(false);
     }, 0);
-  }, [location.pathname]);
+  }, [pathname]);
 
   // * Newsletter logic
   const [newsletterOpen, setNewsletterOpen] = useState(false);
@@ -70,7 +73,7 @@ function Header() {
           <nav className={styles.navLeft}>
             {/* Home */}
             {!isHomePage && (
-              <Link to="/" className={styles.navLink}>
+              <Link href="/" className={styles.navLink}>
                 Home
               </Link>
             )}
@@ -84,15 +87,15 @@ function Header() {
               Film
             </a>
             {/* Tour */}
-            <Link to="/tour" className={styles.navLink}>
+            <Link href="/tour" className={styles.navLink}>
               Tour
             </Link>
             {/* Music */}
-            <Link to="/music" className={styles.navLink}>
+            <Link href="/music" className={styles.navLink}>
               Music
             </Link>
             {/* Clothing */}
-            <Link to="/clothing" className={styles.navLink}>
+            <Link href="/clothing" className={styles.navLink}>
               Clothing
             </Link>
             {/* Collections */}
@@ -143,7 +146,7 @@ function Header() {
               <HiOutlineSearch />
             </button>
             {/* Account */}
-            <Link to="/account" className={styles.iconButton} aria-label="Account">
+            <Link href="/account" className={styles.iconButton} aria-label="Account">
               <HiOutlineUser />
             </Link>
             {/* Newsletter */}
@@ -186,7 +189,7 @@ function Header() {
               <nav className={styles.sidebarNav}>
                 {/* Home */}
                 {!isHomePage && (
-                  <Link to="/" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                  <Link href="/" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                     Home
                   </Link>
                 )}
@@ -201,15 +204,15 @@ function Header() {
                   Film
                 </a>
                 {/* Tour */}
-                <Link to="/tour" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link href="/tour" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   Tour
                 </Link>
                 {/* Music */}
-                <Link to="/music" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link href="/music" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   Music
                 </Link>
                 {/* Clothing */}
-                <Link to="/clothing" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link href="/clothing" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   Clothing
                 </Link>
                 {/* Collections */}
@@ -240,11 +243,11 @@ function Header() {
                 {/* Sidebar separator */}
                 <hr className={styles.sidebarSeparator} />
                 {/* Login */}
-                <Link to="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link href="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   Login
                 </Link>
                 {/* Create account */}
-                <Link to="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
+                <Link href="/account" className={styles.sidebarNavLink} onClick={() => setMenuOpen(false)}>
                   Create Account
                 </Link>
               </nav>

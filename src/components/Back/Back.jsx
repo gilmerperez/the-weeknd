@@ -1,5 +1,7 @@
+"use client";
+
 import styles from "./Back.module.css";
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { HiOutlineArrowLeft } from "react-icons/hi";
 
 function Back({ to, text, pageName = "LAST PAGE" }) {
@@ -8,7 +10,7 @@ function Back({ to, text, pageName = "LAST PAGE" }) {
 
   return (
     <>
-      <Link to={to} className={styles.backContainer}>
+      <Link href={to} className={styles.backContainer}>
         <span className={styles.backIcon}>
           <HiOutlineArrowLeft />
         </span>

@@ -1,3 +1,5 @@
+"use client";
+
 import styles from "./Search.module.css";
 import { useRef, useEffect } from "react";
 import { HiOutlineSearch } from "react-icons/hi";

@@ -1,4 +1,6 @@
-import { Link } from "react-router-dom";
+"use client";
+
+import Link from "next/link";
 import styles from "./Footer.module.css";
 import { useState, useEffect } from "react";
 import { FaXTwitter } from "react-icons/fa6";
@@ -9,26 +11,33 @@ import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 function Footer({ onCookieChoicesClick }) {
   // * Theme state
   const getInitialTheme = () => {
+    if (typeof window === "undefined") return "dark";
     const storedTheme = localStorage.getItem("theme");
     if (storedTheme) return storedTheme;
     const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
     return prefersDark ? "dark" : "light";
   };
 
-  const [theme, setTheme] = useState(() => {
+  const [theme, setTheme] = useState("dark");
+
+  // Initialize theme on mount
+  useEffect(() => {
     const initialTheme = getInitialTheme();
+    setTheme(initialTheme);
     document.documentElement.setAttribute("data-theme", initialTheme);
-    return initialTheme;
-  });
+  }, []);
 
   // Save theme to localStorage and update DOM
   useEffect(() => {
-    document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("theme", theme);
+    if (typeof window !== "undefined") {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem("theme", theme);
+    }
   }, [theme]);
 
   // Listen for system theme changes
   useEffect(() => {
+    if (typeof window === "undefined") return;
     const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
     const handleChange = (e) => {
       if (!localStorage.getItem("theme")) {
@@ -133,11 +142,11 @@ function Footer({ onCookieChoicesClick }) {
           {/* Navigation links */}
           <nav className={styles.navLinks}>
             {/* Terms */}
-            <Link to="/terms" className={styles.navLink}>
+            <Link href="/terms" className={styles.navLink}>
               Terms
             </Link>
             {/* Privacy */}
-            <Link to="/privacy" className={styles.navLink}>
+            <Link href="/privacy" className={styles.navLink}>
               Privacy
             </Link>
             {/* Cookie choices */}
@@ -145,11 +154,11 @@ function Footer({ onCookieChoicesClick }) {
               Cookie Choices
             </button>
             {/* Help and support */}
-            <Link to="/help" className={styles.navLink}>
+            <Link href="/help" className={styles.navLink}>
               Help and Support
             </Link>
             {/* Do not sell my information */}
-            <Link to="/legal" className={styles.navLink}>
+            <Link href="/legal" className={styles.navLink}>
               Do Not Sell My Information
             </Link>
           </nav>

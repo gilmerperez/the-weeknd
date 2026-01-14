@@ -1,4 +1,7 @@
-import { Link } from "react-router-dom";
+"use client";
+
+import Link from "next/link";
+import Image from "next/image";
 import styles from "./Cookies.module.css";
 
 function Cookies({ isOpen, onClose }) {
@@ -13,7 +16,14 @@ function Cookies({ isOpen, onClose }) {
       <div className={styles.cookiesContainer}>
         {/* UMG logo */}
         <div className={styles.logoContainer}>
-          <img src="/images/umg/umg-logo.png" alt="Universal Music Group Logo" className={styles.logo} />
+          <Image
+            src="/images/umg/umg-logo.png"
+            alt="Universal Music Group Logo"
+            width={200}
+            height={200}
+            className={styles.logo}
+            priority
+          />
         </div>
 
         {/* Information we collect about you */}
@@ -22,7 +32,7 @@ function Cookies({ isOpen, onClose }) {
           <p className={styles.paragraph}>
             We want to be transparent about the data we and our partners collect and how we use it, so you can best
             exercise control over your personal data. For more information, please see our{" "}
-            <Link to="/privacy" target="_blank" rel="noopener noreferrer" className={styles.link}>
+            <Link href="/privacy" target="_blank" rel="noopener noreferrer" className={styles.link}>
               Privacy Policy
             </Link>
             .

@@ -1,4 +1,4 @@
-.termsContainer {
+.ordersContainer {
   width: 100%;
   display: flex;
   margin: 0 auto;
@@ -15,27 +15,30 @@
   transition: 0.3s ease;
 }
 
-/* Terms and conditions of sale */
-.paragraph {
+.questionsContainer {
   line-height: 1.5;
   margin-bottom: 1rem;
+}
+
+.questionsContainer:last-child {
+  margin-bottom: 0rem;
+}
+
+/* Question */
+.question {
   transition: 0.3s ease;
+  margin-bottom: 0.25rem;
+}
+
+/* Answer */
+.answer {
+  transition: 0.3s ease;
+  margin-bottom: 0.5rem;
   color: var(--text-secondary);
 }
 
-.paragraph:last-child {
+.answer:last-child {
   margin-bottom: 0;
-}
-
-.underline {
-  transition: 0.3s ease;
-  color: var(--text-secondary);
-  border-bottom: 1px solid var(--text-secondary);
-}
-
-.underline:hover {
-  color: var(--text-primary);
-  border-bottom: 1px solid var(--text-primary);
 }
 
 /* Tablet responsiveness */

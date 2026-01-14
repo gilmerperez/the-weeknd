@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 import { HiX } from "react-icons/hi";
 import styles from "./Newsletter.module.css";

@@ -1,0 +1,83 @@
+/* Tour color variables */
+.latinAmericaTour {
+  --tour-text-color: var(--tour-latin-america);
+}
+
+.europeTour {
+  --tour-text-color: var(--tour-europe);
+}
+
+.tourContainer {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  min-height: 75vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Tour banner */
+.bannerContainer {
+  width: 100%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.bannerContainer:first-child {
+  margin-top: -2rem;
+}
+
+.bannerImage {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.bannerImageWide {
+  display: block;
+}
+
+.bannerImageTall {
+  display: none;
+}
+
+/* Concerts list */
+.concertsContainer {
+  gap: 1rem;
+  width: 100%;
+  display: flex;
+  max-width: 1200px;
+  transition: 0.3s ease;
+  flex-direction: column;
+  color: var(--tour-text-color);
+}
+
+@media (max-width: 950px) {
+  .concertsContainer {
+    gap: 2rem;
+  }
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+  .bannerContainer:first-child {
+    margin-top: -1.75rem;
+  }
+
+  /* Switch tour banner image */
+  .bannerImageWide {
+    display: none;
+  }
+
+  .bannerImageTall {
+    display: block;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  .bannerContainer:first-child {
+    margin-top: -1.5rem;
+  }
+}
