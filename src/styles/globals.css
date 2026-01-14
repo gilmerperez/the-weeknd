@@ -1,0 +1,208 @@
+/* Bebas Neue font */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+/* Inter font */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+/* Dark theme */
+html[data-theme="dark"] {
+  --bg-color: hsl(0, 0%, 3%);
+  --text-primary: hsl(48, 33%, 97%);
+  --text-secondary: hsl(46, 21%, 88%);
+  --header-bg-color: hsl(0, 0%, 3%);
+  --footer-bg-color: hsl(0, 0%, 3%);
+  --tour-latin-america: hsl(63, 12%, 65%);
+  --tour-europe: hsl(191, 19%, 77%);
+}
+
+/* Light theme */
+html[data-theme="light"] {
+  --bg-color: hsl(0, 0%, 97%);
+  --text-primary: hsl(0, 0%, 10%);
+  --text-secondary: hsl(0, 0%, 20%);
+  --header-bg-color: hsl(0, 0%, 97%);
+  --footer-bg-color: hsl(0, 0%, 97%);
+  --tour-latin-america: hsl(63, 15%, 35%);
+  --tour-europe: hsl(191, 25%, 30%);
+}
+
+/* Universal reset - Applies to all elements and pseudo-elements */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Root element - Affects the entire page's scroll behavior and base size */
+html {
+  height: 100%;
+  font-size: 16px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+/* Body - Base font family, and layout behavior */
+body {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  min-height: 100vh;
+  overflow-x: hidden;
+  flex-direction: column;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  font-family: "Inter", sans-serif;
+  background-color: var(--bg-color);
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Main - Base layout for page content */
+main {
+  width: 100%;
+  padding: 2rem;
+  transition: 0.3s ease;
+  background-color: var(--bg-color);
+}
+
+/* Horizontal rule */
+hr {
+  border: none;
+}
+
+/* Links - Resetting default styles and hover behavior */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Buttons - Ensures buttons appear clickable */
+button {
+  color: inherit;
+  cursor: pointer;
+  text-transform: inherit;
+  background-color: inherit;
+}
+
+/* Lists - Removes default bullet styles */
+ul,
+ol {
+  list-style: none;
+}
+
+input,
+textarea {
+  text-transform: none;
+}
+
+/* Form elements - Normalize font and remove default borders */
+input,
+select,
+button,
+textarea {
+  border: none;
+  font: inherit;
+  outline: none;
+}
+
+/* Media elements - Ensures media doesn’t overflow and stays responsive */
+svg,
+img,
+video,
+canvas,
+picture {
+  height: auto;
+  display: block;
+  max-width: 100%;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+/* Scrollbar */
+body::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--text-primary);
+}
+
+/* Custom button styles */
+.button {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.875rem;
+  transition: 0.3s ease;
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+}
+
+.button:hover {
+  color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+  background-color: var(--text-primary);
+}
+
+.buttonReverse {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.875rem;
+  transition: 0.3s ease;
+  color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+  background-color: var(--text-primary);
+}
+
+.buttonReverse:hover {
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+  body {
+    font-size: 0.875rem;
+  }
+
+  main {
+    padding: 1.75rem;
+  }
+
+  .button,
+  .buttonReverse {
+    font-size: 0.875rem;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  body {
+    font-size: 0.75rem;
+  }
+
+  main {
+    padding: 1.5rem;
+  }
+
+  .button,
+  .buttonReverse {
+    font-size: 0.75rem;
+  }
+}

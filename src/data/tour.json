@@ -1,0 +1,358 @@
+[
+  {
+    "id": "after-hours-til-dawn-latin-america-2026",
+    "title": "After Hours Til Dawn",
+    "region": "Latin America",
+    "year": 2026,
+    "bannerImageWide": "/images/tour/after-hours-til-dawn-latin-america-2026-tour-poster-wide.jpg",
+    "bannerImageTall": "/images/tour/after-hours-til-dawn-latin-america-2026-tour-poster-tall.jpg",
+    "concerts": [
+      {
+        "date": "Monday, April 20th",
+        "stadium": "Estadio GNP Seguros",
+        "location": "Mexico City, Mexico",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Tuesday, April 21st",
+        "stadium": "Estadio GNP Seguros",
+        "location": "Mexico City, Mexico",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Wednesday, April 22nd",
+        "stadium": "Estadio GNP Seguros",
+        "location": "Mexico City, Mexico",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, April 26th",
+        "stadium": "Estádio Nilton Santos",
+        "location": "Rio de Janeiro, Brazil",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Thursday, April 30th",
+        "stadium": "Estádio Morumbis",
+        "location": "São Paulo, Brazil",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, May 1st",
+        "stadium": "Estádio Morumbis",
+        "location": "São Paulo, Brazil",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      }
+    ]
+  },
+  {
+    "id": "after-hours-til-dawn-europe-2026",
+    "title": "After Hours Til Dawn",
+    "region": "Europe",
+    "year": 2026,
+    "bannerImageWide": "/images/tour/after-hours-til-dawn-europe-2026-tour-poster-wide.jpg",
+    "bannerImageTall": "/images/tour/after-hours-til-dawn-europe-2026-tour-poster-tall.jpg",
+    "concerts": [
+      {
+        "date": "Thursday, June 11th",
+        "stadium": "Etihad Stadium",
+        "location": "Manchester, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, June 12th",
+        "stadium": "Etihad Stadium",
+        "location": "Manchester, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, June 19th",
+        "stadium": "Parken",
+        "location": "Copenhagen, Denmark",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, June 20th",
+        "stadium": "Parken",
+        "location": "Copenhagen, Denmark",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Thursday, June 25th",
+        "stadium": "Allianz Arena",
+        "location": "Munich, Germany",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, June 26th",
+        "stadium": "Allianz Arena",
+        "location": "Munich, Germany",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, June 27th",
+        "stadium": "Allianz Arena",
+        "location": "Munich, Germany",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, July 3rd",
+        "stadium": "Stade Pierre Mauroy",
+        "location": "Lille, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, July 4th",
+        "stadium": "Stade Pierre Mauroy",
+        "location": "Lille, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Wednesday, July 8th",
+        "stadium": "Stade de France",
+        "location": "Paris, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, July 10th",
+        "stadium": "Stade de France",
+        "location": "Paris, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, July 11th",
+        "stadium": "Stade de France",
+        "location": "Paris, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, July 12th",
+        "stadium": "Stade de France",
+        "location": "Paris, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Thursday, July 16th",
+        "stadium": "Johan Cruijff Arena",
+        "location": "Amsterdam, Netherlands",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, July 17th",
+        "stadium": "Johan Cruijff Arena",
+        "location": "Amsterdam, Netherlands",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, July 18th",
+        "stadium": "Johan Cruijff Arena",
+        "location": "Amsterdam, Netherlands",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Tuesday, July 21st",
+        "stadium": "Allianz Riviera",
+        "location": "Nice, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Wednesday, July 22nd",
+        "stadium": "Allianz Riviera",
+        "location": "Nice, France",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, July 24th",
+        "stadium": "San Siro Stadium",
+        "location": "Milan, Italy",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, July 25th",
+        "stadium": "San Siro Stadium",
+        "location": "Milan, Italy",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, July 26th",
+        "stadium": "San Siro Stadium",
+        "location": "Milan, Italy",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Thursday, July 30th",
+        "stadium": "Deutsche Bank Park",
+        "location": "Frankfurt, Germany",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, July 31st",
+        "stadium": "Deutsche Bank Park",
+        "location": "Frankfurt, Germany",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, August 1st",
+        "stadium": "Deutsche Bank Park",
+        "location": "Frankfurt, Germany",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Tuesday, August 4th",
+        "stadium": "PGE Narodowy",
+        "location": "Warsaw, Poland",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Wednesday, August 5th",
+        "stadium": "PGE Narodowy",
+        "location": "Warsaw, Poland",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, August 8th",
+        "stadium": "Strawberry Arena",
+        "location": "Stockholm, Sweden",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, August 9th",
+        "stadium": "Strawberry Arena",
+        "location": "Stockholm, Sweden",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Monday, August 10th",
+        "stadium": "Strawberry Arena",
+        "location": "Stockholm, Sweden",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, August 14th",
+        "stadium": "Wembley Stadium",
+        "location": "London, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, August 15th",
+        "stadium": "Wembley Stadium",
+        "location": "London, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, August 16th",
+        "stadium": "Wembley Stadium",
+        "location": "London, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Tuesday, August 18th",
+        "stadium": "Wembley Stadium",
+        "location": "London, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Wednesday, August 19th",
+        "stadium": "Wembley Stadium",
+        "location": "London, UK",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, August 22nd",
+        "stadium": "Croke Park",
+        "location": "Dublin, Ireland",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, August 23rd",
+        "stadium": "Croke Park",
+        "location": "Dublin, Ireland",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Friday, August 28th",
+        "stadium": "Riyadh Air Metropolitano",
+        "location": "Madrid, Spain",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, August 29th",
+        "stadium": "Riyadh Air Metropolitano",
+        "location": "Madrid, Spain",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, August 30th",
+        "stadium": "Riyadh Air Metropolitano",
+        "location": "Madrid, Spain",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Tuesday, September 1st",
+        "stadium": "Estadi Olímpic Lluís Companys",
+        "location": "Barcelona, Spain",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Saturday, September 5th",
+        "stadium": "Estadio do Restelo",
+        "location": "Lisbon, Portugal",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      },
+      {
+        "date": "Sunday, September 6th",
+        "stadium": "Estadio do Restelo",
+        "location": "Lisbon, Portugal",
+        "ticketsLink": "#",
+        "vipTicketsLink": "#"
+      }
+    ]
+  }
+]

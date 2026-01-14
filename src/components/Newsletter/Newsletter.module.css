@@ -1,0 +1,203 @@
+.overlay {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  position: fixed;
+  animation: fadeIn 0.3s ease;
+  background-color: hsla(0, 0%, 0%, 0.75);
+}
+
+.newsletterContainer {
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  z-index: 9999;
+  padding: 2rem;
+  display: flex;
+  position: fixed;
+  max-width: 500px;
+  align-items: center;
+  transition: 0.3s ease;
+  flex-direction: column;
+  animation: slideIn 0.3s ease;
+  transform: translate(-50%, -50%);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-primary);
+}
+
+/* Close button */
+.closeButton {
+  top: 2rem;
+  right: 2rem;
+  display: flex;
+  font-size: 1.5rem;
+  position: absolute;
+  align-items: center;
+  transition: 0.3s ease;
+  justify-content: center;
+  color: var(--text-primary);
+  background-color: transparent;
+}
+
+.closeButton:hover {
+  transform: scale(1.25);
+  color: var(--text-secondary);
+}
+
+/* Form */
+.form {
+  gap: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Heading */
+.heading {
+  font-size: 2.5rem;
+  text-align: center;
+  transition: 0.3s ease;
+  color: var(--text-primary);
+}
+
+/* Form group */
+.formGroup {
+  gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Form label */
+.label {
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+/* Form input */
+.input {
+  width: 100%;
+  font-weight: 300;
+  font-size: 0.875rem;
+  padding: 0.75rem 1rem;
+  transition: 0.3s ease;
+  color: var(--text-primary);
+  background-color: var(--bg-color);
+  border: 1px solid var(--text-secondary);
+}
+
+.input:focus {
+  border: 1px solid var(--text-primary);
+}
+
+.input::placeholder {
+  color: var(--text-secondary);
+}
+
+/* Country dropdown */
+.select {
+  width: 100%;
+  cursor: pointer;
+  appearance: none;
+  font-weight: 300;
+  font-size: 0.875rem;
+  padding: 0.75rem 1rem;
+  transition: 0.3s ease;
+  color: var(--text-primary);
+  background-repeat: no-repeat;
+  background-color: var(--bg-color);
+  background-position: right 1rem center;
+  border: 1px solid var(--text-secondary);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23ffffff' d='M6 9L1 4h10z'/%3E%3C/svg%3E");
+}
+
+.select:focus {
+  border: 1px solid var(--text-primary);
+}
+
+.select option {
+  font-weight: 300;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  background-color: var(--bg-color);
+}
+
+/* Subscription options */
+.subscriptionSection {
+  gap: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.subscriptionTitle {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+/* Checkbox group */
+.checkboxGroup {
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.checkboxLabel {
+  gap: 0.5rem;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  transition: 0.3s ease;
+}
+
+.checkbox {
+  width: 1rem;
+  height: 1rem;
+  cursor: pointer;
+  accent-color: var(--text-secondary);
+}
+
+.checkboxText {
+  font-size: 0.875rem;
+  transition: 0.3s ease;
+  color: var(--text-primary);
+}
+
+/* Legal text */
+.legalText {
+  width: 100%;
+  font-weight: 300;
+  font-size: 0.75rem;
+  text-align: center;
+  transition: 0.3s ease;
+  color: var(--text-secondary);
+}
+
+/* Animations */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Tablet responsiveness */
+@media (max-width: 768px) {
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {}
